@@ -1,9 +1,3 @@
----
-description: >-
-  Adjust your water with the water calculator that is built into the recipe
-  designer
----
-
 # Water Calculator
 
 ## Set up your Source water profile
