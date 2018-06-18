@@ -10,6 +10,8 @@
 * Update recipe from original recipe in batch
 * Color on mash and sparge misc additions in brew-sheet
 * Water calculator: If no target is selected AUTO button will make a target based on the selected style \(average of max and min values per mineral\)
+* Mash Tun Loss \(Unrecoverable\) as a field in the equipment profile and water formulas
+* Test Feature: Account for boil temperature water density for boil volume in pre-boil gravity calculation \(located at the bottom in the equipment profile - should result in more accurate estimated pre-boil gravity\)
 
 ### Fixed
 
