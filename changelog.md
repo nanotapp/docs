@@ -5,10 +5,15 @@
 ### Features
 
 * Brew Timer
+* Duplicate batch
+* Save button at upper toolbar in desktop mode \(recipe\)
+* Update recipe from original recipe in batch
+* Color on mash and sparge misc additions in brew-sheet
+* Water calculator: If no target is selected AUTO button will make a target based on the selected style \(average of max and min values per mineral\)
 
 ### Fixed
 
-* Nothing yet
+* Batch notes will now sort chronological \(descending\)
 
 ## 1.1.5 - 15.06.2018 {#coming-soon}
 
@@ -16,6 +21,7 @@
 
 * Fix month not setting correctly when editing batch note time
 * Fix clone/copying recipe not working
+* Grains with mash time set did not show in water calculator. Grains with &gt; 20 minutes will now show in water calculator
 
 ## 1.1.3 - 14.06.2018
 
