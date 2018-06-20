@@ -43,7 +43,7 @@
 * [Account](account/README.md)
   * [Subscription](account/subscription.md)
 * [Integrations](integrations/README.md)
-  * [Tilt Hydrometer](integrations/tilt-hydrometer.md)
+  * [Tilt Hydrometer](integrations/tilt.md)
   * [iSpindel](integrations/ispindel.md)
   * [BrewPiLess](integrations/brewpiless.md)
   * [Custom API Endpoint](integrations/custom-api-endpoint.md)
