@@ -5,7 +5,16 @@
 ### Features
 
 * Brew Timer
-* Duplicate batch
+
+### Fixed
+
+* Nothing yet
+
+## 1.1.6 - 21.06.2018 {#coming-soon}
+
+### Features
+
+* Duplicate batch button
 * Save button at upper toolbar in desktop mode \(recipe\)
 * Update recipe from original recipe in batch
 * Color on mash and sparge misc additions in brew-sheet
