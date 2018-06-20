@@ -8,3 +8,11 @@ Drop your Tilt in the fermenter or a glass of water, go into the settings page i
 
 **Never log more than once every 15 minutes**, request logged more often than that will be ignored. This is the default value of the Tilt.
 
+### Tilt Phone App Setup
+
+
+
+### TiltPi Setup
+
+![](../.gitbook/assets/tiltpi_setup_brewfather.PNG)
+
