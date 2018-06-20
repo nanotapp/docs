@@ -30,6 +30,8 @@ Brewfather includes
 * Integrated **water adjustment calculator**
 * And **many more** tools and features to help your brewing!
 
+![Multi-device support, use it on your desktop and mobile devices](.gitbook/assets/p4150129.jpg)
+
 ## Why Brewfather? {#why-brewfather-}
 
 Brewfather believes designing your recipes and tracking your batches should be easy and fun with easy access from all your devices with no hassle.
@@ -69,4 +71,6 @@ Brewfather is made by Thomas Gangsøy from Norway, professional developer, and b
 {% hint style="info" %}
 The documentation for Brewfather is currently not complete. It is currently in the process of being written.
 {% endhint %}
+
+![Monitor your brews with Brewfather&apos;s integrations](.gitbook/assets/image%20%2831%29.png)
 
