@@ -104,7 +104,7 @@ This section allows you to adjust your mash pH down by Lactic or Phosphoric acid
 
 ![](../.gitbook/assets/image%20%289%29.png)
 
-This section allows you to get a calculated amount for how much acid to add to your sparge water to reach a desired target pH. Enter your source pH and target pH.
+This section allows you to get a calculated amount for how much acid to add to your sparge water to reach a desired target pH. Enter your source pH and sparge water target pH. Usually you want your sparge water pH between 5.5 and 6 to reduce tannin extraction.
 
 ## Save adjustments to your recipe
 
