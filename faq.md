@@ -26,35 +26,21 @@ Easy! Just change batch size or efficiency in your equipment profile within a re
 
 ## How do i set up my Tilt Hydrometer to work with Brewfather?
 
-Drop your Tilt in the fermenter or a glass of water, go into the settings page in [Brewfather APP](https://web.brewfather.app), enable Tilt. You will then get a cloud URL that you need to copy into the **Cloud URL** in your Tilt-app or TiltPi settings. You then need to enter your **batch number** as the beer name in your Tilt-app or TiltPi settings. Write a comment and click enter/send to log immediately.
+See the Tilt Hydrometer page for setup instructions.
 
-**Never log more than once every 15 minutes**, request logged more often than that will be ignored. This is the default value of the Tilt.
+{% page-ref page="integrations/tilt-hydrometer.md" %}
 
 ## How do i set up my iSpindel to work with Brewfather?
 
-Go into the settings page in [Brewfather APP](https://web.brewfather.app), enable iSpindel. You will then get a **Server Address** and **Server URL** that you need to copy into the iSpindel configuration page.
+See the iSpindel page for setup instructions.
 
-Set your iSpidel in configuration mode, you can then access your iSpindel by WiFi.
-
-In the iSpindel configuration page enter any **name** you want, set **Service Type**: **HTTP**, **Port**: **80**, **Update intervall**: **900**, copy the Server Address and Server URL from the Brewfather settings.
-
-Make sure your polynomial contains your fully calibrated formula. And make sure your Wifi-settings are correct. Click save.
-
-Your iSpindel should then log every 15 minutes.
-
-After the iSpindel has done its first logging to Brewfather, it will appear in the device list located in your Batch &gt; Fermentation &gt; Readings &gt; **Devices**. Click on the Devices button and attatch your iSpindel to the batch. The next time your iSpindel logs, it will show up in your batch!
-
-**Never log more than once every 15 minutes**, request logged more often than that will be ignored.
+{% page-ref page="integrations/ispindel.md" %}
 
 ## How do i set up my Brewpiless to work with Brewfather?
 
-Go into the settings page in [Brewfather APP](https://web.brewfather.app), enable Brewpiless. You will then get a **URL**, **Data Type** and **Format** that you need to copy into the Brewpiless remote logging configuration page.
+See the Brewpiless page for setup instructions
 
-**Set log time period to 900 seconds**. Your Brewpiless should then log every 15 minutes.
-
-After the Brewpiless has done its first logging to Brewfather, it will appear in the device list located in your Batch &gt; Fermentation &gt; Readings &gt; **Devices**. Click on the Devices button and attatch your Brewpiless to the batch. The next time your Brewpiless logs, it will show up in your batch!
-
-**Never log more than once every 15 minutes**, request logged more often than that will be ignored.
+{% page-ref page="integrations/brewpiless.md" %}
 
 ## Android or iOS app?
 
