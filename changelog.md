@@ -16,6 +16,8 @@
 ### Fixed
 
 * Batch notes will now sort chronological \(descending\)
+* Volume 0 for sparge water in water calculator now handeled correctly
+* Carbonation calculator at 0 degrees now works
 
 ## 1.1.5 - 15.06.2018 {#coming-soon}
 
