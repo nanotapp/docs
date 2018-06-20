@@ -14,7 +14,7 @@ Normally you do not want to start adjusting your water until the rest of your re
 
 This will open the water calculator.
 
-![](../.gitbook/assets/image%20%2825%29.png)
+![](../.gitbook/assets/image%20%2826%29.png)
 
 At the top you will see your current mash water room temperature pH. **All pH values should be measured when the wort is cooled down to room temperature**.
 
@@ -22,13 +22,13 @@ There is a cog icon which allows you to change some settings regarding the water
 
 ## Grains
 
-![](../.gitbook/assets/image%20%2827%29.png)
+![](../.gitbook/assets/image%20%2828%29.png)
 
 The fist section of the water calculator shows your grain bill, and the calculator automatically assigns a grain type to it. Verify that the grain and **grain color** matches the grains you will be using, and that the **grain type** is correct.
 
 If you use any **crystal**, **roasted** or **acidulated malt**, make sure they are assigned the right category as they have a big impact on the estimated pH. Adjust if needed.
 
-![](../.gitbook/assets/image%20%2823%29.png)
+![](../.gitbook/assets/image%20%2824%29.png)
 
 You can also ignore the grain, making it not count towards the pH calculation. Usefull if you are just steeping that specific grain.
 
@@ -112,7 +112,7 @@ The data entered in the water calculator is saved to your recipe, so you can eas
 
 To automatically save your ingredients to the Misc section of your recipe. Click the green **Save adjustments to recipe** button at the bottom.
 
-![BOOM. Adjustments saved to your recipe. Ready to brew!](../.gitbook/assets/image%20%2828%29.png)
+![BOOM. Adjustments saved to your recipe. Ready to brew!](../.gitbook/assets/image%20%2829%29.png)
 
 ## Water Settings
 

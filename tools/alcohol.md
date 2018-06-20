@@ -1,4 +1,4 @@
 # Alcohol
 
-![Enter OG and FG to get important stats about your product](../.gitbook/assets/image%20%2829%29.png)
+![Enter OG and FG to get important stats about your product](../.gitbook/assets/image%20%2830%29.png)
 
