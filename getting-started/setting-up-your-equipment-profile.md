@@ -32,7 +32,7 @@
 
 **Mash Efficiency:** The efficiency of your mash procedure, up to pre-boil, including sparging. Important factor in calculating your Pre-Boil Gravity.
 
-It is recommended to automatically calculate your mash efficiency by enabeling the **Calc mash efficiency** checkbox.
+It is recommended to automatically calculate your mash efficiency by enabling the **Calc mash efficiency** checkbox.
 
 
 
