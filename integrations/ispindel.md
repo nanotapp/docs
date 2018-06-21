@@ -1,5 +1,5 @@
 ---
-description: Ho to set up iSpindel
+description: How to set up iSpindel
 ---
 
 # iSpindel
