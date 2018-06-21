@@ -1,6 +1,6 @@
 # Setting up your equipment profile
 
-![Equipment profile is customizable to get the right numbers for your system](../.gitbook/assets/image%20%2826%29.png)
+![Equipment profile is customizable to get the right numbers for your system](../.gitbook/assets/image%20%2827%29.png)
 
 **Name:** Name for your equipment profile
 
