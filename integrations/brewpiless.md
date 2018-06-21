@@ -1,5 +1,5 @@
 ---
-description: Hot to set up BrewPiLess
+description: How to set up BrewPiLess
 ---
 
 # BrewPiLess
