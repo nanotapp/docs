@@ -10,9 +10,9 @@ Drop your Tilt in the fermenter or a glass of water, go into the settings page i
 
 ### Tilt Phone App Setup
 
-![Set Beer Name, and Logging URL, and click Post Comment to start logging](../.gitbook/assets/tilt_phone.jpg)
+![Set Beer Name \(batch number\), and Logging URL, and click Post Comment to start logging](../.gitbook/assets/tilt_phone.jpg)
 
 ### TiltPi Setup
 
-![](../.gitbook/assets/tiltpi_setup_brewfather.PNG)
+![Set Beer Name \(batch number\), Set Cloud URL, write a comment ant click RETURN to start logging](../.gitbook/assets/tiltpi_setup_brewfather.PNG)
 
