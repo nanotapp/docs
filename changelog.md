@@ -10,6 +10,17 @@
 
 * Nothing yet
 
+## 1.1.7 - 22.06.2018 {#coming-soon}
+
+### Features
+
+* Added grain category in fermentables for grains, used in water calculator and FG estimation. If left blank it will be set automatically based on name and color
+* Improved FG estimation for Munich base malt
+
+### Fixed
+
+* Yeast calculator \(only when opened from recipe designer\) giving too high target cell count when using US gal or Imperial gal, now works correctly for all units
+
 ## 1.1.6 - 21.06.2018 {#coming-soon}
 
 ### Features
