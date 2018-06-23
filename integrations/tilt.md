@@ -14,5 +14,11 @@ Drop your Tilt in the fermenter or a glass of water, go into the settings page i
 
 ### TiltPi Setup
 
-![Set Beer Name \(batch number\), Set Cloud URL, write a comment ant click RETURN to start logging](../.gitbook/assets/tiltpi_setup_brewfather.PNG)
+1. Select TILT **color**
+2. Set beer name to your **batch number**
+3. Paste your **Cloud URL**
+4. Time interval **15 minutes** or more
+5. **Enable** start logging to the cloud
+
+![](../.gitbook/assets/image%20%2811%29.png)
 
