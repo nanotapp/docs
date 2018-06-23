@@ -2,8 +2,7 @@
 
 Watch the introduction and walktrough video made by Hop Rod Garage 
 
-<iframe src="https://www.youtube.com/embed/GMNkHXhClX4" width="700" height="450" title="Brewfather video" />
-
+[![Brewfather](http://img.youtube.com/vi/GMNkHXhClX4/0.jpg)](http://www.youtube.com/watch?v=GMNkHXhClX4 "Brewfather Introduction and Walktrough")
 
 
 [https://youtu.be/GMNkHXhClX4](https://youtu.be/GMNkHXhClX4) \(English spoken version\)
