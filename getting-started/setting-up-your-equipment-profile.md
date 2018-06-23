@@ -22,7 +22,7 @@
 
 **Mash-Tun Deadspace:** Recoverable deadspace volume in your mash-tun
 
-**Mash-Tun Loss:** **Un**recoverable deadspace voume in your mash-tun
+**Mash-Tun Loss:** **Un**recoverable deadspace volume in your mash-tun and/or mash volume lost in your mash process
 
 **Fermenter Loss:** Expected loss from fermenter to bottle/keg
 
