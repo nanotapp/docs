@@ -1,7 +1,3 @@
----
-description: How to set up BrewPiLess
----
-
 # BrewPiLess
 
 Go into the settings page in [Brewfather APP](https://web.brewfather.app/), enable Brewpiless. You will then get a **URL**, **Data Type** and **Format** that you need to copy into the Brewpiless remote logging configuration page.

@@ -28,7 +28,7 @@ Easy! Just change batch size or efficiency in your equipment profile within a re
 
 See the Tilt Hydrometer page for setup instructions.
 
-{% page-ref page="integrations/tilt.md" %}
+{% page-ref page="integrations/tilt-hydrometer.md" %}
 
 ## How do i set up my iSpindel to work with Brewfather?
 

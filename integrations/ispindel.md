@@ -1,7 +1,3 @@
----
-description: How to set up iSpindel
----
-
 # iSpindel
 
 Go into the settings page in [Brewfather APP](https://web.brewfather.app/), enable iSpindel. You will then get a **Server Address** and **Server URL** that you need to copy into the iSpindel configuration page.

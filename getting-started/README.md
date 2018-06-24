@@ -6,7 +6,7 @@
 
 {% page-ref page="creating-a-new-recipe.md" %}
 
-{% page-ref page="../integrations/tilt.md" %}
+{% page-ref page="../integrations/tilt-hydrometer.md" %}
 
 {% page-ref page="../recipes/water-calculator.md" %}
 
