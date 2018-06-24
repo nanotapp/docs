@@ -16,7 +16,7 @@ Drop your Tilt in the fermenter or a glass of water, go into the settings page i
 4. Time interval **15 minutes** or more
 5. **Enable** start logging to the cloud
 
-Make sure "Use Default Cloud URL for all is **OFF**.
+Make sure "Use Default Cloud URL for All" is **OFF**.
 
 ![](../.gitbook/assets/image%20%2811%29.png)
 
