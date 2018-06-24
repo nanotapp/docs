@@ -18,5 +18,5 @@ Drop your Tilt in the fermenter or a glass of water, go into the settings page i
 
 Make sure "Use Default Cloud URL for All" is **OFF**.
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 

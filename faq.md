@@ -24,6 +24,17 @@ If you want to change the email-address tied to you account you can do so in the
 
 Easy! Just change batch size or efficiency in your equipment profile within a recipe, click save and it will ask you if you want to scale the recipe to match the new numbers. Also - if you change to another equipment profile it will scale to match it also!
 
+## How do i send my recipe to Grainfather Connect?
+
+Basically you export a BeerXML on your phone and open it directly in the GF Connect app.  
+  
+On your batch click the **menu** button in the lower right, click **export**, select **BeerXML**, the file will show and you should get an option to open the file in your GF Connect app.  
+
+
+![iPhone example. Slightly different approach in Android.](.gitbook/assets/image%20%2835%29.png)
+
+Then you just start brewing!
+
 ## How do i set up my Tilt Hydrometer to work with Brewfather?
 
 See the Tilt Hydrometer page for setup instructions.
