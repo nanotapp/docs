@@ -10,6 +10,30 @@
 
 * Nothing yet
 
+## 1.1.9 - 25.06.2018 {#coming-soon}
+
+### Features
+
+* Added Cryo as Hop form
+* Added Water limits on equipment profile
+  * Max and min limit for mash water amount
+  * Max limit for sparge water
+* Added equipment profiles for **Speidel Braumeister 50L / 20L / 10L**
+
+### Fixed
+
+* Fixed hop total amount not updated on delete
+
+### Changes
+
+* Adjusted lactic acid strengt as mash addition, is now approximately 30% stronger, meaning your amount will be about 30% less at same estimated pH.
+
+While some have reported very close to reported pH after lactic acid addition there has also been a number of reports on the amount being too high and giving a lower than estimated pH, still looking for feedback on this, **please report your results**.
+
+
+
+
+
 ## 1.1.7 - 22.06.2018 {#coming-soon}
 
 ### Features
