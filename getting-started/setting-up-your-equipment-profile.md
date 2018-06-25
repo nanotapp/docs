@@ -1,5 +1,7 @@
 # Setting up your equipment profile
 
+To set up your Equipment profile, select the Profiles page from the menu. Click Equipment, and add a new profile, or edit the default profile.
+
 ![Equipment profile is customizable to get the right numbers for your system](../.gitbook/assets/image%20%2829%29.png)
 
 **Name:** Name for your equipment profile
