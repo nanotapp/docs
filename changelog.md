@@ -20,6 +20,7 @@
   * Max limit for sparge water
 * Added equipment profiles for **Speidel Braumeister 50L / 20L / 10L**
   *  These will give correct mash water amount based on the official recommendation of mash water amount.
+* Added Help button in menu which will open the docs
 
 ### Fixed
 
