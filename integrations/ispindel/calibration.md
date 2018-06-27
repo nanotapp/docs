@@ -8,7 +8,7 @@ Configure the iSpindel to report in to Ubidots which gives a straight feedback o
   
 After reading out all angles in the different solutions and recording them. Fill in the values in the calibration spreadsheet for the iSpindel project and it will calculate the formula based on your unit.   
   
-Copy the formula into your Polynominal under Configuration and start reading out the values in the different solutions again. In Ubidots Gravity is given in Plato so in my case with my SG solutions I should see values close to 0, 2.5, 5, 7.5, 10 and 12.5 matching the correct SG.
+Copy the formula into your Polynominal under Configuration and start reading out the values in the different solutions again. In Ubidots Gravity is given in Plato so with the above SG solutions you should see values close to 0, 2.5, 5, 7.5, 10 and 12.5 matching the correct SG.
 
 #### Resources
 
