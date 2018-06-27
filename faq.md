@@ -45,7 +45,7 @@ See the Tilt Hydrometer page for setup instructions.
 
 See the iSpindel page for setup instructions.
 
-{% page-ref page="integrations/ispindel.md" %}
+{% page-ref page="integrations/ispindel/" %}
 
 ## How do i set up my Brewpiless to work with Brewfather?
 
