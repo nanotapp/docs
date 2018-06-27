@@ -32,10 +32,6 @@
 
 While some have reported very close to reported pH after lactic acid addition there has also been a number of reports on the amount being too high and giving a lower than estimated pH, still looking for feedback on this, **please report your results**.
 
-
-
-
-
 ## 1.1.7 - 22.06.2018 {#coming-soon}
 
 ### Features
