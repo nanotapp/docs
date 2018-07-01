@@ -1,14 +1,17 @@
 # Changelog
 
-## Coming Soon {#coming-soon}
+## In developement {#coming-soon}
 
 ### Features
 
 * Brew Timer
 
+## 1.1.10 - 01.07.2018 {#coming-soon}
+
 ### Fixed
 
-* Nothing yet
+* Corrected Pre-Boil Gravity calculation when using **Kettle** as batch volume target
+* Fixed Decoction misspelling
 
 ## 1.1.9 - 25.06.2018 {#coming-soon}
 
