@@ -6,12 +6,19 @@
 
 * Brew Timer
 
+## 1.1.11 - 01.07.2018 {#coming-soon}
+
+### Fixed
+
+* Corrected auto calculation of efficiencies when using **Kettle** as batch volume target
+* Now includes Mas-Tun Loss in efficiencies calculation
+
 ## 1.1.10 - 01.07.2018 {#coming-soon}
 
 ### Fixed
 
 * Corrected Pre-Boil Gravity calculation when using **Kettle** as batch volume target
-* Fixed Decoction misspelling
+* Corrected Decoction misspelling
 
 ## 1.1.9 - 25.06.2018 {#coming-soon}
 
