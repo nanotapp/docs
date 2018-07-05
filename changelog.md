@@ -1,10 +1,18 @@
 # Changelog
 
-## In developement {#coming-soon}
+## In developement / Coming soon {#coming-soon}
 
 ### Features
 
 * Brew Timer
+* Strike water temperature calculation
+* Origin as searchable field in fermentables
+* Show "Set" when FG is set manually \(default when imported\)
+
+### Fixed
+
+* Remove MashTunDeadSpace in no-sparge mash-water formula
+* Fixed RO-water profile
 
 ## 1.1.11 - 01.07.2018 {#coming-soon}
 
