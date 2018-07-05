@@ -55,5 +55,7 @@ See the Brewpiless page for setup instructions
 
 ## Android or iOS app?
 
-Brewfather is a progressive web application that is ment to be used from the browser or as a Home-Screen app! Therefore it is not available in the app/play-store. Easily add it to your home screen from your mobile device without having to install anything.
+Brewfather is a progressive web application that is ment to be used from the browser or as a Home-Screen app! Therefore it is not available in the app/play-store. Easily add it to your home screen from your mobile device without having to install anything.  
+  
+Brewfather still has full offline support and is cached on your device/browser the first time you load it.
 
