@@ -5,14 +5,34 @@
 ### Features
 
 * Brew Timer
-* Strike water temperature calculation
+
+## 1.1.12 - 08.07.2018 {#coming-soon}
+
+### Features
+
+* **Strike water temperature calculation** in recipe
+  * Enable it in your equipment profile \(scroll all the way down\)
+  * New fields in equipment profile for room temperature and mash-tun heat capacity
+* **Autosave for Recipe** - can be toggled off in settings
+* You can now **disable inventory** tracking in settings
 * Origin as searchable field in fermentables
 * Show "Set" when FG is set manually \(default when imported\)
+* Set 23L as max water limit on the default GF profiles, to prevent too much mash water on big batches
+* Added calibration temp as field in hydrometer correction tool
+* Added calibration factor in the refractometer tool
+* Round to nearest gram rather than nearest 10 grams in fermentables when scaling recipes, works better when scaling to very small batches
+
+### New Tools
+
+* Strike/infusion Water Temperature Calculator
+* Rest-step Temperature Calculator
+* Mash-Tun Calibration Tool - to find your mash-tun heat capacity
 
 ### Fixed
 
 * Remove MashTunDeadSpace in no-sparge mash-water formula
 * Fixed RO-water profile
+* Fixed WB-06 yeast attenuation
 
 ## 1.1.11 - 01.07.2018 {#coming-soon}
 
