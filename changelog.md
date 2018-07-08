@@ -17,7 +17,7 @@
 * You can now **disable inventory** tracking in settings
 * Origin as searchable field in fermentables
 * Show "Set" when FG is set manually \(default when imported\)
-* Set 23L as max water limit on the default GF profiles, to prevent too much mash water on big batches
+* Set 23L as max mash water limit on the default GF profiles, to prevent too much mash water on big batches
 * Added calibration temp as field in hydrometer correction tool
 * Added calibration factor in the refractometer tool
 * Round to nearest gram rather than nearest 10 grams in fermentables when scaling recipes, works better when scaling to very small batches
