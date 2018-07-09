@@ -15,6 +15,7 @@
   * New fields in equipment profile for room temperature and mash-tun heat capacity
 * **Autosave for Recipe** - can be toggled off in settings
 * You can now **disable inventory** tracking in settings
+* Added Fermentability % field on fermentables, this is used to estimate FG
 * Origin as searchable field in fermentables
 * Show "Set" when FG is set manually \(default when imported\)
 * Set 23L as max mash water limit on the default GF profiles, to prevent too much mash water on big batches
