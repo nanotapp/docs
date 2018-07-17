@@ -30,6 +30,7 @@ Brewfather includes
 * Easy to use yeast amount and yeast starter calculator
 * Integrated **water adjustment calculator**
 * Strike temperature calculation
+* Proper calculation of hopstand bitterness
 * And **many more** tools and features to help your brewing!
 
 ![Multi-device support, use it on your desktop and mobile devices](.gitbook/assets/p4150129.jpg)
