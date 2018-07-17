@@ -6,6 +6,19 @@
 
 * Brew Timer
 
+## 1.1.13 - 18.07.2018 {#coming-soon}
+
+### Features
+
+* Show mash volume \(water + grain\) in recipe
+* Show target water profile name in recipe when exists
+* Added Safale BE-134, Safale HA-18 yeasts
+
+### Fixed
+
+* Batch recipe could wrongfully update in the old batch if opened in the same session and you changed the same base recipe in a new batch
+* Keg \(Force\) carbonation, was giving slightly lower pressure than it was supposed to
+
 ## 1.1.12 - 08.07.2018 {#coming-soon}
 
 ### Features
