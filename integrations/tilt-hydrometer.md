@@ -26,3 +26,23 @@ Make sure "Use Default Cloud URL for All" is **OFF**.
 
 ![Tilt integration gives you full control over your fermentation progress](../.gitbook/assets/tilt_chart%20%281%29.jpg)
 
+## Where can i get a Tilt Hydrometer?
+
+### International
+
+Directly from Tilt: [https://tilthydrometer.com/](https://tilthydrometer.com/)
+
+### Norwegian dealers
+
+![](../.gitbook/assets/image%20%2825%29.png)
+
+Buy from Brewshop.no: [https://brewshop.no/produkt/utstyr/gjaering/utstyr-til-gjaering/tilt-hydrometer-termometer-ny-versjon](https://brewshop.no/produkt/utstyr/gjaering/utstyr-til-gjaering/tilt-hydrometer-termometer-ny-versjon)
+
+![](../.gitbook/assets/image%20%2846%29.png)
+
+Buy from Petit-agentur.no: [https://petit-agentur.no/search\_result?keywords=tilt+hydrometer](https://petit-agentur.no/search_result?keywords=tilt+hydrometer)
+
+![](../.gitbook/assets/image%20%2838%29.png)
+
+Buy from Vestbrygg.no: [https://www.vestbrygg.no/home/SearchForm?q=tilt+hydrometer](https://www.vestbrygg.no/home/SearchForm?q=tilt+hydrometer)
+

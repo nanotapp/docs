@@ -75,5 +75,5 @@ Brewfather is made by Thomas Gangsøy from Norway, professional developer, and b
 The documentation for Brewfather is currently not complete. It is currently in the process of being written.
 {% endhint %}
 
-![Monitor your brews with Brewfather&apos;s integrations](.gitbook/assets/image%20%2840%29.png)
+![Monitor your brews with Brewfather&apos;s integrations](.gitbook/assets/image%20%2842%29.png)
 
