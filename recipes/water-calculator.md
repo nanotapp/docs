@@ -22,7 +22,7 @@ There is a cog icon which allows you to change some settings regarding the water
 
 ## Grains
 
-![](../.gitbook/assets/image%20%2839%29.png)
+![](../.gitbook/assets/image%20%2840%29.png)
 
 The fist section of the water calculator shows your grain bill, and the calculator automatically assigns a grain type to it. Verify that the grain and **grain color** matches the grains you will be using, and that the **grain type** is correct.
 
@@ -112,7 +112,7 @@ The data entered in the water calculator is saved to your recipe, so you can eas
 
 To automatically save your ingredients to the Misc section of your recipe. Click the green **Save adjustments to recipe** button at the bottom.
 
-![BOOM. Adjustments saved to your recipe. Ready to brew!](../.gitbook/assets/image%20%2840%29.png)
+![BOOM. Adjustments saved to your recipe. Ready to brew!](../.gitbook/assets/image%20%2841%29.png)
 
 ## Water Settings
 

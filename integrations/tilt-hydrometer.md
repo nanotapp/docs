@@ -30,7 +30,9 @@ Make sure "Use Default Cloud URL for All" is **OFF**.
 
 ### International
 
-Directly from Tilt: [https://tilthydrometer.com/](https://tilthydrometer.com/)
+![](../.gitbook/assets/image%20%2839%29.png)
+
+Buy directly from Tilt: [https://tilthydrometer.com/](https://tilthydrometer.com/)
 
 ### Norwegian dealers
 
@@ -38,7 +40,7 @@ Directly from Tilt: [https://tilthydrometer.com/](https://tilthydrometer.com/)
 
 Buy from Brewshop.no: [https://brewshop.no/produkt/utstyr/gjaering/utstyr-til-gjaering/tilt-hydrometer-termometer-ny-versjon](https://brewshop.no/produkt/utstyr/gjaering/utstyr-til-gjaering/tilt-hydrometer-termometer-ny-versjon)
 
-![](../.gitbook/assets/image%20%2846%29.png)
+![](../.gitbook/assets/image%20%2847%29.png)
 
 Buy from Petit-agentur.no: [https://petit-agentur.no/search\_result?keywords=tilt+hydrometer](https://petit-agentur.no/search_result?keywords=tilt+hydrometer)
 
