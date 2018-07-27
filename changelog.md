@@ -10,10 +10,10 @@
 
 ### Features
 
-* Show Post-Boil Gravity when it is different from the Original Gravity - also as a field when logging your batch
+* Include grain volume in mash limit \(optional in the equipment profile\)
+* Shows Post-boil Gravity when it is different from the Original Gravity - also as a field when logging your batch
 * Added option to select "day x" or "x days" \(default\) when adding Dry Hop
 * When selecting First Wort Hop time will default to the equipment profile boil time \(if time is 0/blank it will now use the boil time from the equipment profile when calculating IBU\)
-* Include grain volume in mash limit \(option in the equipment profile\)
 * Shows vitals in the style section even if no style is selected
 * Larger window for equipment profile on desktop
 
