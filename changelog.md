@@ -6,6 +6,27 @@
 
 * Brew Timer
 
+## 1.1.14 - 27.07.2018
+
+### Features
+
+* Show Post-Boil Gravity when it is different from the Original Gravity - also as a field when logging your batch
+* Added option to select "day x" or "x days" \(default\) when adding Dry Hop
+* When selecting First Wort Hop time will default to the equipment profile boil time \(if time is 0/blank it will now use the boil time from the equipment profile when calculating IBU\)
+* Include grain volume in mash limit \(option in the equipment profile\)
+* Shows vitals in the style section even if no style is selected
+* Larger window for equipment profile on desktop
+
+### New Tools
+
+* Color Converter \([@mattl-nz](https://github.com/mattl-nz)\)
+* Refractometer Calibration built into the refractometer tool \([@mattl-nz](https://github.com/mattl-nz)\)
+
+### Fixed
+
+* Batch number: it is no longer possible to set decimals or batch number below 1
+* Bottling temperature now changed to peak fermentation temperature - for calculating priming sugar
+
 ## 1.1.13 - 18.07.2018 {#coming-soon}
 
 ### Features
