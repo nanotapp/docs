@@ -24,6 +24,7 @@
 
 ### Fixed
 
+* Fix scaling of fermentables that are not in mash
 * Batch number: it is no longer possible to set decimals or batch number below 1
 * Bottling temperature now changed to peak fermentation temperature - for calculating priming sugar
 
