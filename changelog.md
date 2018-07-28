@@ -6,6 +6,21 @@
 
 * Brew Timer
 
+## 1.1.15 - 28.07.2018
+
+### Added
+
+* Added Mangrove Jaks's M41 Belgian Ale Yeast
+* Added OG and FG range description for fermented wort calculation in refractometer tool
+
+### Changed
+
+* Set 1,04 as default refractometer factor
+
+### Fixed
+
+* BH Efficiency not showing for batches created prior to v 1.1.14
+
 ## 1.1.14 - 27.07.2018
 
 ### Features
