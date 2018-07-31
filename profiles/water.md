@@ -7,3 +7,6 @@
 From **Alkalinity mmol/l** to ppm Bicarbonate HCO3: **multiply by 61**  
 From **Alkalinity mg/l CaCO3** to ppm Bicarbonate HCO3: **multiply by 1.22**
 
+1 **mg/L** = 1 ppm  
+1000 **ug/L** = 1 ppm
+
