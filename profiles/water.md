@@ -10,6 +10,7 @@ Brewfather uses ppm values for the water profile, so your water report have to b
 
 From **Alkalinity mmol/l** to ppm Bicarbonate HCO3: **multiply by 61**  
 From **Alkalinity mg/l CaCO3** to ppm Bicarbonate HCO3: **multiply by 1.22**  
+_From Alkalinity mmol/l to mg/l CaCO3: multiply by 50_  
   
 1000 **ug/L** = 1 ppm  
 **ug/L** / 1000 = ppm
