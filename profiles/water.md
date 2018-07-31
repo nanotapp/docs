@@ -4,10 +4,12 @@
 
 ## Water Report Conversion
 
-From **Alkalinity mmol/l** to ppm Bicarbonate HCO3: **multiply by 61**  
-From **Alkalinity mg/l CaCO3** to ppm Bicarbonate HCO3: **multiply by 1.22**
+Brewfather uses ppm values for the water profile, so your water report have to be converted to this. Below you will find help converting your values to ppm.
 
-1 **mg/L** = 1 ppm  
+1 **mg/L** = 1 ppm
+
+From **Alkalinity mmol/l** to ppm Bicarbonate HCO3: **multiply by 61**  
+From **Alkalinity mg/l CaCO3** to ppm Bicarbonate HCO3: **multiply by 1.22**  
   
 1000 **ug/L** = 1 ppm  
 **ug/L** / 1000 = ppm
