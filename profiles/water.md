@@ -38,3 +38,5 @@ Nitrate as Nitrogen **ppm as NO3-N** \* 4.43 = Nitrate \(NO3\) ppm_
 
 If the water report does not inlcude the pH you can use 8.0 as pH.
 
+{% page-ref page="../recipes/water-calculator.md" %}
+
