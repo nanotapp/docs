@@ -6,6 +6,16 @@
 
 * Brew Timer
 
+## 1.1.16 - 31.07.2018
+
+### Added
+
+* Option to select Cubic \(default\) or Linear formula in the refractometer tool when calculating your FG of fermented wort. Linear formula works better i.e. if you have a high gravity beer with high \(&gt;1.022\) expected FG.
+
+### Fixed
+
+* Fixed an issue where editing "next batch number" in Settings would cause your next batch number to increment like a string, and logging with Tilt to a batch created after this would not work unless you edit the batch number manually in the batch after creating it.
+
 ## 1.1.15 - 28.07.2018
 
 ### Added
