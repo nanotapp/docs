@@ -127,3 +127,13 @@ In the advanced section you can choose what form of Calcium Chloride you are usi
 
 You can also select if your sparge water adjustment should be activated by default.
 
+### Chalk
+
+Using **Chalk** is **not recommended**, it is much preferred to use **Baking Soda NaHCO3** \(_or Slaked Lime_\) to increase pH. The reason for this is that under normal conditions Chalk reacts slowly and you will not get the effect on pH that you want when you need it. Much of the Chalk you add to mash will end up sitting on the grains after sparging and some will make it trough into the kettle and fermenter where it will continue to react and raising pH duing parts of the process where you would want it to be falling.
+
+There are work-arounds such as dissolving it in acid but you need to be careful that you don't acidify below pH 8.4 \(at which pH all the carbonate has been converted to bicarbonate which does react rapidly enough to do what you want to do\). One of the acids for this purpose is carbonic acid. To use it the Chalk \(CaCO3\) is placed in a pet bottle with water and CO2 injected to raise the pressure to the point where enough H2CO3 is dissolved to, in turn, dissolve the CaCO3. The goal is to get the CO3-- converted to Bicabonate \(HCO3-\) and the tricky part is that as soon as the pressure is released the HCO3- will convert back to CO3-- and re-precipitate as microcrystals you cannot see and you think you have dissolved all the Chalk. And some of is still dissolved. The problem is that you won't really be able to tell exactly how much you have dissolved. \(Source: [AJ Delange](https://www.homebrewtalk.com/forum/threads/am-i-calculating-my-ph-right.652497/#post-8347271)\)
+
+The option to activate Chalk i still there but use it carefully knowing the limitations.
+
+
+
