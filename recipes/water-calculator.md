@@ -123,7 +123,7 @@ To show the water settings click the cog in the top right of the water calculato
   
 In the water settings you have a list of all the ingredients available to the calculator. By default only a few of them are activated as these are the most common ingredients used in water adjustments. And only Gypsum, Calcium Chloride and Epsom Salt is activated for auto adjustment as default.
 
-In the advanced section you can choose what form of Calcium Chloride you are using.
+In the advanced section you can **choose what form of Calcium Chloride** you are using. The default is Flaked. You can select Flaked, liquid or anhydrous. If you select liquid you can enter your concentration.
 
 You can also select if your sparge water adjustment should be activated by default.
 
@@ -133,7 +133,7 @@ Using **Chalk** is **not recommended**, it is much preferred to use **Baking Sod
 
 There are work-arounds such as dissolving it in acid but you need to be careful that you don't acidify below pH 8.4 \(at which pH all the carbonate has been converted to bicarbonate which does react rapidly enough to do what you want to do\). One of the acids for this purpose is carbonic acid. To use it the Chalk \(CaCO3\) is placed in a pet bottle with water and CO2 injected to raise the pressure to the point where enough H2CO3 is dissolved to, in turn, dissolve the CaCO3. The goal is to get the CO3-- converted to Bicabonate \(HCO3-\) and the tricky part is that as soon as the pressure is released the HCO3- will convert back to CO3-- and re-precipitate as microcrystals you cannot see and you think you have dissolved all the Chalk. And some of is still dissolved. The problem is that you won't really be able to tell exactly how much you have dissolved. \(Source: [AJ Delange](https://www.homebrewtalk.com/forum/threads/am-i-calculating-my-ph-right.652497/#post-8347271)\)
 
-The option to activate Chalk i still there but use it carefully knowing the limitations.
+The option to activate Chalk is still there but use it carefully knowing the limitations.
 
 
 
