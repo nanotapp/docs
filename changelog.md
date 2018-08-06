@@ -5,6 +5,19 @@
 ### Features
 
 * Brew Timer
+* BJCP Mead Style Guidelines
+* BJCP Cider Style Guidelines
+
+### Added
+
+* Polyclar Brewbrite fining as Misc
+* More Norwegian Farmhouse Kveiks \(Yeasts\)
+
+### Fixed
+
+* Fixed Norbrygg styles with no maximum OG
+* No longer show brew button in batch recipe mode
+* Water calculator now shows if you entered 0 as mash/sparge volume
 
 ## 1.1.16 - 31.07.2018
 
