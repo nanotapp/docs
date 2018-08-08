@@ -2,6 +2,8 @@
 
 ## In developement / Coming soon {#coming-soon}
 
+[Visit the issue tracker for more info](https://bitbucket.org/brewfather/brewfather/issues?&sort=-votes).
+
 ### Features
 
 * Brew Timer
