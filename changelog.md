@@ -7,6 +7,7 @@
 ### Features
 
 * Brew Timer
+* Brewers Association 2018 Style Guidelines \(Complete\)
 * BJCP Mead Style Guidelines
 * BJCP Cider Style Guidelines
 
@@ -20,6 +21,8 @@
 * Fixed Norbrygg styles with no maximum OG
 * No longer show brew button in batch recipe mode
 * Water calculator now shows if you entered 0 as mash/sparge volume
+* Now handles special characters in BeerXML export
+* Sorting order of day x dry hops
 
 ## 1.1.16 - 31.07.2018
 
