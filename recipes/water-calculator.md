@@ -139,8 +139,8 @@ The option to activate Chalk is still there but use it carefully knowing the lim
 
 ### Solubility of minerals
 
-Calcium chloride is quite soluble.   
-Calcium carbonate \(chalk\) is quite insoluble.   
+Calcium Chloride is quite soluble.   
+Calcium Carbonate \(Chalk\) is quite insoluble.   
 Gypsum \(Calcium Sulfate\) is not as soluble as Calcium Chloride, but much more soluble that Calcium Carbonate.   
 Calcium Carbonate and Calcium Sulfate are both **less** soluble in **hot water than cold** \(which is the reverse of the usual case\). \(Source: [AJ Delange](https://www.homebrewtalk.com/forum/threads/a-brewing-water-chemistry-primer.198460/#post-2324604)\)
 
