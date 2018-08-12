@@ -13,6 +13,7 @@
 
 ### Added
 
+* Sparge Temperature in Equipment Profile
 * Polyclar Brewbrite fining as Misc
 * More Norwegian Farmhouse Kveiks \(Yeasts\)
 
