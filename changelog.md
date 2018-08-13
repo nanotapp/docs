@@ -14,8 +14,10 @@
 ### Added
 
 * Sparge Temperature in Equipment Profile
+* Carbonation calculator: Added Corn Sugar and DME
 * Polyclar Brewbrite fining as Misc
 * More Norwegian Farmhouse Kveiks \(Yeasts\)
+* Beer Brew 30 and Beer Brew 60 equipment profiles
 
 ### Fixed
 
