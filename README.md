@@ -15,6 +15,7 @@ Brewfather includes
 * **Offline support**, auto saving and automatic synchronisation
 * Fully-featured and easy to use **recipe** designer
 * Complete **batch** tracking - log every step of your brew
+* Brew timer with alarms and notifications for your brewday!
 * **Profiles** for your equipment, mash schedule, fermentation steps, and water
 * Large customizable **ingredients** database
 * **Inventory** stock tracking
