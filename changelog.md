@@ -19,6 +19,8 @@
 * More Norwegian Farmhouse Kveiks \(Yeasts\)
 * Beer Brew 30 and Beer Brew 60 equipment profiles
 * Added Grain Temp as separate temperature for strike temp calulcation
+* Water profile type Source or Target
+* A few more water profiles added
 
 ### Fixed
 
