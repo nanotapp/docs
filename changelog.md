@@ -13,13 +13,15 @@
 
 ### Added
 
-* Sparge Temperature in Equipment Profile
+* A more stringent way to change batch status
+* Now logs when batch status has changed to the log
+* Sparge Temperature can be set in the Equipment Profile
 * Carbonation calculator: Added Corn Sugar and DME
 * Polyclar Brewbrite fining as Misc
 * More Norwegian Farmhouse Kveiks \(Yeasts\)
 * Beer Brew 30 and Beer Brew 60 equipment profiles
-* Added Grain Temp as separate temperature for strike temp calulcation
-* Water profile type Source or Target
+* Added Grain Temp as separate temperature for strike temp calculation
+* Adde type to water profile: Source or Target
 * A few more water profiles added
 
 ### Fixed
