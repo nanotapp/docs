@@ -4,12 +4,15 @@
 
 [Visit the issue tracker for more info](https://bitbucket.org/brewfather/brewfather/issues?&sort=-votes).
 
+## 1.1.17 - 16.08.2018
+
 ### Features
 
 * Brew Timer
 * Brewers Association 2018 Style Guidelines \(Complete\)
 * BJCP Mead Style Guidelines
 * BJCP Cider Style Guidelines
+* Click the version number to open the change log \(this page\)
 
 ### Added
 
