@@ -4,6 +4,12 @@
 
 [Visit the issue tracker for more info](https://bitbucket.org/brewfather/brewfather/issues?&sort=-votes).
 
+## 1.1.18 - 17.08.2018
+
+### Fixed
+
+* Fixed an issue where water profiles that did not have a type \(source/target\) defined did not show
+
 ## 1.1.17 - 16.08.2018
 
 ### Features
