@@ -11,6 +11,7 @@ Brewfather is made from the ground up to give you **the best** recipe design and
 
 Brewfather includes
 
+* **Powerful, intuitive and easy to use**
 * **Multi device** support - one app everywhere - always!
 * **Offline support**, auto saving and automatic synchronisation
 * Fully-featured and easy to use **recipe** designer
@@ -32,6 +33,7 @@ Brewfather includes
 * Easy to use yeast amount and yeast starter calculator
 * Integrated **water adjustment calculator**
 * Strike temperature calculation
+* Fermentability as a trait for grains
 * Proper calculation of hopstand bitterness
 * And **many more** tools and features to help your brewing!
 
