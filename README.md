@@ -17,6 +17,7 @@ Brewfather includes
 * Complete **batch** tracking - log every step of your brew
 * Brew timer with alarms and notifications for your brewday!
 * **Profiles** for your equipment, mash schedule, fermentation steps, and water
+* Highly **customizable** equipment profile to suit any brewing system
 * Large customizable **ingredients** database
 * **Inventory** stock tracking
 * Multiple **style guidelines** \(BJCP, Brewers Association, Norbrygg, SHBF\)
