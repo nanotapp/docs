@@ -11,7 +11,7 @@ Brewfather is made from the ground up to give you **the best** recipe design and
 
 Brewfather includes
 
-* **Powerful, intuitive and easy to use**
+* **Powerful, intuitive** and **easy to use**
 * **Multi device** support - one app everywhere - always!
 * **Offline support**, auto saving and automatic synchronisation
 * Fully-featured and easy to use **recipe** designer
