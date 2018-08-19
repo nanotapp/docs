@@ -4,7 +4,7 @@ Go into the settings page in [Brewfather APP](https://web.brewfather.app/), enab
 
 Set your iSpidel in configuration mode, you can then access your iSpindel by WiFi.
 
-In the iSpindel configuration page enter any **name** you want, set **Service Type**: **HTTP**, **Port**: **80**, **Update intervall**: **900**, copy the Server Address and Server URL from the Brewfather settings.
+In the iSpindel configuration page enter any **name** you want, set **Service Type**: **HTTP**, **Port**: **80**, **Update intervall**: **900**, copy the Server Address and Server URL from the Brewfather settings. \(It the port/server address fields does not show try this: Hit the HTTP button twice.\)
 
 Make sure your polynomial contains your fully calibrated formula. And make sure your Wifi-settings are correct. Click save.
 
