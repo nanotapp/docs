@@ -51,7 +51,7 @@ Brewfather strives to cover all your brewing needs in one place, new features ar
 
 Brewfather can be added to your homescreen on Android and iOS devices to give you the best user experience.
 
-## Free to try as long as you want! {#free-to-try-as-long-as-you-want-}
+## Free to try as long as you want! {#pricing}
 
 Brewfather can be **used for free as long as you want** with a few limitations. New users are granted a free 24-day membership of Brewfather Premium with no limitations.
 
