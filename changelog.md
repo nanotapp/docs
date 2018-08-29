@@ -13,6 +13,9 @@
 * Now lists all ingredients not found in inventory in the planning tab of the batch, click to add it to inventory
 * Added **HLT deadspace volume** field to equipment profile, this volume is added to the sparge water amount in the water calculator
 * Shorter recipe share URL \(**share.brewfather.app/id**\), old URL still works
+* Show warning when mash water/volume limit is exceeded
+* Added more icons to top toolbar of recipe and batch when in desktop mode
+* Added user note field to all ingredients/inventory
 * Minor visual changes
 
 ### Fixed
