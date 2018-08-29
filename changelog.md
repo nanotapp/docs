@@ -4,7 +4,7 @@
 
 [Visit the issue tracker for more info](https://bitbucket.org/brewfather/brewfather/issues?&sort=-votes).
 
-## 1.1.19 - XX.XX.2018
+## 1.1.19 - 29.08.2018
 
 ### Features
 
@@ -16,6 +16,8 @@
 * Show warning when mash water/volume limit is exceeded
 * Added more icons to top toolbar of recipe and batch when in desktop mode
 * Added user note field to all ingredients/inventory
+* Added Hopcat / Brew Monk 50L equipment profile
+* Now shows recipe in completed tab of batch
 * Minor visual changes
 
 ### Fixed
