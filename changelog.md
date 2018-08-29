@@ -8,7 +8,7 @@
 
 ### Features
 
-* Refractometer Tool: New and more accurate formula for FG calculation with Refractometer \(Petr Novotny / Zymurgy\), also shows calculated ABV and ABW
+* Refractometer Tool: New and more accurate formula for FG calculation with Refractometer \(Petr Novotny / Zymurgy\), also shows calculated Plato, ABV and ABW
 * Added button to save a batch recipe to recipes, overwriting the recipes copy of the recipe, placed next to the update button in the planning tab
 * Now lists all ingredients not found in inventory in the planning tab of the batch, click to add it to inventory
 * Added **HLT deadspace volume** field to equipment profile, this volume is added to the sparge water amount in the water calculator
