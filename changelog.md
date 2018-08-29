@@ -23,7 +23,7 @@
 ### Fixed
 
 * Fixed an issue where a few ingredients did not get the stock from inventory in planning tab batch inventory list
-* No longer play notification/alarm right after opening the app
+* No longer play notification/alarm right after opening the app if a brew tracker was active before app was shut down
 
 ## 1.1.18 - 17.08.2018
 
