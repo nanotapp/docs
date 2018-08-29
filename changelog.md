@@ -4,6 +4,22 @@
 
 [Visit the issue tracker for more info](https://bitbucket.org/brewfather/brewfather/issues?&sort=-votes).
 
+## 1.1.19 - XX.XX.2018
+
+### Features
+
+* Refractometer Tool: New and more accurate formula for FG calculation with Refractometer \(Petr Novotny / Zymurgy\), also shows calculated ABV and ABW
+* Added button to save a batch recipe to recipes, overwriting the recipes copy of the recipe, placed next to the update button in the planning tab
+* Now lists all ingredients not found in inventory in the planning tab of the batch, click to add it to inventory
+* Added **HLT deadspace volume** field to equipment profile, this volume is added to the sparge water amount in the water calculator
+* Shorter recipe share URL \(**share.brewfather.app/id**\), old URL still works
+* Minor visual changes
+
+### Fixed
+
+* Fixed an issue where a few ingredients did not get the stock from inventory in planning tab batch inventory list
+* No longer play notification/alarm right after opening the app
+
 ## 1.1.18 - 17.08.2018
 
 ### Fixed
