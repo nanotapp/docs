@@ -28,6 +28,8 @@ To set up your Equipment profile, select the Profiles page from the menu. Click 
 
 **Fermenter Loss:** Expected loss from fermenter to bottle/keg
 
+**HLT Deadspace** is any dead space in the Hot Liquor Tank. For example, if you use a sparge water heater that has the tap that draws higher than the bottom of the pot, you can set the liters that are not drawn. This volume will be added to the sparge water amount in the Water Adjustment Calculator, for calculating your sparge water additions.
+
 ### Efficiency
 
 **Brewhouse Efficiency:** The overall efficiency of you system - includes all losses to the fermenter. Important factor in calculating you Original Gravity. If you don't know you system, a good number to start with might be 70-75%. And you can dail in your excact efficiency after a couple of brews.
@@ -35,6 +37,8 @@ To set up your Equipment profile, select the Profiles page from the menu. Click 
 **Mash Efficiency:** The efficiency of your mash procedure, up to pre-boil, including sparging. Important factor in calculating your Pre-Boil Gravity.
 
 It is recommended to automatically calculate your mash efficiency by enabling the **Calc mash efficiency** checkbox.
+
+
 
 
 
