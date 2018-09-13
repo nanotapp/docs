@@ -22,7 +22,7 @@
 * Extract only recipes: Preboil Gravity now includes sugar/extract \(Recipe type = Extract\). This will improve IBU calculation for extract only recipes
 * Other recipes: Preboil gravity now inlcudes sugar/extract when use equals mash or use is boil and time equals boiltime
 * When equipment batch volume target is Kettle: OG calculation improved for sugar/extract additions
-* Fixed invalid date error when month is set to december in the batch log
+* Fixed invalid date error when month is set to december in the batch note log
 * Fixed BeerXML import did not always import the mash profile steps
 
 ## 1.1.19 - 29.08.2018
