@@ -4,6 +4,27 @@
 
 [Visit the issue tracker for more info](https://bitbucket.org/brewfather/brewfather/issues?&sort=-votes).
 
+## 1.1.20 - 13.09.2018
+
+### Beta Test Feature
+
+* Added an additional option for FG estimation, called "Normal", selectable in the settings.  _This method uses fermentable **type**, not fermentablility **%** like the advanced option. When using this, yeast attenuation % should be set to the max value from the manufacturer._  _Give it a try and submit your feedback_
+
+### Features
+
+* Added additional amount field in the add fermentable window, allow input of oz when using lbs, or grams when using kg
+* Updated info on some yeasts
+* Sparge temp, ambient temp and grain temp now imported from BeerXML if available
+* iOS only: enabled autocorrect for some textarea fields, other devices should have it already
+
+### Fixed
+
+* Extract only recipes: Preboil Gravity now includes sugar/extract \(Recipe type = Extract\). This will improve IBU calculation for extract only recipes
+* Other recipes: Preboil gravity now inlcudes sugar/extract when use equals mash or use is boil and time equals boiltime
+* When equipment batch volume target is Kettle: OG calculation improved for sugar/extract additions
+* Fixed invalid date error when month is set to december in the batch log
+* Fixed BeerXML import did not always import the mash profile steps
+
 ## 1.1.19 - 29.08.2018
 
 ### Features
