@@ -4,6 +4,26 @@
 
 [Visit the issue tracker for more info](https://bitbucket.org/brewfather/brewfather/issues?&sort=-votes).
 
+## 1.1.21 - 16.09.2018
+
+### New Premium Feature
+
+* Show, **edit** and **delete** raw values from Tilt, iSpindel and BrewPiLess. Click the edit button on the readings. Edit and delete is restricted to Premium users only
+
+### Features
+
+* Batches page: 
+  * List brew date on planned batches, and days until planned brew day
+  * Show fermentation day on batches in fermentation
+  * Show days after bottle day \(condidionig days\) on completed batches
+* Show hop type and hop year on inventory listing in batch planning stage \(new batches only\)
+* Added Denali hop
+
+### Fixed
+
+* Fixed editing/deleteing of batch log notes, issue occured of you deleted a note that was not the first note
+* You can no select future years in batch brew date and batch bottling date date selectors
+
 ## 1.1.20 - 13.09.2018
 
 ### Beta Test Feature
