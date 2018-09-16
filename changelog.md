@@ -15,13 +15,13 @@
 * Batches page: 
   * List brew date on planned batches, and days until planned brew day
   * Show fermentation day on batches in fermentation
-  * Show days after bottle day \(condidionig days\) on completed batches
+  * Show days after bottle day \(conditionig days\) on completed batches
 * Show hop type and hop year on inventory listing in batch planning stage \(new batches only\)
 * Added Denali hop
 
 ### Fixed
 
-* Fixed editing/deleteing of batch log notes, issue occured only if you deleted a note that was not the first note
+* Fixed editing/deleting of batch log notes, issue occured only if you deleted a note that was not the first note
 * You can now select future years in batch brew date and batch bottling date date selectors
 
 ## 1.1.20 - 13.09.2018
