@@ -21,8 +21,8 @@
 
 ### Fixed
 
-* Fixed editing/deleteing of batch log notes, issue occured of you deleted a note that was not the first note
-* You can no select future years in batch brew date and batch bottling date date selectors
+* Fixed editing/deleteing of batch log notes, issue occured only if you deleted a note that was not the first note
+* You can now select future years in batch brew date and batch bottling date date selectors
 
 ## 1.1.20 - 13.09.2018
 
