@@ -4,6 +4,18 @@
 
 [Visit the issue tracker for more info](https://bitbucket.org/brewfather/brewfather/issues?&sort=-votes).
 
+## 1.1.22 - 26.09.2018
+
+### Features
+
+* New visual representation of the style guide values in recipe designer
+* Ingedients page now lists in stock ingredients
+* Now remembers the last **main** page the app was on \(per device\) and loads it when opening the app
+
+### Fixed
+
+* Fixed timezone issues with date pickers
+
 ## 1.1.21 - 16.09.2018
 
 ### New Premium Feature
