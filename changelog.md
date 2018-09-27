@@ -9,7 +9,8 @@
 ### Features
 
 * New visual representation of the style guide values in recipe designer
-* Ingedients page now lists in stock ingredients
+  * Toggle showing BU:GU as style indicator by clicking on BU:GU under the IBU in the Hops section
+* Ingedients page now lists in stock ingredients, click to quickly edit them
 * Now remembers the last **main** page the app was on \(per device\) and loads it when opening the app
 
 ### Fixed
