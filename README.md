@@ -69,9 +69,13 @@ To sign up for **Brewfather Premium** - go to your account page in [Brewfather A
 
 All payments and credit card details are handled securely by [Stripe](https://www.stripe.com/).
 
-## Author {#author}
+## Author / Owner {#author}
 
-Brewfather is made by Thomas Gangsøy from Norway, professional developer, and brewer at heart!
+Brewfather is owned by the company [**Warpkode AS**](https://warpkode.com), and made by ****Thomas Gangsøy, professional developer, and brewer at heart!
+
+[**Warpkode AS**](https://warpkode.com) is owned and established by Thomas Gangsøy.
+
+Brewfather® is a registered trademark.
 
 ## Documentation
 
