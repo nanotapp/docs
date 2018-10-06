@@ -41,6 +41,7 @@
     * [Calibration](integrations/ispindel/calibration.md)
   * [BrewPiLess](integrations/brewpiless.md)
   * [Custom API Endpoint](integrations/custom-api-endpoint.md)
+  * [CraftBeerPi](integrations/craftbeerpi.md)
 * [More](more/README.md)
   * [Contact](more/contact.md)
 * [FAQ](faq.md)
