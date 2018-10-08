@@ -16,6 +16,7 @@
 * When creating a new batch, it will now **automatically open the new batch**, if a batch is already open it will be saved and closed
 * You can now **drag and drop tags** to reorder them
 * Tags now have autocomplete in recipe designer
+* Allow spaces in tags
 * Style bar for color now shows SRM/EBC as text instead of "Color"
 * Added **Copy** button on **inventory** items to copy them. Also slide items to left to copy them directly in the inventory view
 * Added delete button on ingredients \(you can also slide them left in the list to delete\)
