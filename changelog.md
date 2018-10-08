@@ -11,6 +11,7 @@
 * Added BJCP Provisional Styles 17A. **Burton Ale**, 21B. **New England IPA**, X4. **Catharina Sour**, X5. **New Zealand Pilsner**
 * Added two new sub-**status**es for batches: '**Conditioning**' and '**Archived**'
   * These statuses does not have it own tab, but will show as its own status in the batches page
+  * Conditioned days now shows when status is Conditioning \(based on bottling date\)
 * **Statuses** can now be **collapsed** in bathes page
 * When creating a new batch, it will now **automatically open the new batch**, if a batch is already open it will be saved and closed
 * You can now **drag and drop tags** to reorder them
