@@ -4,21 +4,23 @@
 
 [Visit the issue tracker for more info](https://bitbucket.org/brewfather/brewfather/issues?&sort=-votes).
 
+## 1.1.23 - 09.10.2018
+
 ### Features
 
 * Added BJCP Provisional Styles 17A. **Burton Ale**, 21B. **New England IPA**, X4. **Catharina Sour**, X5. **New Zealand Pilsner**
-* Added two new sub-statuses for batches: 'Conditioning' and 'Archived'
+* Added two new sub-**status**es for batches: '**Conditioning**' and '**Archived**'
   * These statuses does not have it own tab, but will show as its own status in the batches page
-* Statuses can now be collapsed in bathes page
-* When creating a new batch, it will now automatically open the new batch, if a batch is already open it will be saved and closed
-* You can now drag and drop tags to reorder them
+* **Statuses** can now be **collapsed** in bathes page
+* When creating a new batch, it will now **automatically open the new batch**, if a batch is already open it will be saved and closed
+* You can now **drag and drop tags** to reorder them
 * Tags now have autocomplete in recipe designer
 * Style bar for color now shows SRM/EBC as text instead of "Color"
-* Added Copy button on inventory items to copy them. Also slide items to left to copy them directly in the inventory view
+* Added **Copy** button on **inventory** items to copy them. Also slide items to left to copy them directly in the inventory view
 * Added delete button on ingredients \(you can also slide them left in the list to delete\)
 * Inventory: show user notes on ingredients, user note is now also searchable
 * Improved some step intervals on temperatures, hop and acid
-* Hopcat / Brew Monk / Brewster Beacon 30L equipment profile
+* **Hopcat / Brew Monk / Brewster Beacon 30L** equipment profile
 
 ### Fixed
 
