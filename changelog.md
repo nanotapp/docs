@@ -19,12 +19,12 @@
 * Added **Copy** button on **inventory** items to copy them. Also slide items to left to copy them directly in the inventory view
 * Added delete button on ingredients \(you can also slide them left in the list to delete\)
 * Inventory: show user notes on ingredients, user note is now also searchable
-* Improved some step intervals on temperatures, hop and acid
+* Improved some step intervals \(amount adjusted when using arrow up/down keys\) on temperatures, hop and acid
 * **Hopcat / Brew Monk / Brewster Beacon 30L** equipment profile
 
 ### Fixed
 
-* Brew tracker enabled itself when entering brew tab after having clicked turn off \(only if not used\)
+* Brew tracker enabled itself when entering brew tab even after having turned it off \(only if not started\)
 
 ## 1.1.22 - 26.09.2018
 
