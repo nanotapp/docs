@@ -6,6 +6,7 @@
 
 ### Features
 
+* Added BJCP Provisional Styles 17A. **Burton Ale**, 21B. **New England IPA**, X4. **Catharina Sour**, X5. **New Zealand Pilsner**
 * Added two new sub-statuses for batches: 'Conditioning' and 'Archived'
   * These statuses does not have it own tab, but will show as its own status in the batches page
 * Statuses can now be collapsed in bathes page
@@ -17,7 +18,7 @@
 * Added delete button on ingredients \(you can also slide them left in the list to delete\)
 * Inventory: show user notes on ingredients, user note is now also searchable
 * Improved some step intervals on temperatures, hop and acid
-* Brewster Beacon 30L equipment profile
+* Hopcat / Brew Monk / Brewster Beacon 30L equipment profile
 
 ### Fixed
 
