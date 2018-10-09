@@ -10,8 +10,9 @@
 
 * Added BJCP Provisional Styles 17A. **Burton Ale**, 21B. **New England IPA**, X4. **Catharina Sour**, X5. **New Zealand Pilsner**
 * Added two new sub-**status**es for batches: '**Conditioning**' and '**Archived**'
-  * These statuses does not have it own tab, but will show as its own status in the batches page
-  * Conditioned days now shows when status is Conditioning \(based on bottling date\)
+  * These statuses does not have its own tab, but will show as its own status in the batches page
+  * Conditioned days now shows when status is Conditioning \(based on bottling date\), to set conditioned status, the batch must be in fermenting status first
+  * To set Archived status, the batch must be in completed status first
 * **Statuses** can now be **collapsed** in bathes page
 * When creating a new batch, it will now **automatically open the new batch**, if a batch is already open it will be saved and closed
 * You can now **drag and drop tags** to reorder them
@@ -22,7 +23,7 @@
 * Added delete button on ingredients \(you can also slide them left in the list to delete\)
 * Inventory: show user notes on ingredients, user note is now also searchable
 * Improved some step intervals \(amount adjusted when using arrow up/down keys\) on temperatures, hop and acid
-* **Hopcat / Brew Monk / Brewster Beacon 30L** equipment profile
+* **Hopcat / Brew Monk / Brewster Beacon 30L** equipment profile \(mash-tun deadspace and trub-loss might be different on Hopcat and Brew Monk, will add a separate profile for those in a later patch\)
 
 ### Fixed
 
