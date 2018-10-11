@@ -4,6 +4,13 @@
 
 [Visit the issue tracker for more info](https://bitbucket.org/brewfather/brewfather/issues?&sort=-votes).
 
+## 1.1.24 - 11.10.2018
+
+### Fixed
+
+* Missing ID on urls provided for utility in the settings. If you are still missing and id in the url, turn the toggle off, then on again, which will generate an id for you
+* Unable to save fermentation/mash profile when temp was 0 in a step
+
 ## 1.1.23 - 09.10.2018
 
 ### Features
