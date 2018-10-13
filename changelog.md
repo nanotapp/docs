@@ -4,6 +4,14 @@
 
 [Visit the issue tracker for more info](https://bitbucket.org/brewfather/brewfather/issues?&sort=-votes).
 
+## 1.1.25 - 12.10.2018
+
+### Fixed
+
+* iSpindel server URL showed full url rather than just the end \(occured in 1.1.24\)
+* Improved load time of batches page when closing a batch
+* Max color in style range showed 0 when undefined max range
+
 ## 1.1.24 - 11.10.2018
 
 ### Fixed
