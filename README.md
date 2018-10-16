@@ -61,7 +61,15 @@ As a Free user your are limited to a maximum number of 10 recipes/batches, and n
 
 ## Brewfather Premium {#brewfather-premium}
 
-You can sign up for a Premium subscription to unlock unlimited number of recipes/batches and import/export. The Premium subscription costs $1.99 per month or $19.99 annually, and will cover Brewfather's running costs and development of new features.
+You can sign up for a Premium subscription to unlock unlimited number of recipes/batches and premium features. The Premium subscription costs $1.99 per month or $19.99 annually, and will cover Brewfather's running costs and development of new features.
+
+**Premium features include:**
+
+* Unlimited number of recipes
+* Unlimited number of batches
+* Import and export features
+* **Edit** readings from devices \(Tilt, iSpindel, BrewPiLess\)
+* More upcoming premium features!
 
 {% hint style="info" %}
 To sign up for **Brewfather Premium** - go to your account page in [Brewfather APP](https://web.brewfather.app/) and click **Upgrade to Premium!**
