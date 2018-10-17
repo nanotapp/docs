@@ -6,6 +6,10 @@
 
 ## 1.1.25 - 12.10.2018
 
+### Features
+
+* Added/updated fermentables
+
 ### Fixed
 
 * iSpindel server URL showed full url rather than just the end \(occured in 1.1.24\)
