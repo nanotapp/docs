@@ -20,6 +20,14 @@ Make sure "Use Default Cloud URL for All" is **OFF**.
 
 ![](../.gitbook/assets/image%20%2814%29.png)
 
+### Atlernative logging method
+
+After the Tilt has done its first logging to Brewfather, it will appear in the device list located in your Batch &gt; Fermentation &gt; Readings &gt; **Devices**. Click on the Devices button and attatch your Tilt to the batch. The next time your Tilt logs, it will show up in your batch!
+
+{% hint style="info" %}
+**Important**: If using alternative logging method the beer name field needs to be **empty**.
+{% endhint %}
+
 ## Result
 
 ![Tilt integration gives you full control over your fermentation progress](../.gitbook/assets/tilt_chart%20%281%29.jpg)
