@@ -68,7 +68,7 @@ You can sign up for a Premium subscription to unlock unlimited number of recipes
 * Unlimited number of recipes
 * Unlimited number of batches
 * Import and export features
-* **Edit** readings from devices \(Tilt, iSpindel, BrewPiLess\)
+* **Edit** readings from devices \(Tilt, iSpindel, BrewPiLess and more\)
 * More upcoming premium features!
 
 {% hint style="info" %}
