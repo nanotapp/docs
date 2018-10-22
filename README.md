@@ -39,7 +39,7 @@ Brewfather includes
 
 ![Multi-device support, use it on your desktop and mobile devices](.gitbook/assets/p4150129.jpg)
 
-## Why Brewfather? {#why-brewfather-}
+## Why Brewfather? <a id="why-brewfather-"></a>
 
 Brewfather believes designing your recipes and tracking your batches should be easy and fun with easy access from all your devices with no hassle.
 
@@ -47,11 +47,11 @@ Brewfather believes designing your recipes and tracking your batches should be e
 Brewfather strives to cover all your brewing needs in one place, new features are added continuously, [get in touch](https://bitbucket.org/brewfather/brewfather) if you miss any features or find any issues!
 {% endhint %}
 
-## Home-Screen App Support {#home-screen-app-support}
+## Home-Screen App Support <a id="home-screen-app-support"></a>
 
 Brewfather can be added to your homescreen on Android and iOS devices to give you the best user experience.
 
-## Free to try as long as you want! {#pricing}
+## Free to try as long as you want! <a id="pricing"></a>
 
 Brewfather can be **used for free as long as you want** with a few limitations. New users are granted a free 24-day membership of Brewfather Premium with no limitations.
 
@@ -59,7 +59,7 @@ Any of the tools and calculators can be used for free with no limitations as lon
 
 As a Free user your are limited to a maximum number of 10 recipes/batches, and no import or export. If you exceed these limitations you are free to delete any of your recipes or batches, or sign up for Brewfather Premium.
 
-## Brewfather Premium {#brewfather-premium}
+## Brewfather Premium <a id="brewfather-premium"></a>
 
 You can sign up for a Premium subscription to unlock unlimited number of recipes/batches and premium features. The Premium subscription costs $1.99 per month or $19.99 annually, and will cover Brewfather's running costs and development of new features.
 
@@ -77,7 +77,7 @@ To sign up for **Brewfather Premium** - go to your account page in [Brewfather A
 
 All payments and credit card details are handled securely by [Stripe](https://www.stripe.com/).
 
-## Author / Owner {#author}
+## Author / Owner <a id="author"></a>
 
 Brewfather is owned by the company [**Warpkode AS**](https://warpkode.com), and made by ****Thomas Gangsøy, professional developer, and brewer at heart!
 

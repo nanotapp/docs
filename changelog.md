@@ -1,6 +1,6 @@
 # Changelog
 
-## In developement / Coming soon {#coming-soon}
+## In developement / Coming soon <a id="coming-soon"></a>
 
 [Visit the issue tracker for more info](https://bitbucket.org/brewfather/brewfather/issues?&sort=-votes).
 
@@ -207,7 +207,7 @@
 * Batch number: it is no longer possible to set decimals or batch number below 1
 * Bottling temperature now changed to peak fermentation temperature - for calculating priming sugar
 
-## 1.1.13 - 18.07.2018 {#coming-soon}
+## 1.1.13 - 18.07.2018 <a id="coming-soon"></a>
 
 ### Features
 
@@ -220,7 +220,7 @@
 * Batch recipe could wrongfully update in the old batch if opened in the same session and you changed the same base recipe in a new batch
 * Keg \(Force\) carbonation, was giving slightly lower pressure than it was supposed to
 
-## 1.1.12 - 08.07.2018 {#coming-soon}
+## 1.1.12 - 08.07.2018 <a id="coming-soon"></a>
 
 ### Features
 
@@ -249,21 +249,21 @@
 * Fixed RO-water profile
 * Fixed WB-06 yeast attenuation
 
-## 1.1.11 - 01.07.2018 {#coming-soon}
+## 1.1.11 - 01.07.2018 <a id="coming-soon"></a>
 
 ### Fixed
 
 * Corrected auto calculation of efficiencies when using **Kettle** as batch volume target
 * Now includes Mas-Tun Loss in efficiencies calculation
 
-## 1.1.10 - 01.07.2018 {#coming-soon}
+## 1.1.10 - 01.07.2018 <a id="coming-soon"></a>
 
 ### Fixed
 
 * Corrected Pre-Boil Gravity calculation when using **Kettle** as batch volume target
 * Corrected Decoction misspelling
 
-## 1.1.9 - 25.06.2018 {#coming-soon}
+## 1.1.9 - 25.06.2018 <a id="coming-soon"></a>
 
 ### Features
 
@@ -285,7 +285,7 @@
 
 While some have reported very close to reported pH after lactic acid addition there has also been a number of reports on the amount being too high and giving a lower than estimated pH, still looking for feedback on this, **please report your results**.
 
-## 1.1.7 - 22.06.2018 {#coming-soon}
+## 1.1.7 - 22.06.2018 <a id="coming-soon"></a>
 
 ### Features
 
@@ -296,7 +296,7 @@ While some have reported very close to reported pH after lactic acid addition th
 
 * Yeast calculator \(only when opened from recipe designer\) giving too high target cell count when using US gal or Imperial gal, now works correctly for all units
 
-## 1.1.6 - 21.06.2018 {#coming-soon}
+## 1.1.6 - 21.06.2018 <a id="coming-soon"></a>
 
 ### Features
 
@@ -315,9 +315,9 @@ While some have reported very close to reported pH after lactic acid addition th
 * Volume 0 for sparge water in water calculator now handeled correctly
 * Carbonation calculator at 0 degrees now works
 
-## 1.1.5 - 15.06.2018 {#coming-soon}
+## 1.1.5 - 15.06.2018 <a id="coming-soon"></a>
 
-### Fixed {#fixed}
+### Fixed <a id="fixed"></a>
 
 * Fix month not setting correctly when editing batch note time
 * Fix clone/copying recipe not working
