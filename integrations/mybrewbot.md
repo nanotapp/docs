@@ -10,3 +10,9 @@ Your MyBrewbot should then log every 15 minutes.
 
 After the MyBrewbot has done its first logging to Brewfather, it will appear in the device list located in your Batch &gt; Fermentation &gt; Readings &gt; **Devices**. Click on the Devices button and attatch your MyBrewbot to the batch. The next time your MyBrewbot logs, it will show up in your batch!
 
+## What is MyBrewbot?
+
+The MyBrewbot for Tilt, which has a bluetooth receiver to collect the Tilt data, controls the temperature of the fermenting wort and sends the logging data to Brewfather. This can be a good alternative to using a [TiltPi](tilt-hydrometer.md#tiltpi-setup) as you can also control your heating and cooling with this unit based on the Tilt readings and/or external temperature sensor.
+
+Get it [here](https://www.mybrewbot.com/).
+
