@@ -14,6 +14,7 @@
   * [Brewing](batches/brewing.md)
   * [Fermenting](batches/fermenting.md)
   * [Completed](batches/completed.md)
+* [Devices](devices.md)
 * [Inventory](inventory/README.md)
   * [Fermentables](inventory/fermentables.md)
   * [Hops](inventory/hops.md)
