@@ -8,21 +8,27 @@
 
 ### Features
 
+* New **Devices page** in the menu, here you can see all your logging devices and change settings or delete them
+  * The last log from your devices is shown in the Devices page
+  * Configure flat gravity or temperature adjustment to your devices. For gravity adjustment enter the number of gravity points to adjust in whole number\(s\).
 * **New remote logging** integration with ****[**MyBrewbot**](integrations/mybrewbot.md)\*\*\*\*
-* You can now **attach and detach Tilt** devices to the batch similar to the other devices, this is optional. "Beer name" in Tilt needs to be empty for this to work.
+* You can now **attach and detach Tilt** devices to the batch similar to the other devices, this is optional. "Beer name" in Tilt needs to be empty for this to work. You can still log using batch number as beer name.
 * Mash/Sparge water calculation method dropdown in equipment profile \(select between Default, No Sparge, and Custom\)
 * **Brewtools B80pro** equipment profile \(will be tuned based on user feedback when the device is available\)
+* Added description field to equipment profile
 * Added malt from **Bonsak Gårdsmalteri**
 * Added some **Polish and French hops**
-* You can now add **\[SG\]** to the name of your iSpindel if you use SG based formula
-* Added support for **Relative Bitterness Ratio**, displayed below BU:GU ratio, click to enable style range
+* You can now add **\[SG\]** to the name of your iSpindel if you use SG based formula, it will then be logged correctly
+* Added support for **Relative Bitterness Ratio** in recipe designer, displayed below BU:GU ratio, click to enable style range
 
 ### Fixed
 
 * Volume of measured values on PDF now displayed in the selected unit
 * Starter size is now always in liters
 * Now supports comma in water formulas
-* Remote logging to batch will now be blocked if batch is in status Conditioning, Completed or Archived.
+* Remote logging to batch will now be blocked if batch is in status Conditioning or Archived, in addition to Completed
+
+_Version number note: From this version the second number in the version will increase when new features are released. The last number will increase when only minor changes or bugfixes occur._
 
 ## 1.1.25 - 12.10.2018
 
