@@ -22,7 +22,7 @@ Brewfather includes
 * Large customizable **ingredients** database
 * **Inventory** stock tracking
 * Multiple **style guidelines** \(BJCP, Brewers Association, Norbrygg, SHBF\)
-* Remote logging from [**Tilt**](https://tilthydrometer.com/), [**iSpindel**](https://www.ispindel.de/) and [**Brewpiless**](https://github.com/vitotai/BrewPiLess)
+* Remote logging from [**Tilt**](integrations/tilt-hydrometer.md), [**iSpindel**](integrations/ispindel/)**,** [**Brewpiless**](integrations/brewpiless.md) **and** [**MyBrewbot**](integrations/mybrewbot.md#what-is-mybrewbot)\*\*\*\*
 * **Print** your recipe or batch to PDF
 * Import and export **BeerXML**
 * Metric and US/Imperial units
