@@ -4,6 +4,10 @@
 
 The MyBrewbot for Tilt, which has a bluetooth receiver to collect the Tilt data, controls the temperature of the fermenting wort and sends the logging data to Brewfather. This can be a good alternative to using a [TiltPi](tilt-hydrometer.md#tiltpi-setup) as you can also control your heating and cooling with this unit based on the Tilt readings and/or external temperature sensor. Both the gravity and temperature \(and all other data sent\) will be logged to Brewfather.
 
+### Buy MyBrewbot
+
+Rembmer to use promo code "**Brewfather**" to recieve free international shipping.
+
 Get it [here](https://www.mybrewbot.com/).
 
 ## Setup
