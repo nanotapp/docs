@@ -9,6 +9,7 @@
 ### Features
 
 * New **Devices page** in the menu, here you can see all your logging devices and change settings or delete them
+  * Page will only show if you have at least one device activated in the settings
   * The last log from your devices is shown in the Devices page
   * Configure flat gravity or temperature adjustment to your devices. For gravity adjustment enter the number of gravity points to adjust in whole number\(s\). The adjustments will be applied to new loggings, it will not change previous logs
 * **New remote logging** integration with ****[**MyBrewbot**](integrations/mybrewbot.md)\*\*\*\*
