@@ -20,6 +20,7 @@
 * Added some **Polish and French hops**
 * You can now add **\[SG\]** to the name of your iSpindel if you use SG based formula, it will then be logged correctly
 * Added support for **Relative Bitterness Ratio** in recipe designer, displayed below BU:GU ratio, click to enable style range
+* Shared recipe page now live reloads if owner changes the recipe
 
 ### Fixed
 
