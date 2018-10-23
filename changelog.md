@@ -10,7 +10,7 @@
 
 * New **Devices page** in the menu, here you can see all your logging devices and change settings or delete them
   * The last log from your devices is shown in the Devices page
-  * Configure flat gravity or temperature adjustment to your devices. For gravity adjustment enter the number of gravity points to adjust in whole number\(s\).
+  * Configure flat gravity or temperature adjustment to your devices. For gravity adjustment enter the number of gravity points to adjust in whole number\(s\). The adjustments will be applied to new loggings, it will not change previous logs
 * **New remote logging** integration with ****[**MyBrewbot**](integrations/mybrewbot.md)\*\*\*\*
 * You can now **attach and detach Tilt** devices to the batch similar to the other devices, this is optional. "Beer name" in Tilt needs to be empty for this to work. You can still log using batch number as beer name.
 * Mash/Sparge water calculation method dropdown in equipment profile \(select between Default, No Sparge, and Custom\)
