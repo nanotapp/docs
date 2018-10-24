@@ -20,3 +20,7 @@ Your MyBrewbot should then log every 15 minutes.
 
 After the MyBrewbot has done its first logging to Brewfather, it will appear in the device list located in your Batch &gt; Fermentation &gt; Readings &gt; **Devices**. Click on the Devices button and attatch your MyBrewbot to the batch. The next time your MyBrewbot logs, it will show up in your batch!
 
+## Result
+
+![Follow your fermentation and log all the data to your batch](../.gitbook/assets/image%20%2845%29.png)
+

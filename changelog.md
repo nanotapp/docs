@@ -4,6 +4,10 @@
 
 [Visit the issue tracker for more info](https://bitbucket.org/brewfather/brewfather/issues?&sort=-votes).
 
+## 1.2.1 - 23.10.2018
+
+* Fixed minor issue where recipe sorting did not update when changed
+
 ## 1.2.0 - 23.10.2018
 
 ### Features
