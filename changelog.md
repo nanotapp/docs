@@ -4,6 +4,21 @@
 
 [Visit the issue tracker for more info](https://bitbucket.org/brewfather/brewfather/issues?&sort=-votes).
 
+## 1.2.2 - 29.10.2018
+
+### Features
+
+* Camurri Brauer CB50 + CB50 MAXI equipment profiles
+* Brewtools B40pro profile
+* Updated Brewtools B80pro profile
+
+### Fixed
+
+* Allow remote logging to batch in Conditioning status again
+* Starter volume now shows correctly as liters in recipe designer when using gallons
+* Fixed rounding issue at the inventory manager in planning tab of batch
+* Fixed text wrapping at the inventory manager in planning tab of batch
+
 ## 1.2.1 - 23.10.2018
 
 * Fixed minor issue where recipe sorting did not update when changed
