@@ -50,7 +50,9 @@ It is recommended to automatically calculate your mash efficiency by enabling th
 
 **Hopstand Temperature:** The average temperature of your hopstand, used to automatically calculate your _Aroma Hop Utilization_ when _Calc aroma hop utilization_ is checked. This is also displayed in the brew sheet.
 
-## Mash Water/Volume
+## Mash and sparge water
+
+### Mash Water/Volume
 
 _Settings for calculating mash water_
 
