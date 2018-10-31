@@ -8,7 +8,7 @@ To set up your Equipment profile, select the Profiles page from the menu. Click 
 
 **Boil Time:** Boil time for this equipment profile, if you adjust boil time when "Calc boil volume" is activated, the pre-boil volume will change to match the new boil time based on boiloff.
 
-**Description:** Free text felt for details about the equipment.
+**Description:** Free text field for details about the equipment.
 
 ## Volumes
 
@@ -62,7 +62,7 @@ _Settings for calculating mash water_
 
 If the calculated mash water is under the minimum limit, it will take water from the sparge water amount and move it to increase the mash volume, dynamically increasing your water/grain ratio.
 
-If the calculated mash water is over the maximum limit, it will move water to sparge or top-top water to not exceed the limit, dynamically decreasing your water/grain ratio.
+If the calculated mash water is over the maximum limit, it will move water to sparge or top-up water to not exceed the limit, dynamically decreasing your water/grain ratio.
 
 ### Sparge Water Limit
 
@@ -70,7 +70,7 @@ Use this to avoid getting to much sparge water calculated, if you have limited r
 
 **Max:** Maximum amount of room in your HLT / Sparge Water Heater.
 
-If the calculated sparge water amount is above the limit, it will move water to mash \(until maximum mash volume is reached\) and/or top-top water to not exceed the limit.
+If the calculated sparge water amount is above the limit, it will move water to mash \(until maximum mash volume is reached\) and/or top-up water to not exceed the limit.
 
 ### Strike Water Temperature
 
