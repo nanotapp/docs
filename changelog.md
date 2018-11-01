@@ -6,11 +6,11 @@
 
 ### Features
 
+* _**Normal**_ **is now the default FG calculation method for new users, current users have to change this manually in the settings if desired**
 * Recipe designer shows a bigger beer color icon in desktop mode
-* New unit setting you can now choose to show gravity in **SG** or **°Plato**, or a **combination**. 
-* You can separately select what gravity unit you want to input, choose between **SG**, **°Plato** or **°Oe** \(Gravity Points\)
-* _Normal_ is now the default FG calculation method for new users, current users have to change this manually in the settings if desired
-* Added full range of Escarpment Yeast Laboratories
+* New unit setting, you can now choose to show gravity in **SG,** **°Plato**, SG+**°**Plato or **°Oe**
+* You can separately select what gravity unit you want to input, choose between **SG**, **°Plato** or **°Oe**
+* Added full yeast range of Escarpment Yeast Laboratories
 * Added Idaho Gem and Sabro hops
 
 ### Fixed
