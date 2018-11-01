@@ -4,6 +4,21 @@
 
 [Visit the issue tracker for more info](https://bitbucket.org/brewfather/brewfather/issues?&sort=-votes).
 
+### Features
+
+* Recipe designer shows a bigger beer color icon in desktop mode
+* New unit setting you can now choose to show gravity in **SG** or **°Plato**, or a **combination**. 
+* You can separately select what gravity unit you want to input, choose between **SG**, **°Plato** or **°Oe** \(Gravity Points\)
+* _Normal_ is now the default FG calculation method for new users, current users have to change this manually in the settings if desired
+* Added full range of Escarpment Yeast Laboratories
+* Added Idaho Gem and Sabro hops
+
+### Fixed
+
+* Fixed issue where top-up water was suggested in a rare case when min mash water limit was not reached, and max sparge water limit was set
+* Brew tracker handles better when using it on multiple devices simultaneously and one of the devices closes the app/sleeps
+* Now shows fermentation chart even if the logging device is no longer found / deleted
+
 ## 1.2.2 - 29.10.2018
 
 ### Features
