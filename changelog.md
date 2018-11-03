@@ -4,6 +4,8 @@
 
 [Visit the issue tracker for more info](https://bitbucket.org/brewfather/brewfather/issues?&sort=-votes).
 
+## 1.2.3 - 03.11.2018
+
 ### Features
 
 * _**Normal**_ **is now the default FG calculation method for new users, current users have to change this manually in the settings if desired**
