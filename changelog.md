@@ -14,6 +14,7 @@
 * You can separately select what gravity unit you want to input, choose between **SG**, **°Plato** or **°Oe**
 * Added full yeast range of Escarpment Yeast Laboratories
 * Added Idaho Gem and Sabro hops
+* Supports CO₂ extract hops
 
 ### Fixed
 
