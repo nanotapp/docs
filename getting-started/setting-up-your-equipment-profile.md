@@ -18,7 +18,7 @@ To set up your Equipment profile, select the Profiles page from the menu. Click 
 
 **Calc boil volume:** Automatically calculates your Pre-Boil Volume if this is active calculated back from batch volume. Based on your boiloff rate and trub/chiller loss, and 4% shrinkage.
 
-**Pre-Boil Volume:** Set your pre-boil volume manually or have it calculated automatically \(recommended\).
+**Pre-Boil Volume:** Set your pre-boil volume manually or have it calculated automatically \(recommended\). This volume is measured at near boiling temp \(after expansion\). **Post-Boil Volume** is also measured at boiling temp \(before chill\).
 
 **Boil Off:** How much you boiloff per hour with your setup, important factor in calculating Pre-Boil Volume.
 
