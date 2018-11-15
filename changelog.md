@@ -4,6 +4,25 @@
 
 [Visit the issue tracker for more info](https://bitbucket.org/brewfather/brewfather/issues?&sort=-votes).
 
+## 1.3.0 - 15.11.2018
+
+### Features
+
+* Recipe designer: You can now undo and redo changes in the current session \(currently desktop mode only\)
+* Pressured fermentation: Added pressure to fermentation profile steps
+* Now shows age since bottling date when batch has completed status \(batches page\)
+* Refractometer tool: Now remembers calibration factor
+* Settings page: Added reset default data button. This will allow you to reset the pre-included ingredients and profiles. When you click it you will be prompted about what you want to reset, and you have to confirm it
+* Profiles: Added a delete button on the profiles in addition to the hidden delete button when you slide them in the list
+* Inventory: New setting in the settings to allow negative inventory \(disabled by default\). When this is enabled you are allowed to write negative amounts in the inventory, or when checking off ingredients in the inventory they will become negative if you remove more than you have. \(Usefull if you have the ingredients you need to brew, but need to order the dry-hops for example, or you just want to enter negative amounts for things you want to buy\)
+
+### Fixed
+
+* No longer detaches device when changing device settings \(offsets\)
+* Fermentable type not set on BeerXML import
+* Unable to turn off brew tracker in a special situation
+* When using SG+Plato as gravity unit it no longer shows plato in style guide ranges due to space issues
+
 ## 1.2.3 - 03.11.2018
 
 ### Features
