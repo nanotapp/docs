@@ -4,6 +4,19 @@
 
 [Visit the issue tracker for more info](https://bitbucket.org/brewfather/brewfather/issues?&sort=-votes).
 
+## 1.3.1 - 19.11.2018
+
+### Features
+
+* Inventory checkbox \(planning tab of batch\) is now red when inventory amount is less than recipe amount and negative inventory is enabled
+* Visual: Added color transition on beer icon of recipe
+
+### Fixed
+
+* Allow to set negative inventory \(when enabled\) from batch planning tab
+* Hops total amount now updates when scaling recipe
+* Fixed rare issue where recipe did not load when equipment was missing
+
 ## 1.3.0 - 15.11.2018
 
 ### Features
