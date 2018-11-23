@@ -148,11 +148,25 @@ Calcium Carbonate and Calcium Sulfate are both **less** soluble in **hot water t
 
 In the water calculator settings you can select between **Anhydrous**, **Dihydrate** and **Liquid**.
 
-**Anhydrousis** is defined as without water. Therefore the anhydrous Calcium Chloride has a higher over all amount of calcium by weight.
+#### Anhydrous
 
-**CaCl2** which has a molecular weight of 110.98 g/mol. Allegedly this would mean it is 100% Calcium Chloride. Verus Calcium Chloride **Dihydrate:** **CaCl2·2H2O** has a molecular weight of 147.0 g/mol This means the dihydrite is **theoretically at most**: \(110.98 g/mol/147 g/mol x 100%\) = **75.50 %** Calcium Chloride. 
+**Anhydrous** is defined as without water. Therefore the anhydrous Calcium Chloride has a higher over all amount of calcium by weight.
+
+**CaCl2** which has a molecular weight of 110.98 g/mol. Allegedly this would mean it is 100% Calcium Chloride. 
+
+Anhydrous Calcium Chloride can be sold in pellet form. 
+
+#### Dihydrate
+
+Calcium Chloride **Dihydrate:** **CaCl2·2H2O** has a molecular weight of 147.0 g/mol This means the dihydrite is **theoretically at most**: \(110.98 g/mol/147 g/mol x 100%\) = **75.50 %** Calcium Chloride. 
 
 In the real world the Calcium Chloride **Dihydrate is said to vary from 77% to 80%** Calcium Chloride. But selecting **Dihydrate / Flake** in the settings is recommended.
 
-As for a physical difference: Not any real visual indicators. **Dihydrate** is typically in a flake form. The **Anhydrous** Calcium Chloride can be sold in pellet form. \([Source](https://www.researchgate.net/post/Can_I_use_calcium_chloride_dihydrate_instead_of_calcium_chloride_for_the_preparation_of_buffer)\)
+**Dihydrate** is typically in a flake form.
+
+#### Liquid
+
+When selecting Liquid as form you can enter the strengt/concentration of you solution.
+
+\([Source](https://www.researchgate.net/post/Can_I_use_calcium_chloride_dihydrate_instead_of_calcium_chloride_for_the_preparation_of_buffer)\)
 
