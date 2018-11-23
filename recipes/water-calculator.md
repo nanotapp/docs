@@ -144,3 +144,15 @@ Calcium Carbonate \(Chalk\) is quite insoluble.
 Gypsum \(Calcium Sulfate\) is not as soluble as Calcium Chloride, but much more soluble that Calcium Carbonate.   
 Calcium Carbonate and Calcium Sulfate are both **less** soluble in **hot water than cold** \(which is the reverse of the usual case\). \(Source: [AJ Delange](https://www.homebrewtalk.com/forum/threads/a-brewing-water-chemistry-primer.198460/#post-2324604)\)
 
+### Calcium Chloride form
+
+In the water calculator settings you can select between **Anhydrous**, **Dihydrate** and **Liquid**.
+
+**Anhydrousis** is defined as without water. Therefore the anhydrous Calcium Chloride has a higher over all amount of calcium by weight.
+
+**CaCl2** which has a molecular weight of 110.98 g/mol. Allegedly this would mean it is 100% Calcium Chloride. Verus Calcium Chloride **Dihydrate:** **CaCl2·2H2O** has a molecular weight of 147.0 g/mol This means the dihydrite is **theoretically at most**: \(110.98 g/mol/147 g/mol x 100%\) = **75.50 %** Calcium Chloride. 
+
+In the real world the Calcium Chloride **Dihydrate is said to vary from 77% to 80%** Calcium Chloride. But selecting **Dihydrate / Flake** in the settings is recommended.
+
+As for a physical difference: Not any real visual indicators. **Dihydrate** is typically in a flake form. The **Anhydrous** Calcium Chloride is can be sold in pellet form. \([Source](https://www.researchgate.net/post/Can_I_use_calcium_chloride_dihydrate_instead_of_calcium_chloride_for_the_preparation_of_buffer)\)
+
