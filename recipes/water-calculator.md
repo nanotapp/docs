@@ -154,5 +154,5 @@ In the water calculator settings you can select between **Anhydrous**, **Dihydra
 
 In the real world the Calcium Chloride **Dihydrate is said to vary from 77% to 80%** Calcium Chloride. But selecting **Dihydrate / Flake** in the settings is recommended.
 
-As for a physical difference: Not any real visual indicators. **Dihydrate** is typically in a flake form. The **Anhydrous** Calcium Chloride is can be sold in pellet form. \([Source](https://www.researchgate.net/post/Can_I_use_calcium_chloride_dihydrate_instead_of_calcium_chloride_for_the_preparation_of_buffer)\)
+As for a physical difference: Not any real visual indicators. **Dihydrate** is typically in a flake form. The **Anhydrous** Calcium Chloride can be sold in pellet form. \([Source](https://www.researchgate.net/post/Can_I_use_calcium_chloride_dihydrate_instead_of_calcium_chloride_for_the_preparation_of_buffer)\)
 
