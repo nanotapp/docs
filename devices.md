@@ -8,3 +8,9 @@ The devices page lists all your devices and the latest data recieved from them. 
 
 You can also configure and remove devices.
 
+### Settings
+
+#### Gravity offset
+
+Offset needs to be written as a full number eg -8 instead of -0.008 when you want to adjust for example a gravity reading of 1.052 to 1.044.
+

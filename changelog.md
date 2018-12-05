@@ -4,6 +4,20 @@
 
 [Visit the issue tracker for more info](https://bitbucket.org/brewfather/brewfather/issues?&sort=-votes).
 
+## 1.3.2 - 05.12.2018
+
+### Features
+
+* Added HLT volume as additional text next to sparge water amount when HLT deadspace is present
+* If you click on a brew-tracker in the menu the batch will open _\(note: you must have opened the batches page at least once since the app loaded for this to work\)_
+* Increased the height of the taste note textbox a little
+
+### Fixed
+
+* Fixed rare issue where one or more settings could reset to the default value \(example the Tilt turning off\)
+* Strike temp now shows even if there is ramp time on the first step in the mash profile
+* HLT Deadspace in the equipment profile is now added to the water amount the brew tracker suggest to prepare in your HLT
+
 ## 1.3.1 - 19.11.2018
 
 ### Features
