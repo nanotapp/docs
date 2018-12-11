@@ -4,6 +4,16 @@
 
 [Visit the issue tracker for more info](https://bitbucket.org/brewfather/brewfather/issues?&sort=-votes).
 
+## 1.3.3 - 11.12.2018
+
+### Features
+
+* Hydrometer calibration temp is now remembered/stored
+
+### Fixed
+
+* Pre-boil gravity could get higher than OG when using mashtun loss \(unrecoverable\)
+
 ## 1.3.2 - 05.12.2018
 
 ### Features
