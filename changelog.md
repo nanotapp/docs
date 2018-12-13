@@ -4,6 +4,18 @@
 
 [Visit the issue tracker for more info](https://bitbucket.org/brewfather/brewfather/issues?&sort=-votes).
 
+## 1.3.4 - 13.12.2018
+
+### Features
+
+* Added **Mecca Grade Estate Malts**
+* Added option in the edit reading to update the last reading shown under the completion bar for the batch \(refresh icon next to the delete icon\)
+* If you have entered a FG on the batch, the entered FG will be used for the completion bar, rather than the last reading
+
+### Fixed
+
+* Fixed an error where the recipes page could forget what categories where collapsed when loading the page on a slow device
+
 ## 1.3.3 - 11.12.2018
 
 ### Features
