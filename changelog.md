@@ -4,6 +4,24 @@
 
 [Visit the issue tracker for more info](https://bitbucket.org/brewfather/brewfather/issues?&sort=-votes).
 
+## 1.4.0 - 21.12.2018
+
+### Features
+
+* Added the possibility to **export your user data** for local backup in one JSON file \(bottom of settings page\)
+* Added new power-up called [Custom Stream](integrations/custom-stream.md), allows you to hook in any custom device for logging fermentation data, for more details, [see here](integrations/custom-stream.md).
+* Added HLT water and Total Water on print/PDF
+* Added new field "tempUnit" to BrewPiLess logging format, allowed values are **C** and **F**, it will then log the temperature based on the given unit
+
+### Fixed
+
+* Made brew-sheet/read-mode selectable in all pages where it is used
+* First Wort hops now shows in brew tracker
+* Trub/Chiller loss now included in calculation of beer color \(the **color of your recipes might be lowered slightly** to a more correct number\)
+* Now shows a warning if custom water fomulas have syntax error, rather than failing
+* Fixed undo/redo in recipe designer when editing from batch view
+* Fixed pluss button on ingredients in recipe designer when editing from batch view
+
 ## 1.3.4 - 13.12.2018
 
 ### Features
