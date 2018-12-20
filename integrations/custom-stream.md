@@ -20,3 +20,5 @@ Use the following **JSON** format in the body of the **POST:**
 }
 ```
 
+ **Never log more than once every 15 minutes**, request logged more often than that will be ignored.
+
