@@ -44,6 +44,7 @@
   * [MyBrewbot](integrations/mybrewbot.md)
   * [Custom API Endpoint](integrations/custom-api-endpoint.md)
   * [CraftBeerPi](integrations/craftbeerpi.md)
+  * [Custom Stream](integrations/custom-stream.md)
 * [More](more/README.md)
   * [Contact](more/contact.md)
 * [FAQ](faq.md)
