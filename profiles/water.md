@@ -1,6 +1,6 @@
 # Water
 
-![Enter your water report values as ppm \(mg/l\)](../.gitbook/assets/image%20%286%29.png)
+![Enter your water report values as ppm \(mg/l\)](../.gitbook/assets/image%20%287%29.png)
 
 ## Water Report Conversion
 

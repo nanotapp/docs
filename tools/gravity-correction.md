@@ -1,8 +1,8 @@
 # Gravity Correction
 
-![Calculate how much DME to add or how much to boil off if gravity is too low](../.gitbook/assets/image%20%2824%29.png)
+![Calculate how much DME to add or how much to boil off if gravity is too low](../.gitbook/assets/image%20%2825%29.png)
 
-![Calculate how much water to add if gravity is too high](../.gitbook/assets/image%20%2830%29.png)
+![Calculate how much water to add if gravity is too high](../.gitbook/assets/image%20%2831%29.png)
 
-![Calculate how to correct the gravity by altering boil time if preferred](../.gitbook/assets/image%20%2827%29.png)
+![Calculate how to correct the gravity by altering boil time if preferred](../.gitbook/assets/image%20%2828%29.png)
 
