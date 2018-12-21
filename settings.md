@@ -1,6 +1,6 @@
 # Settings
 
-![Overview of all the settings available](.gitbook/assets/image%20%286%29.png)
+![Overview of all the settings available](.gitbook/assets/image%20%287%29.png)
 
 In the settings you can...
 
