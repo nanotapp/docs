@@ -12,9 +12,9 @@ Get it [here](https://www.mybrewbot.com/). Use promo code "**Brewfather**" at ch
 
 Using MyBrewbot with Brewfather is very simple. Enable it in your Settings and copy the Logging ID into your MyBrewbot settings.
 
-![1. Enable MyBrewbot in Brewfather](../.gitbook/assets/image%20%2818%29.png)
+![1. Enable MyBrewbot in Brewfather](../.gitbook/assets/image%20%2819%29.png)
 
-![2. Copy the Logging ID into the Brewfather Logging ID field in the MyBrewbot web config](../.gitbook/assets/image%20%289%29.png)
+![2. Copy the Logging ID into the Brewfather Logging ID field in the MyBrewbot web config](../.gitbook/assets/image%20%2810%29.png)
 
 Your MyBrewbot should then log every 15 minutes.
 
@@ -22,5 +22,5 @@ After the MyBrewbot has done its first logging to Brewfather, it will appear in 
 
 ## Result
 
-![MyBrewBot with Tilt attached](../.gitbook/assets/image%20%281%29.png)
+![MyBrewBot with Tilt attached](../.gitbook/assets/image%20%282%29.png)
 

@@ -91,5 +91,5 @@ Brewfather® is a registered trademark.
 The documentation for Brewfather is currently not complete. It is currently in the process of being written.
 {% endhint %}
 
-![Monitor your brews with Brewfather&apos;s integrations](.gitbook/assets/image%20%2850%29.png)
+![Monitor your brews with Brewfather&apos;s integrations](.gitbook/assets/image%20%2851%29.png)
 
