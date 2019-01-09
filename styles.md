@@ -1,4 +1,4 @@
 # Styles
 
-![Multiple style guidelines from BJCP, Brewers Association, Norbrygg, SHBF](.gitbook/assets/image%20%2830%29.png)
+![Multiple style guidelines from BJCP, Brewers Association, Norbrygg, SHBF](.gitbook/assets/image%20%2831%29.png)
 

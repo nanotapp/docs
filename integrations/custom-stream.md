@@ -2,13 +2,16 @@
 
 Integrate your own logging device with a custom **HTTP POST** to the **URL** you are given in the settings.
 
+![Enable custom stream in the settings page](../.gitbook/assets/image%20%2841%29.png)
+
 Use the following **JSON** format in the body of the **POST:**
 
 ```text
 {
   "name": "YourDeviceName",
   "temp": 20.32,
-  "aux_temp": 15.61, // Fridge or Room Temp
+  "aux_temp": 15.61, // Fridge Temp
+  "ext_temp": 6.51, // Room Temp
   "temp_unit": "C", // C, F, K
   "gravity": 1.042,
   "gravity_unit": "G", // G, P
