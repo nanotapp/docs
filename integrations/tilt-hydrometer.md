@@ -10,11 +10,14 @@ Drop your Tilt in the fermenter or a glass of water, go into the settings page i
 
 ### TiltPi Setup
 
-1. Select TILT **color**
-2. Set beer name to your **batch number**
-3. Paste your **Cloud URL**
-4. Time interval **15 minutes** or more
-5. **Enable** start logging to the cloud
+The best and most stable way to log is to have a dedicated Raspberry next to the fermenter, here is [how to set up a TiltPi](https://tilthydrometer.com/products/tilt-pi-raspberry-pi-disk-image-download). We recommend a Raspberry Pi Zero W + MicroSD 8GB + Micro USB charger.
+
+1. Access the TiltPi via the browser 
+2. Select TILT **color**
+3. Set beer name to your **batch number**
+4. Paste your **Cloud URL**
+5. Time interval **15 minutes** or more
+6. **Enable** start logging to the cloud
 
 Make sure "Use Default Cloud URL for All" is **OFF**.
 
