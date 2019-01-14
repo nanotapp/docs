@@ -4,6 +4,46 @@
 
 [Visit the issue tracker for more info](https://bitbucket.org/brewfather/brewfather/issues?&sort=-votes).
 
+## 1.5.0 - 15.01.2019
+
+### Important
+
+When logging with **Tilt**, **you must now attach it to the batch** rather than putting the batch name in the "beer name" field of the Tilt App / TiltPi. 
+
+_Beer name will still work **temporarily** to not break any ongoing logging. If you have attached the Tilt, the attached batch will be prioritized over the "beer name" field._ 
+
+_This is to simplify and avoid confusion where the batch is not logging even when attached because there is something entered in the beer name field._
+
+### Changed
+
+Power-ups \(integrations\) are now restricted to Premium users only. The free Premium period for new users are extended from 24 to 30 days to give some more time for new users to test these features. _Ongoing logging will not be interrupted._
+
+### Features
+
+* Added **Hop Summary** to recipe designer \(button next to add hops\)
+* **Grain/Water ratio** and **Grain Absorption Rate** now has specified units, **L/kg** when using metric units, and **qt/lb** when using gallons and lbs
+* When entering hopstand temperature directly on the hop addition, this temperature will now also be used to calculate extended IBU for boil hops, rather than the temperature from the equipment profile \(Only when **Calculate Aroma Hop Utilization** is enabled in the equipment profile, default on\). If multiple temperatures are present, it will use a weighted average. If you have not corrected for this manually before, IBU on your hopstand recipes might change to a more correct value
+* Show **count** next to categories in Recipes and Batches page
+* Show kJ in alcohol tool
+* New export option for readings: CSV file
+* You can now select overflow target for the sparge-water limit in the equipment profile. Now defaults to Top-Up Water \(Boil\) rather than Mash-Water
+* When changing status in the batch you will get asked if you want to update the corresponding date to your status change if it is different from todays date
+* Added fermentation start date field in fermentation tab of batch
+* Last carbonation type used is remembered
+* Inventory page: New toggle to show only items with negative inventory \(when negative inventory enabled\)
+* Adjust \(add / substract\) button on the ingredients in the inventory
+* _New section in settings for experimental features \(new features that is not yet completed or fully tested can be enabled in settings at your own risk - Premium users only\)_
+
+### Fixed
+
+* Fix OG scaling not working if Potential / Extract was missing on fermentable
+* Show 0 as time on 0min hops in PDF, rather than nothing
+* Yeast starter volume will now always show as Liters in the info box of the yeast starter calculator
+* Fixed yeast starter calculator giving wrong volume when using Chis White formula and gallons as unit
+* Custom water formulas in equipment profile must now always be in metric units
+* Removed some duplicate Weyermann grains
+* Set type "Grain" on fermentables if imported with an invalid value
+
 ## 1.4.0 - 21.12.2018
 
 ### Features

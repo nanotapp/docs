@@ -1,12 +1,25 @@
 # Tilt Hydrometer
 
-Drop your Tilt in the fermenter or a glass of water, go into the settings page in [Brewfather APP](https://web.brewfather.app), enable Tilt. You will then get a cloud URL that you need to copy into the **Cloud URL** in your Tilt-app or TiltPi settings. You then need to enter your **batch number** as the beer name in your Tilt-app or TiltPi settings. Write a comment and click enter/send to log immediately.
+Drop your Tilt in the fermenter or a glass of water, go into the settings page in [Brewfather APP](https://web.brewfather.app), enable Tilt. 
+
+You will then get a cloud URL that you need to copy into the **Cloud URL** in your Tilt-app or TiltPi settings. 
+
+Write a comment and click enter/send to log immediately.
+
+![Fermentation Tab of the Batch](../.gitbook/assets/image%20%2810%29.png)
+
+Then go into the Fermentation tab of your batch and click **Devices.**  
+After your Tilt has done it's first logging to Brewfather it will appear in the device list.
+
+![](../.gitbook/assets/image%20%2838%29.png)
+
+Click the **ATTACH** button to make it log to this batch. Wait 15-30 minutes for your Tilt to log the next time.
 
 **Never log more than once every 15 minutes**, request logged more often than that will be ignored. This is the default value of the Tilt.
 
 ### Tilt Phone App Setup
 
-![Set Beer Name \(batch number\), and Logging URL, and click Post Comment to start logging](../.gitbook/assets/tilt_phone.jpg)
+![Set Logging URL, and click Post Comment to start logging, then attach.](../.gitbook/assets/tilt_phone.jpg)
 
 ### TiltPi Setup
 
@@ -14,22 +27,19 @@ The best and most stable way to log is to have a dedicated Raspberry next to the
 
 1. Access the TiltPi via the browser 
 2. Select TILT **color**
-3. Set beer name to your **batch number**
-4. Paste your **Cloud URL**
-5. Time interval **15 minutes** or more
-6. **Enable** start logging to the cloud
+3. Paste your **Cloud URL**
+4. Time interval **15 minutes** or more
+5. **Enable** start logging to the cloud
+6. Make sure "Use Default Cloud URL for All" is **OFF**.
+7. Attach in batch in Brewfather
 
-Make sure "Use Default Cloud URL for All" is **OFF**.
+![](../.gitbook/assets/image%20%2821%29.png)
 
-![](../.gitbook/assets/image%20%2820%29.png)
+If you have issues with getting the TiltPi to log, try restarting it by removing the power and putting it back in, then start from 1.
 
-### Atlernative logging method
+### Attach to Batch
 
 After the Tilt has done its first logging to Brewfather, it will appear in the device list located in your Batch &gt; Fermentation &gt; Readings &gt; **Devices**. Click on the Devices button and attatch your Tilt to the batch. The next time your Tilt logs, it will show up in your batch!
-
-{% hint style="info" %}
-**Important**: If using alternative logging method the beer name field needs to be **empty**.
-{% endhint %}
 
 ## Result
 
@@ -41,25 +51,25 @@ _Want your shop listed here? Get in_ [_touch_](../more/contact.md)_._
 
 ### International
 
-![](../.gitbook/assets/image%20%2856%29.png)
+![](../.gitbook/assets/image%20%2858%29.png)
 
 Buy directly from Tilt: [https://tilthydrometer.com/](https://tilthydrometer.com/)
 
 ### Norwegian dealers
 
-![](../.gitbook/assets/image%20%2836%29.png)
+![](../.gitbook/assets/image%20%2837%29.png)
 
 Buy from [Brewshop.no](https://brewshop.no/produkt/utstyr/gjaering/utstyr-til-gjaering/tilt-hydrometer-termometer-ny-versjon)
 
-![](../.gitbook/assets/image%20%2866%29.png)
+![](../.gitbook/assets/image%20%2868%29.png)
 
 Buy from [Petit-agentur.no](https://petit-agentur.no/search_result?keywords=tilt+hydrometer)
 
-![](../.gitbook/assets/image%20%2854%29.png)
+![](../.gitbook/assets/image%20%2856%29.png)
 
 Buy from [Vestbrygg.no](https://www.vestbrygg.no/home/SearchForm?q=tilt+hydrometer)
 
-![](../.gitbook/assets/image%20%2849%29.png)
+![](../.gitbook/assets/image%20%2851%29.png)
 
 Buy from [Strømmen Hjemmebrygg](https://homebrew.no/)
 

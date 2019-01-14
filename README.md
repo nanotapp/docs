@@ -53,29 +53,33 @@ Brewfather can be added to your homescreen on Android and iOS devices to give yo
 
 ## Free to try as long as you want! <a id="pricing"></a>
 
-Brewfather can be **used for free as long as you want** with a few limitations. New users are granted a free 24-day membership of Brewfather Premium with no limitations.
+Brewfather can be **used for free as long as you want** with a few limitations. New users are granted a free 30-day membership of Brewfather Premium with no limitations.
 
 Any of the tools and calculators can be used for free with no limitations as long as you want.
 
-As a Free user your are limited to a maximum number of 10 recipes/batches, and no import or export. If you exceed these limitations you are free to delete any of your recipes or batches, or sign up for Brewfather Premium.
+As a Free user your are limited to a **maximum of 10 recipes/batches**, and no import or export. If you exceed these limitations you are free to delete any of your recipes or batches, or sign up for Brewfather Premium.
+
+If you exceed 10 recipes and/or batches in your free Premium trial, you will not loose any data when the trial runs out, but your recipes and/or batches will become read-only. You are allowed to delete so you go under the limit again. When under the limit, Brewfather will work as normal.
 
 ## Brewfather Premium <a id="brewfather-premium"></a>
 
 You can sign up for a Premium subscription to unlock unlimited number of recipes/batches and premium features. The Premium subscription costs $1.99 per month or $19.99 annually, and will cover Brewfather's running costs and development of new features.
 
-**Premium features include:**
+**Exclusive Premium Features Include:**
 
-* Unlimited number of recipes
-* Unlimited number of batches
-* Import and export features
-* **Edit** readings from devices \(Tilt, iSpindel, BrewPiLess and more\)
+* **Unlimited** number of recipes
+* **Unlimited** number of batches
+* **Import and export** features
+* **Integrate** with Tilt, iSpindel, Brewpiless, MyBrewbot, Custom Stream and more...
+* Edit readings from devices
+* Access to experimental features
 * More upcoming premium features!
 
 {% hint style="info" %}
 To sign up for **Brewfather Premium** - go to your account page in [Brewfather APP](https://web.brewfather.app/) and click **Upgrade to Premium!**
 {% endhint %}
 
-All payments and credit card details are handled securely by [Stripe](https://www.stripe.com/).
+All payments and credit card details are handled securely by [Stripe](https://www.stripe.com/). Brewfather never recieves any sensitive payment details. Full PCI compliance.
 
 ## Author / Owner <a id="author"></a>
 
@@ -91,5 +95,5 @@ Brewfather® is a registered trademark.
 The documentation for Brewfather is currently not complete. It is currently in the process of being written.
 {% endhint %}
 
-![Monitor your brews with Brewfather&apos;s integrations](.gitbook/assets/image%20%2861%29.png)
+![Monitor your brews with Brewfather&apos;s integrations](.gitbook/assets/image%20%2863%29.png)
 
