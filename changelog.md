@@ -27,7 +27,7 @@ Power-ups \(integrations\) are now restricted to Premium users only. The free Pr
 * Show kJ in alcohol tool
 * New export option for readings: CSV file
 * You can now select overflow target for the sparge-water limit in the equipment profile. Now defaults to Top-Up Water \(Boil\) rather than Mash-Water
-* When changing status in the batch you will get asked if you want to update the corresponding date to your status change if it is different from todays date
+* When changing status the of a batch you will get asked if you want to update the date corresponding to your status change, if it is different from todays date
 * Added fermentation start date field in fermentation tab of batch
 * Last carbonation type used is remembered
 * Inventory page: New toggle to show only items with negative inventory \(when negative inventory enabled\)
@@ -37,10 +37,10 @@ Power-ups \(integrations\) are now restricted to Premium users only. The free Pr
 ### Fixed
 
 * Fix OG scaling not working if Potential / Extract was missing on fermentable
-* Show 0 as time on 0min hops in PDF, rather than nothing
-* Yeast starter volume will now always show as Liters in the info box of the yeast starter calculator
-* Fixed yeast starter calculator giving wrong volume when using Chis White formula and gallons as unit
-* Custom water formulas in equipment profile must now always be in metric units
+* Show 0 as time on 0 min hops in PDF, rather than nothing
+* Yeast starter volume will now always show as liters in the info box of the yeast starter calculator
+* Fixed yeast starter calculator giving wrong volume when using Chis White \(No Stir\) formula and gallons as unit
+* Custom water formulas in equipment profile will now always be in metric units
 * Removed some duplicate Weyermann grains
 * Set type "Grain" on fermentables if imported with an invalid value
 
