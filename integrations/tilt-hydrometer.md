@@ -21,7 +21,7 @@ The best and most stable way to log is to have a dedicated Raspberry next to the
 
 Make sure "Use Default Cloud URL for All" is **OFF**.
 
-![](../.gitbook/assets/image%20%2819%29.png)
+![](../.gitbook/assets/image%20%2820%29.png)
 
 ### Atlernative logging method
 
@@ -41,21 +41,25 @@ _Want your shop listed here? Get in_ [_touch_](../more/contact.md)_._
 
 ### International
 
-![](../.gitbook/assets/image%20%2854%29.png)
+![](../.gitbook/assets/image%20%2856%29.png)
 
 Buy directly from Tilt: [https://tilthydrometer.com/](https://tilthydrometer.com/)
 
 ### Norwegian dealers
 
-![](../.gitbook/assets/image%20%2835%29.png)
+![](../.gitbook/assets/image%20%2836%29.png)
 
 Buy from [Brewshop.no](https://brewshop.no/produkt/utstyr/gjaering/utstyr-til-gjaering/tilt-hydrometer-termometer-ny-versjon)
 
-![](../.gitbook/assets/image%20%2864%29.png)
+![](../.gitbook/assets/image%20%2866%29.png)
 
 Buy from [Petit-agentur.no](https://petit-agentur.no/search_result?keywords=tilt+hydrometer)
 
-![](../.gitbook/assets/image%20%2852%29.png)
+![](../.gitbook/assets/image%20%2854%29.png)
 
 Buy from [Vestbrygg.no](https://www.vestbrygg.no/home/SearchForm?q=tilt+hydrometer)
+
+![](../.gitbook/assets/image%20%2849%29.png)
+
+Buy from [Strømmen Hjemmebrygg](https://homebrew.no/)
 
