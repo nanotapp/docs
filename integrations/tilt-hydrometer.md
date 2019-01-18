@@ -33,6 +33,8 @@ The best and most stable way to log is to have a dedicated Raspberry next to the
 6. Make sure "Use Default Cloud URL for All" is **OFF**.
 7. Attach in batch in Brewfather
 
+Enter a comment and click enter, to make the TiltPi send a logging request right away.
+
 ![](../.gitbook/assets/image%20%2821%29.png)
 
 If you have issues with getting the TiltPi to log, try restarting it by removing the power and putting it back in, then start from 1.
