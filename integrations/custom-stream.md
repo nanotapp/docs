@@ -27,5 +27,5 @@ Temperature units "**C**" for celcius, "**F**" for fahrenheit, "**K**" for kelvi
 Gravity units "**G**" for SG and "**P**" for Plato.  
 Pressure units "**PSI**", "**BAR**", "**KPA**".
 
-**Never log more than once every 15 minutes**, request logged more often than that will be ignored.
+**Never log more than once every 15 minutes per device name**, request logged more often than that will be ignored. If you are logging more than one device give them each a unique name, maximum rate: one POST per device per 15 minutes.
 
