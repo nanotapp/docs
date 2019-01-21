@@ -26,6 +26,8 @@ Easy! Just change batch size or efficiency in your equipment profile within a re
 
 ## How do i send my recipe to Grainfather Connect?
 
+Check out [this video](https://youtu.be/PJRLapkOeis) \(turn on subtitles\).
+
 Basically you export a BeerXML on your phone and open it directly in the GF Connect app.  
   
 On your batch click the **menu** button in the lower right, click **export**, select **BeerXML**, the file will show and you should get an option to open the file in your GF Connect app.  
