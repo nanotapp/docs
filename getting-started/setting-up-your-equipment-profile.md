@@ -12,7 +12,7 @@ To set up your Equipment profile, select the Profiles page from the menu. Click 
 
 ## Volumes
 
-**Batch Volume Target:** Select if you want your Batch Volume to match final volume in fermenter \(recommended\), or end of boil kettle volume.
+**Batch Volume Target:** Select if you want your Batch Volume to match final volume in fermenter \(recommended\), or end of boil kettle volume \(hot\).
 
 **Batch Volume:** Your final batch volume target, a factor in calculating your Original Gravity.
 
@@ -24,13 +24,17 @@ To set up your Equipment profile, select the Profiles page from the menu. Click 
 
 **Trub/Chiller Loss:** How much you loose in trub/chilling from kettle to fermenter, important factor in brewhouse efficiency. Total volume of the trub left in the kettle and/or cooler, including hop trub.
 
-**Mash-Tun Deadspace:** Recoverable deadspace volume in your mash-tun, used for calculating mash water amount. In a system with a malt pipe, it is the volume before the water reaches the bottom of the malt pipe. Usually 0 in BIAB.
+**Mash-Tun Deadspace:** Recoverable deadspace volume in your mash-tun, used for calculating mash water amount. In a system with a malt pipe, it is the volume before the water reaches the bottom of the malt pipe. Usually 0 in BIAB.  
+  
+_Recoverable volume is volume that is not lost in mashing, but will be inlcuded in the boil._
 
 **Mash-Tun Loss:** **Unrecoverable** deadspace volume in your mash-tun and/or mash volume lost in your mash process. This is usually 0 in a one-vessel setup. A factor in mash efficiency.
 
 **Fermenter Loss:** Expected loss from fermenter to bottle/keg. 
 
 **HLT Deadspace** is any dead space in the Hot Liquor Tank \(Sparge Water Heater\). For example, if you use a sparge water heater that has the tap that draws higher than the bottom of the pot, you can set the liters that are not drawn. This volume will be added to the sparge water amount in the Water Adjustment Calculator, for calculating your sparge water additions.
+
+_Post-Boil Volume in Brewfather reefers to hot end of boil kettle volume, before shrinkage \(4%\)._
 
 ## Efficiency
 
@@ -48,7 +52,7 @@ It is recommended to automatically calculate your mash efficiency by enabling th
 
 **✔ Calc aroma hop utilization:** If checked, it will automatically your Aroma Hop Utilization based on the entered Hopstand Temperatuer. 
 
-**Hopstand Temperature:** The average temperature of your hopstand, used to automatically calculate your _Aroma Hop Utilization_ when _Calc aroma hop utilization_ is checked. This is also displayed in the brew sheet.
+**Hopstand Temperature:** The average temperature of your hopstand, used to automatically calculate your _Aroma Hop Utilization_ when _Calc aroma hop utilization_ is checked. This is also displayed in the brew sheet if temperature is not specified on the hopstand hop.
 
 ## Mash and sparge water
 
