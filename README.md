@@ -16,7 +16,7 @@ Brewfather includes
 * **Offline support**, auto saving and automatic synchronisation
 * Fully-featured and easy to use **recipe** designer
 * Complete **batch** tracking - log every step of your brew
-* Brew timer with alarms and notifications for your brewday!
+* **Brew timer** with alarms and notifications for your brewday!
 * **Profiles** for your equipment, mash schedule, fermentation steps, and water
 * Highly **customizable** equipment profile to suit any brewing system
 * Large customizable **ingredients** database
@@ -31,9 +31,8 @@ Brewfather includes
 * Estimate your Final Gravity based on many variables
 * **Calculate** every important detail of your recipes and batches
 * Easy to use yeast amount and yeast starter calculator
-* Integrated **water adjustment calculator**
+* Integrated **water adjustment calculator** with **mash pH**
 * Strike temperature calculation
-* Fermentability as a trait for grains
 * Proper calculation of hopstand bitterness
 * And **many more** tools and features to help your brewing!
 
