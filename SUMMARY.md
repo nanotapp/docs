@@ -37,6 +37,7 @@
 * [Account](account/README.md)
   * [Subscription](account/subscription.md)
 * [Integrations](integrations/README.md)
+  * [SmartPID](integrations/smartpid.md)
   * [Tilt Hydrometer](integrations/tilt-hydrometer.md)
   * [iSpindel](integrations/ispindel/README.md)
     * [Calibration](integrations/ispindel/calibration.md)

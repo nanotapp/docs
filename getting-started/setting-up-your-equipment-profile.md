@@ -2,7 +2,7 @@
 
 To set up your Equipment profile, select the Profiles page from the menu. Click Equipment, and add a new profile, or edit the default profile.
 
-![Equipment profile is customizable to get the right numbers for your system](../.gitbook/assets/image%20%2847%29.png)
+![Equipment profile is customizable to get the right numbers for your system](../.gitbook/assets/image%20%2848%29.png)
 
 **Name:** Name for your equipment profile
 
@@ -81,11 +81,15 @@ If the calculated mash water is over the maximum limit, it will move water to sp
 
 Use this to avoid getting to much sparge water calculated, if you have limited room in your HLT.
 
+**Min:** Will take water from calculated mash water if possible to reach a miminum sparge water amount. Minimum mash water will be prioritized.
+
 **Max:** Maximum amount of room in your HLT / Sparge Water Heater.
 
 **Overflow Taget:**   
   **Top-Up:** overflow is moved to top-up water \(boil\).  
   **Mash:** If the calculated sparge water amount is above the limit, it will move water to mash \(until maximum mash volume is reached\) and/or top-up water to not exceed the limit.
+
+**Min HLT water amount**: Define the minimum amount of suggested HLT water you want, so you can cover the coil or heating element.
 
 ### Strike Water Temperature
 

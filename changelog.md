@@ -4,6 +4,39 @@
 
 [Visit the issue tracker for more info](https://bitbucket.org/brewfather/brewfather/issues?&sort=-votes).
 
+## 1.6.0 - 12.02.2019
+
+### Changed
+
+First time you open the app there will now be a popup asking you to accept the terms and conditions. This will only show once, or if the terms are updated.
+
+### Features
+
+* You can now **add manual readings and get a fermentation chart** in your batch
+* Added support for **stepped starters** and **improved the yeast starter tool** it will now show yeast cell count and pitch rate in recipe, and recalculate if the recipe changes. The data entered in the starter calculation tool within a recipe is remembered and stored in the recipe
+* **New summary section in the batch**, this will recalculate the original recipe based on measured values and give you updated values and you can compare the original recipe values to the recalculated values. There is also the possiblity to view the adjusted recipe. You can also copy this recipe and/or its equipment profile. This way you can create an equipment profile from measured values.
+* When deleting a batch it will now check if you have removed any ingredients from the inventory, and ask if you want to return it, also added undo remove from inventory button
+* **Danish Beer Style Guidelines** \(DØLD 2017\)
+* **New yeast** added WLP067, M29, all **Bootleg Biology yeasts**
+* You can now **edit all fields on inventory ingredients** \(edit details button\)
+* Support **IBU from fermentables** \(IBU per amount\), for hopped extract
+* Updated Coopers Liquid Extract \(with IBU numbers\)
+* Final gravity will adjust to not exceed max ABV defined on the yeast
+* There is now a note in the account page if the application is running in offline mode / no contact with cloud database.
+* You can now click directly on the different stages in the brew tracker to skip to that stage
+* Added **Ramp Time in fermentation profile**, also visible in fermentation chart
+* New equipment profile field **minimum HLT water amount**, define the minimum amount of suggested HLT water you want, so you can cover the coil or heating element
+* New equipment profile field **minimum sparge water amount**, will take water from calculated mash water if possible to reach a miminum sparge water amount. Minimum mash water will be prioritized.
+* **Brewie+** equipment profile with correct water amount calculation
+* Show total sum of dryhops amount per volume in the hop summary
+
+### Fixed
+
+* Batch: Use Fermentation start date to count fermentation days rather than Brew Date
+* Fermentation Chart: Fixed temperature y-axis when using Fahrenheit
+* Fix hopstand temp on brew-tracker
+* SG readings from remote logging devices are now rounded
+
 ## 1.5.0 - 15.01.2019
 
 ### Important
