@@ -4,6 +4,15 @@
 
 [Visit the issue tracker for more info](https://bitbucket.org/brewfather/brewfather/issues?&sort=-votes).
 
+## 1.6.1 - 14.02.2019
+
+### Fixed
+
+* Now shows calculated boiloff in equipment profile when calc boil volume is enabled
+* Fixed boiloff issue in batch summary when calc boil volume is disabled in equipment profile
+* Fixed hopstand IBU issue that could occur sometimes
+* Fixed rare issue that could cause the batch to load infinitely
+
 ## 1.6.0 - 12.02.2019
 
 ### Changed
