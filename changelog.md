@@ -4,6 +4,22 @@
 
 [Visit the issue tracker for more info](https://bitbucket.org/brewfather/brewfather/issues?&sort=-votes).
 
+## 1.6.2 - 19.02.2019
+
+### New
+
+* When altering trub/chiller loss in the equipment profile, the brewhouse efficiency is reestimated instead of the mash efficiency
+* When switching between Kettle and Fermenter as batch volume target in equipment profile, the profile will calculate new batch size so it matches fermenter volume on both settings
+* Now only shows Mash efficiency when using Kettle as batch volume target, since it is the only efficiency needed to calculate correct OG for these types of eq. profiles
+* Added a few new Norsk Malt grain
+
+### Fixed
+
+* Fix batch page freezing on brewing tab when on a extract recipe with 0 boil time and no hop stand \(no brewing stages or brewing steps for brew tracker\)
+* Fixed various minor issues with using Kettle as batch volume target in equipment profile, you will now get same results from a recipe independent of batch volume target when they have the same values and volumes. If you have previously had success with using kettle as batch volume target you might need to tweak your profile a little
+* Potential from sugar/extract now takes into account trub/chiller loss instead of using fermenter volume directly, this will slightly lower OG on recipes with trub/chiller loss were sugar or extract is used. This is a common error in other tools, and if you want your OG to match other tools, this _"feature"_ can be enabled again in the experimental settings.
+* Fixed fermentable type was not set properly in recipe designer for _other_, _liquid extract_ and _adjunct_ after version 1.6.0
+
 ## 1.6.1 - 14.02.2019
 
 ### Fixed
