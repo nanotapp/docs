@@ -17,7 +17,7 @@
 
 * Fix batch page freezing on brewing tab when on a extract recipe with 0 boil time and no hop stand \(no brewing stages or brewing steps for brew tracker\)
 * Fixed various minor issues with using Kettle as batch volume target in equipment profile, you will now get same results from a recipe independent of batch volume target when they have the same values and volumes. If you have previously had success with using kettle as batch volume target you might need to tweak your profile a little
-* Potential from sugar/extract now takes into account trub/chiller loss instead of using fermenter volume directly, this might slightly lower OG on recipes with trub/chiller loss were sugar or extract is used, depeding on the amount of loss in your equipment profile. This is a common error in other tools, and if you want your OG to match other tools, this _"feature"_ can be enabled again in the experimental settings.
+* Potential from sugar/extract now takes into account trub/chiller loss instead of using fermenter volume directly, this might slightly lower OG on recipes with trub/chiller loss were sugar or extract is used, depeding on the amount of loss in your equipment profile. This is a common error in _other tools_, and if you want your OG to match _other tools_, this _"feature"_ can be enabled again in the experimental settings.
 * Fixed fermentable type was not set properly in recipe designer for _other_, _liquid extract_ and _adjunct_ after version 1.6.0
 
 ## 1.6.1 - 14.02.2019
