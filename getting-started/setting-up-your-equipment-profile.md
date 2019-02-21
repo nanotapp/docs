@@ -15,7 +15,7 @@ To set up your Equipment profile, select the Profiles page from the menu. Click 
 **Batch Volume Target:** Select if you want your Batch Volume to match final volume in **Fermenter** or end of boil **Kettle** volume \(hot\) also know as Post-Boil Volume.
 
 {% hint style="info" %}
-Using **Kettle** as **batch volume target** will be **easier** to set up since the Original Gravity calculation will be the same **independent of** your amount of **Trub/Chiller loss**. Also you only have to know your **mash efficiency** to set this up and **brewhouse efficiency is not needed**.
+Using **Kettle** as **batch volume target** will be **easier** to set up since the Original Gravity calculation will be the same **independent of** your amount of **Trub/Chiller loss** \(except fermenter additions\). Also you only have to know your **mash efficiency** to set this up and **brewhouse efficiency is not needed**.
 {% endhint %}
 
 **Batch Volume:** Your final batch volume target, a factor in calculating your Original Gravity.
