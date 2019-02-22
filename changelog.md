@@ -10,7 +10,7 @@
 
 * You can now add a tag when importing multiple recipes at once from BeerXML
 * Amount of dry hop per volume shown below hops in recipe designer
-* Improved PDF layout
+* Improved PDF layout, changed font, line change now work in recipe notes, added recipe color box
 * Fermentables with use **Bottling** will now use estimated bottling volume to determine gravity potential
 
 ### Fixed
