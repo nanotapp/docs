@@ -4,6 +4,20 @@
 
 [Visit the issue tracker for more info](https://bitbucket.org/brewfather/brewfather/issues?&sort=-votes).
 
+## 1.6.3 - 22.02.2019
+
+### New
+
+* You can now add a tag when importing multiple recipes at once from BeerXML
+* Amount of dry hop per volume shown below hops in recipe designer
+* Improved PDF layout
+* Fermentables with use **Bottling** will now use estimated bottling volume to determine gravity potential
+
+### Fixed
+
+* Fixed post-boil gravity not working properly since 1.6.2, fermentables added in fermenter now correctly uses fermenter volume to determine gravity again
+* Fix kJ in alcohol tool
+
 ## 1.6.2 - 19.02.2019
 
 ### New
