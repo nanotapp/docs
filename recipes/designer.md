@@ -14,3 +14,7 @@ Click the menu button in the lower right then Delete.
 
 When you change a profile \(equipment, mash, fermentation, water\) from the **profiles page**, you have to reselect it in your recipe after you change it. This is because a profile in the recipe is not updated automatically to avoid breaking recipes unintentionally, it will stay at the same value as the profile had when the recipe was created. this goes for all profile types. New recipes will have the updated profile that you starred as default.
 
+### Fixed Final Gravity / Estimated Final Gravity
+
+If your Final Gravity is set to a fixed humber, you then have to click the **Final Gravity** button and then click **Reset** to get an estimated number. This happends if it is imported, or if the final gravity was set manually.
+
