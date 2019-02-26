@@ -20,21 +20,21 @@ Using **Kettle** as **batch volume target** will be **easier** to set up since t
 
 **Batch Volume:** Your final batch volume target, a factor in calculating your Original Gravity.
 
-**✔ Calc boil volume:** Automatically calculates your Pre-Boil Volume if this is active calculated back from batch volume. Based on your boiloff rate and trub/chiller loss, and 4% shrinkage.
+**✔ Calc boil volume:** Automatically calculates your Pre-Boil Volume if this is active, calculated back from batch volume. Based on your boiloff rate, trub/chiller loss, and **4%** shrinkage/expansion.
 
 **Pre-Boil Volume:** Set your pre-boil volume manually or have it calculated automatically \(recommended\). This volume is measured at near boiling temp \(after expansion\). **Post-Boil Volume** is also measured at boiling temp \(before chill\).
 
 **Boil Off:** How much you boiloff per hour with your setup, important factor in calculating Pre-Boil Volume.
 
-**Trub/Chiller Loss:** How much you loose in trub/chilling from kettle to fermenter, important factor in brewhouse efficiency. Total volume of the trub left in the kettle and/or cooler, including hop trub.
+**Trub/Chiller Loss:** How much you loose as trub \(and/or left in chiller and/or pipes\) **from kettle to fermenter**, important factor in brewhouse efficiency. Total volume of the trub left in the kettle and/or cooler/tubes/hoses, including hop trub.
 
 **Mash-Tun Deadspace:** Recoverable deadspace volume in your mash-tun, used for calculating mash water amount. In a system with a malt pipe, it is the volume before the water reaches the bottom of the malt pipe. Usually 0 in BIAB.  
   
 _Recoverable volume is volume that is not lost in mashing, but will be inlcuded in the boil._
 
-**Mash-Tun Loss:** **Unrecoverable** deadspace volume in your mash-tun and/or mash volume lost in your mash process. This is usually 0 in a one-vessel setup. A factor in mash efficiency.
+**Mash-Tun Loss:** **Unrecoverable** deadspace volume in your mash-tun and/or mash volume lost in your mash process. This is usually 0 in a one-vessel setup. A factor in mash efficiency. _Unrecoverable volume not transferred to boil._
 
-**Fermenter Loss:** Expected loss from fermenter to bottle/keg. 
+**Fermenter Loss:** Expected loss from fermenter to bottle/keg. Used to estimate bottling volume and gravity potential from fermentables added as _use_ = _Bottling_.
 
 **HLT Deadspace** is any dead space in the Hot Liquor Tank \(Sparge Water Heater\). For example, if you use a sparge water heater that has the tap that draws higher than the bottom of the pot, you can set the liters that are not drawn. This volume will be added to the sparge water amount in the Water Adjustment Calculator, for calculating your sparge water additions.
 
@@ -54,7 +54,7 @@ It is recommended to automatically calculate your mash efficiency by enabling th
 
 **Aroma Hop Utilization:** For calculating IBU on hopstand/whirlpool hops, also used as a factor to calculate increased IBU from boil hops when you have a hopstand. This utilization is used only when no temperature is entered separately on the hop-stand/whirlpool hop in the recipe.
 
-**✔ Calc aroma hop utilization:** If checked, it will automatically your Aroma Hop Utilization based on the entered Hopstand Temperatuer. 
+**✔ Calc aroma hop utilization:** If checked, it will automatically calculate your Aroma Hop Utilization based on the entered hopstand temperature. 
 
 **Hopstand Temperature:** The average temperature of your hopstand, used to automatically calculate your _Aroma Hop Utilization_ when _Calc aroma hop utilization_ is checked. This is also displayed in the brew sheet if temperature is not specified on the hopstand hop.
 
@@ -99,7 +99,7 @@ Use this to avoid getting to much sparge water calculated, if you have limited r
 
 **✔ Calc strike water temperature:** When this is checked a calculated strike temperature is added as a first step in your mash schedule.
 
-**Mash-Tun Heat Capacity in** _**L equivalient water volume**_**:** If your mash-tun is pre-heated set heat capacity to 0. Otherwise use the **Mash-Tun Calibration tool** to get the value for your equipment.
+**Mash-Tun Heat Capacity in** _**L equivalient water volume**_**:** If your mash-tun is pre-heated set heat capacity to 0. Otherwise use the **Mash-Tun Calibration tool** to get the value for your equipment. This is **not** Mash-Tun volume.
 
 ### Sparge Temperature
 
