@@ -1,6 +1,6 @@
 # Yeast Calculator
 
-![Calculate how many yeast packages to add or how big of a starter to make](../.gitbook/assets/image%20%2834%29.png)
+![Calculate how many yeast packages to add or how big of a starter to make](../.gitbook/assets/image%20%2838%29.png)
 
 ### PurePitch
 
