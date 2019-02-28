@@ -1,5 +1,7 @@
 # BrewPiLess
 
+Check the [BrewPiLess documentation](https://github.com/vitotai/BrewPiLess/wiki/Logging-to-Brewfather) for setup instructions. You will find the ID in the URL in Brewfather settings.
+
 Go into the settings page in [Brewfather APP](https://web.brewfather.app/), enable [Brewpiless](https://github.com/vitotai/BrewPiLess). You will then get a **URL**, **Data Type** and **Format** that you need to copy into the Brewpiless remote logging configuration page.
 
 **Set log time period to 900 seconds**. Your Brewpiless should then log every 15 minutes.
