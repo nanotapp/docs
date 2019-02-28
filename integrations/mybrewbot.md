@@ -20,6 +20,10 @@ Using MyBrewbot with Brewfather is very simple. Enable it in your Settings and c
 
 ![2. Copy the Logging ID into the Brewfather Logging ID field in the MyBrewbot web config](../.gitbook/assets/image%20%2812%29.png)
 
+You will find the IP for you MyBrewbot in the bottom of the settings in the MyBrewbot app, open this IP in your browser when you are in the same network as the device.
+
+Alternative easier setup coming soon:
+
 ![3. Alternative setup in the new MyBrewbot app \(due for release soon\)](../.gitbook/assets/image%20%2831%29.png)
 
 Your MyBrewbot should then log every 15 minutes.
