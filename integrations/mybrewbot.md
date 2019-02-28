@@ -6,7 +6,7 @@ The MyBrewbot for Tilt, which has a bluetooth receiver to collect the Tilt data,
 
 ### Buy MyBrewbot
 
-Get it [here](https://www.mybrewbot.com/). Use promo code "**Brewfather**" at checkout to recieve free international shipping.
+Get it directly [here](https://www.mybrewbot.com/).
 
 #### Norwegian dealers
 
