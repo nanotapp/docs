@@ -2,7 +2,7 @@
 
 ## What is SmartPID?
 
-**SmartPID** is a powerful and flexible controller for complete **brewing process automation** and recipe management as well **fermentation temperature control**. SmartPID is wifi connected for data logging and remote process control via web and mobile
+**SmartPID** is a powerful and flexible controller for complete **brewing process automation** and recipe management as well as **fermentation temperature control**. SmartPID is wifi connected for data logging and remote process control via web and mobile.
 
 ## Get SmartPID
 
