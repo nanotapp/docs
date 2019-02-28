@@ -4,6 +4,8 @@
 
 **SmartPID** is a powerful and flexible controller for complete **brewing process automation** and recipe management as well as **fermentation temperature control**. SmartPID is wifi connected for data logging and remote process control via web and mobile.
 
+SmartPID is integrated with Brewfather to allow remote control and fermentation profile and recipe sending.
+
 ## Get SmartPID
 
 SmartPID can be bought [directly from Arzaman SRL here](http://smartpid.com/store/).
