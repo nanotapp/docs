@@ -47,6 +47,12 @@ Download the FW from the [SmartPID wiki page](http://smartpid.com/wiki/doku.php?
 7. Safetly detach device after copy has finished
 8. Verify that upgrade is ok by checking firmware version in the info menu
 
+#### Firmware upgrade troubleshooting
+
+If you have a SmartPID Thermostat and want to switch it to a SmartPID Homebrewing controller, or vice versa, you need to contact the SmartPID seller, switching firmware directly will not work without a special flash file.
+
+There is a know issue upgrading firmware on macOS, try a Windows computer if you have issues with Mac.
+
 ## Enable SmartPID integration
 
 ![Enable SmartPID in the Settings page in the Power-ups Section](../.gitbook/assets/image%20%2849%29.png)
