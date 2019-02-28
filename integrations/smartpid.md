@@ -110,8 +110,6 @@ Recipe is saved always in **position 1** in the controller and will override any
 
 ![Start Homebrewing SmartPID](../.gitbook/assets/image%20%2820%29.png)
 
-### 
-
 #### Optional Mash Steps Template
 
 If you want one to one mapping of the mahing steps to the recipe format of the SmartPID you can utilize the **Mash steps template** mashing profile.
