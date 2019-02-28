@@ -34,7 +34,7 @@ Both classic DIN box controller \(STC version\) and the new CUBE version are ful
 
 **Smart Homebrewing ⇒ version 1.3-010 +**
 
-**Smart Thermostat ⇒ version 0.5-014 +**
+**Smart Thermostat ⇒** [**version 0.5-014**](http://smartpid.com/wiki/lib/exe/fetch.php?media=spc1000-base-wifi-v0.5-014.bin.zip) **+**
 
 Download the FW from the [SmartPID wiki page](http://smartpid.com/wiki/doku.php?id=sw_release) on the web site and upgrade. Click here for [upgrade instructions on video](https://youtu.be/RnQzNxVUHeo).
 
