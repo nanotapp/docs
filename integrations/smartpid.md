@@ -6,7 +6,7 @@
 
 ## Get SmartPID
 
-SmartPID can be bought [directly here](http://smartpid.com/store/). After integration is released, a one year pre-paid code of Brewfather Premium is included with new sales.
+SmartPID can be bought [directly from Arzaman SRL here](http://smartpid.com/store/).
 
 ## Integration features
 
