@@ -12,17 +12,17 @@ SmartPID can be bought [directly from Arzaman SRL here](http://smartpid.com/stor
 
 **Smart Hombrewing Application**
 
-* Remote monitor of process parameters \(set point, current temperature, PID out, pump status, timers
+* Recipe upload for starting the brew directly!
+* Remote monitor of process parameters \(set point, current temperature, PID out, pump status, timers\)
 * Process events notification and alarms
-* Remote actions \(process start/stop pause/resume, set point change, power change, pump start/auto/stop
-* Recipe definition and upload for execution
+* Remote actions \(process start/stop pause/resume, set point change, power change, pump start/auto/stop\)
 
 **Smart Thermostat**
 
+* Start the fermentation profile directly from the batch based on your recipe!
 * Remote monitor of process parameters \(set point, current temperature, PID out, timers\)
 * Process events notification and alarms
 * Remote actions \(process start/stop pause/resume, set point change,\)
-* Fermentation profile definition and upload
 
 ## Firmware Pre-Requirements
 
