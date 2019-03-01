@@ -1,5 +1,9 @@
 # SmartPID
 
+## When will the SmartPID integration be released?
+
+The integration is scheduled to be released **this weekend**.
+
 ## What is SmartPID?
 
 **SmartPID** is a powerful and flexible controller for complete **brewing process automation** and recipe management as well as **fermentation temperature control**. SmartPID is wifi connected for data logging and remote process control via web and mobile.
@@ -8,7 +12,11 @@ SmartPID is integrated with Brewfather to allow remote control and fermentation 
 
 ## Get SmartPID
 
-SmartPID can be bought [directly from Arzaman SRL here](http://smartpid.com/store/).
+SmartPID can be bought [**directly from Arzaman SRL here**](http://smartpid.com/store/).
+
+## Need SmartPID device help?
+
+**For SmartPID related setup, please check the** [**guides here**](http://smartpid.com/wiki/doku.php?id=demo_tutorials)**.  Please contact SmartPID on email:** [**smartpid@arzaman.com**](mailto:smartpid@arzaman.com) **or** [**facebook**](https://www.facebook.com/smartPID)**.**
 
 ## Integration features
 
@@ -44,7 +52,7 @@ Download the FW from the [SmartPID wiki page](http://smartpid.com/wiki/doku.php?
 
 #### Upgrade mini guide
 
-1. [Download ](http://smartpid.com/wiki/doku.php?id=sw_release)firmware from SmartPID
+1. \*\*\*\*[**Download** ](http://smartpid.com/wiki/doku.php?id=sw_release)firmware from SmartPID
 2. Unzip the .bin file
 3. Rename .bin file to **flash.bin** before copying it to SmartPID
 4. Attach SmartPID to computer via USB **while** holding the **RED** button
@@ -87,7 +95,7 @@ If you already have a SmartPID account. Enter your e-mail and password then clic
 
 Your SmartPID needs to be set up with wifi connection and the login for your SmartPID account.
 
-For instructions on how to set up your SmartPID device for Wifi and MQTT server connection please check the [guide here](http://smartpid.com/wiki/doku.php?id=demo_tutorials).
+For instructions on how to set up your SmartPID device for Wifi and MQTT server connection please check the ****[**guide here**](http://smartpid.com/wiki/doku.php?id=demo_tutorials).
 
 ## Register SmartPID device
 
