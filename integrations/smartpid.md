@@ -12,19 +12,23 @@ SmartPID can be bought [directly from Arzaman SRL here](http://smartpid.com/stor
 
 ## Integration features
 
+{% hint style="info" %}
+**SmartPID has some limitations to the number of recipe mashing and boil steps. And number of steps and duration in the fermentation profile. Brewfather will try to map your recipes and profiles as best as it can within these limitations. More details are noted about this further down in the documentation.**
+{% endhint %}
+
 **Smart Hombrewing Application**
 
 * Recipe upload for starting the brew directly!
 * Remote monitor of process parameters \(set point, current temperature, PID out, pump status, timers\)
-* Process events notification and alarms
+* Process events listing
 * Remote actions \(process start/stop pause/resume, set point change, power change, pump start/auto/stop\)
 
 **Smart Thermostat**
 
 * Start the fermentation profile directly from the batch based on your recipe!
 * Remote monitor of process parameters \(set point, current temperature, PID out, timers\)
-* Process events notification and alarms
-* Remote actions \(process start/stop pause/resume, set point change,\)
+* Process events listing
+* Remote actions \(process start/stop pause/resume, set point change\)
 
 ## Firmware Pre-Requirements
 
@@ -118,9 +122,15 @@ Recipe is saved always in **position 1** in the controller and will override any
 
 ![Start Homebrewing SmartPID](../.gitbook/assets/image%20%2820%29.png)
 
+{% hint style="info" %}
+**Limitations:** SmartPID is limited to a fixed schema of the mash steps listed below so some mashing profiles might not translate 100%, you can check the recipe steps sent to the SmartPID by clicking the green recipe text in the Send Recipe toggle before you click start.  
+  
+SmartPID is limited to max 10 boil addition alarms.
+{% endhint %}
+
 #### Optional Mash Steps Template
 
-If you want one to one mapping of the mahing steps to the recipe format of the SmartPID you can utilize the **Mash steps template** mashing profile. Brewfather will also intelligently try to **map any mash profile** to the fixed SmartPID scheme so this step is optional.
+If you want one to one mapping of the mahing steps to the recipe format of the SmartPID you can utilize the **Mash steps template** mashing profile. Brewfather will also intelligently try to **map any mash profile** to the fixed SmartPID scheme so this step is optional. 
 
 ![](../.gitbook/assets/image%20%2840%29.png)
 
@@ -136,8 +146,6 @@ If you want one to one mapping of the mahing steps to the recipe format of the S
 
 ### Start fermentation profile from recipe
 
-
-
 1. Go to **Batches page** - **Fermentation** tab
 2. Click on the **Start** button in the **Fermentation Controller** section
 3. Select your thermostat controller from the list
@@ -152,4 +160,8 @@ Profile is saved always in **position 1** in the controller and will override an
 ![](../.gitbook/assets/image%20%2876%29.png)
 
 ![](../.gitbook/assets/image%20%2855%29.png)
+
+{% hint style="info" %}
+**Limitations**: SmartPID is **limited to 8 fermentation profile steps** where the fist 7 steps have a **maximum duration of 4 days** per step. This might limit the fermentation profile possibilities if you have profiles with many steps. _Step 8 will continue with no maximum duration._ **Brewfather will try to map your fermentation as best as it can withing these limitations**, splitting steps with a duration longer than 4 days into multiple steps for the SmartPID profile. _But you are adviced to double check the profile steps._
+{% endhint %}
 
