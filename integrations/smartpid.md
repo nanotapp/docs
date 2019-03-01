@@ -44,7 +44,7 @@ In order to use the integration a specific firwmare level is needed on SmartPID
 
 Both classic DIN box controller \(STC version\) and the new CUBE version are fully compatible.
 
-**Smart Homebrewing ⇒ version 1.3-010 +**
+**Smart Homebrewing ⇒** [**version 1.3-010**](http://smartpid.com/wiki/lib/exe/fetch.php?media=spc1000-biab-v1.3-010.bin.zip) **+**
 
 **Smart Thermostat ⇒** [**version 0.5-014**](http://smartpid.com/wiki/lib/exe/fetch.php?media=spc1000-base-wifi-v0.5-014.bin.zip) **+**
 
