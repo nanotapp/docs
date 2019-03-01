@@ -109,6 +109,12 @@ For instructions on how to set up your SmartPID device for Wifi and MQTT server 
 
 ### Recipe upload and process start
 
+{% hint style="warning" %}
+**Important limitations:** SmartPID is limited to a **fixed schema for the mash steps** \(listed below\), some mashing profiles might not translate 100%, you can check the recipe steps sent to the SmartPID by clicking the green **recipe** text in the Send Recipe toggle before you click start.  
+  
+SmartPID is limited to **max 10 boil addition** **alarms**.
+{% endhint %}
+
 1. Go to **Batches page** - **Brewing** tab
 2. Click on the **Start** button in the **Brew Controller** section
 3. Select your homebrewing controller from the list
@@ -121,12 +127,6 @@ Recipe is saved always in **position 1** in the controller and will override any
 ![Start a recipe from the batch page](../.gitbook/assets/image%20%2875%29.png)
 
 ![Start Homebrewing SmartPID](../.gitbook/assets/image%20%2820%29.png)
-
-{% hint style="info" %}
-**Limitations:** SmartPID is limited to a fixed schema of the mash steps listed below so some mashing profiles might not translate 100%, you can check the recipe steps sent to the SmartPID by clicking the green recipe text in the Send Recipe toggle before you click start.  
-  
-SmartPID is limited to max 10 boil addition alarms.
-{% endhint %}
 
 #### Optional Mash Steps Template
 
@@ -146,22 +146,22 @@ If you want one to one mapping of the mahing steps to the recipe format of the S
 
 ### Start fermentation profile from recipe
 
+{% hint style="warning" %}
+**Important limitations**: SmartPID is **limited to 8 fermentation profile steps** where the fist 7 steps have a **maximum duration of 4 days** per step. This might limit the fermentation profile possibilities if you have profiles with many steps. _Step 8 will continue with no maximum duration._ **Brewfather will try to map your fermentation as best as it can withing these limitations**, splitting steps with a duration longer than 4 days into multiple steps for the SmartPID profile. _But you are adviced to double check the profile steps._
+{% endhint %}
+
 1. Go to **Batches page** - **Fermentation** tab
 2. Click on the **Start** button in the **Fermentation Controller** section
 3. Select your thermostat controller from the list
 4. Click **Start** to start the profile
 
-Optionally you can also start a fermentation profile from the devices page.
+Optionally you can also start a fermentation profile or standard/manual mode from the devices page.
 
 {% hint style="info" %}
 Profile is saved always in **position 1** in the controller and will override any profile entered manually in that position
 {% endhint %}
 
-![](../.gitbook/assets/image%20%2876%29.png)
+![Start fermentation profile from Fermentation Controller in fermentation tab](../.gitbook/assets/image%20%2876%29.png)
 
-![](../.gitbook/assets/image%20%2855%29.png)
-
-{% hint style="info" %}
-**Limitations**: SmartPID is **limited to 8 fermentation profile steps** where the fist 7 steps have a **maximum duration of 4 days** per step. This might limit the fermentation profile possibilities if you have profiles with many steps. _Step 8 will continue with no maximum duration._ **Brewfather will try to map your fermentation as best as it can withing these limitations**, splitting steps with a duration longer than 4 days into multiple steps for the SmartPID profile. _But you are adviced to double check the profile steps._
-{% endhint %}
+![When starting thermostat from the devices page you can select standard or advanced mode](../.gitbook/assets/image%20%2855%29.png)
 
