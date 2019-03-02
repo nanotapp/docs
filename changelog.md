@@ -4,6 +4,24 @@
 
 [Visit the issue tracker for more info](https://bitbucket.org/brewfather/brewfather/issues?&sort=-votes).
 
+## 1.7.0 - 02.03.2019
+
+### New Integration
+
+SmartPID is now integrated with Brewfather for brew-day and fermentation control directly from Brewfather, [**more info here**](integrations/smartpid.md).
+
+### Features
+
+* You can now edit your account name and profile image in the account page
+* Manufacturing date field on yeast, integrated with yeast starter calculator
+* Changed to a little thicker font on PDF
+* Now shows time field on hop for first wort and mash hops when boil time is 0 \(raw beer\). To help with IBU calculations for raw beer
+
+### Fixed
+
+* Yeast calculator recalculating wrong amount when using gram as unit on the yeast
+* Rice hulls \(adjunct\) no longer affect mash water calculation
+
 ## 1.6.3 - 22.02.2019
 
 ### New
