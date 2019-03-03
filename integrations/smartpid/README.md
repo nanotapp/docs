@@ -97,6 +97,10 @@ Your SmartPID needs to be set up with wifi connection and the login for your Sma
 
 For instructions on how to set up your SmartPID device for Wifi and MQTT server connection please check the ****[**guide here**](http://smartpid.com/wiki/doku.php?id=demo_tutorials).
 
+#### Common setups
+
+[**SmartPID as a 1 channel thermostat for fermentation control**](thermostat-configuration.md)\*\*\*\*
+
 ## Register SmartPID device
 
 
