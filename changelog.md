@@ -8,7 +8,7 @@
 
 ### New Integration
 
-SmartPID is now integrated with Brewfather for brew-day and fermentation control directly from Brewfather, [**more info here**](integrations/smartpid.md).
+SmartPID is now integrated with Brewfather for brew-day and fermentation control directly from Brewfather, [**more info here**](integrations/smartpid/).
 
 ### Features
 

@@ -6,12 +6,12 @@ You will then get a cloud URL that you need to copy into the **Cloud URL** in yo
 
 Write a comment and click enter/send to log immediately.
 
-![Fermentation Tab of the Batch](../.gitbook/assets/image%20%2810%29.png)
+![Fermentation Tab of the Batch](../.gitbook/assets/image%20%2811%29.png)
 
 Then go into the Fermentation tab of your batch and click **Devices.**  
 After your Tilt has done it's first logging to Brewfather it will appear in the device list.
 
-![](../.gitbook/assets/image%20%2844%29.png)
+![](../.gitbook/assets/image%20%2846%29.png)
 
 Click the **ATTACH** button to make it log to this batch. Wait 15-30 minutes for your Tilt to log the next time.
 
@@ -35,7 +35,7 @@ The best and most stable way to log is to have a dedicated Raspberry next to the
 
 Enter a comment and click enter, to make the TiltPi send a logging request right away.
 
-![](../.gitbook/assets/image%20%2822%29.png)
+![](../.gitbook/assets/image%20%2823%29.png)
 
 If you have issues with getting the TiltPi to log, try restarting it by removing the power and putting it back in, then start from 1.
 
@@ -53,25 +53,25 @@ _Want your shop listed here? Get in_ [_touch_](../more/contact.md)_._
 
 ### International
 
-![](../.gitbook/assets/image%20%2868%29.png)
+![](../.gitbook/assets/image%20%2873%29.png)
 
 Buy directly from Tilt: [https://tilthydrometer.com/](https://tilthydrometer.com/)
 
 ### Norwegian dealers
 
-![](../.gitbook/assets/image%20%2843%29.png)
+![](../.gitbook/assets/image%20%2845%29.png)
 
 Buy from [Brewshop.no](https://brewshop.no/produkt/utstyr/gjaering/utstyr-til-gjaering/tilt-hydrometer-termometer-ny-versjon)
 
-![](../.gitbook/assets/image%20%2880%29.png)
+![](../.gitbook/assets/image%20%2885%29.png)
 
 Buy from [Petit-agentur.no](https://petit-agentur.no/search_result?keywords=tilt+hydrometer)
 
-![](../.gitbook/assets/image%20%2866%29.png)
+![](../.gitbook/assets/image%20%2871%29.png)
 
 Buy from [Vestbrygg.no](https://www.vestbrygg.no/home/SearchForm?q=tilt+hydrometer)
 
-![](../.gitbook/assets/image%20%2860%29.png)
+![](../.gitbook/assets/image%20%2865%29.png)
 
 Buy from [Strømmen Hjemmebrygg](https://homebrew.no/)
 

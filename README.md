@@ -22,7 +22,7 @@ Brewfather includes
 * Large customizable **ingredients** database
 * **Inventory** stock tracking
 * Multiple **style guidelines** \(BJCP, Brewers Association, Norbrygg, SHBF\)
-* Remote logging from [**Tilt**](integrations/tilt-hydrometer.md), [**iSpindel**](integrations/ispindel/)**,** [**Brewpiless**](integrations/brewpiless.md)**,** [**MyBrewbot**](integrations/mybrewbot.md#what-is-mybrewbot)**,** [**SmartPID** ](integrations/smartpid.md)**and** [**Custom Stream**](integrations/custom-stream.md)\*\*\*\*
+* Remote logging from [**Tilt**](integrations/tilt-hydrometer.md), [**iSpindel**](integrations/ispindel/)**,** [**Brewpiless**](integrations/brewpiless.md)**,** [**MyBrewbot**](integrations/mybrewbot.md#what-is-mybrewbot)**,** [**SmartPID** ](integrations/smartpid/)**and** [**Custom Stream**](integrations/custom-stream.md)\*\*\*\*
 * **Print** your recipe or batch to PDF
 * Import and export **BeerXML**
 * Metric and US/Imperial units
@@ -94,5 +94,5 @@ Brewfather® is a registered trademark.
 The documentation for Brewfather is currently not complete. It is currently in the process of being written.
 {% endhint %}
 
-![Monitor your brews with Brewfather&apos;s integrations](.gitbook/assets/image%20%2873%29.png)
+![Monitor your brews with Brewfather&apos;s integrations](.gitbook/assets/image%20%2878%29.png)
 
