@@ -1,9 +1,5 @@
 # SmartPID
 
-## When will the SmartPID integration be released?
-
-The integration is scheduled to be released **this weekend**.
-
 ## What is SmartPID?
 
 **SmartPID** is a powerful and flexible controller for complete **brewing process automation** and recipe management as well as **fermentation temperature control**. SmartPID is wifi connected for data logging and remote process control via web and mobile.
