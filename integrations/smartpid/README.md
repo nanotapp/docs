@@ -97,6 +97,10 @@ For instructions on how to set up your SmartPID device for Wifi and MQTT server 
 
 [**SmartPID as a 1 channel thermostat for fermentation control**](thermostat-configuration.md)\*\*\*\*
 
+#### Sampling time
+
+SmartPID can be set up to send the status every X seconds. For best response time set this to 1 second.
+
 ## Register SmartPID device
 
 
