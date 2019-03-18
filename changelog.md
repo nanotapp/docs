@@ -2,7 +2,7 @@
 
 ## In developement / Coming soon <a id="coming-soon"></a>
 
-[Visit the issue tracker for more info](https://bitbucket.org/brewfather/brewfather/issues?&sort=-votes).
+[Visit the issue tracker for more info](https://gitlab.com/warpkode/public/brewfather/boards).
 
 ## 1.7.0 - 02.03.2019
 

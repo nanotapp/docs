@@ -43,7 +43,7 @@ Brewfather includes
 Brewfather believes designing your recipes and tracking your batches should be easy and fun with easy access from all your devices with no hassle.
 
 {% hint style="info" %}
-Brewfather strives to cover all your brewing needs in one place, new features are added continuously, [get in touch](https://bitbucket.org/brewfather/brewfather) if you miss any features or find any issues!
+Brewfather strives to cover all your brewing needs in one place, new features are added continuously, [get in touch](https://gitlab.com/warpkode/public/brewfather/boards) if you miss any features or find any issues!
 {% endhint %}
 
 ## Home-Screen App Support <a id="home-screen-app-support"></a>

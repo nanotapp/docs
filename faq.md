@@ -2,7 +2,7 @@
 
 ## Where do i report bugs or feature request?
 
-Bugs or feature requests can be reported in the [issue tracker](https://bitbucket.org/brewfather/brewfather). Here you can also watch and vote for request made by others users.
+Bugs or feature requests can be reported in the [issue tracker](https://gitlab.com/warpkode/public/brewfather/boards). Here you can also watch and vote for request made by others users.
 
 ## Where can i get in contact with other Brewfather users?
 
