@@ -4,6 +4,22 @@
 
 [Visit the issue tracker for more info](https://gitlab.com/warpkode/public/brewfather/boards).
 
+## 1.7.1 - 21.03.2019
+
+### Features
+
+* Shows % on fermentables in brew-sheet/read-mode and recipe share page and PDF
+* Now shows all units for misc independent of unit settings
+* Added Oat hulls and some other ingredients
+* BJCP Style Guide: Specialty IPA 21B, Historical Beer 21B and Kellerbier 7C now selectable as its own base style for competition entry
+* Added Brut IPA as a custom Specialty IPA BJCP style
+
+### Fixed
+
+* Fixed Set Temps from BrewPiLess when Fahrenheit
+* Boil top-up water also inlcuded in sparge water amount by default in water calculator, to get correct total profile
+* Fix fermentation chart temp scale
+
 ## 1.7.0 - 02.03.2019
 
 ### New Integration
