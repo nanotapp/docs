@@ -17,6 +17,14 @@ Click the **ATTACH** button to make it log to this batch. Wait 15-30 minutes for
 
 **Never log more than once every 15 minutes**, request logged more often than that will be ignored. This is the default value of the Tilt.
 
+### Tilt 2 Phone App Setup
+
+![](../.gitbook/assets/image%20%2888%29.png)
+
+1. Enable "use custom cloud url" in the Settings
+2. Copy cloud url from settings in Brewfather
+3. Click Save
+
 ### Tilt Phone App Setup
 
 ![Set Logging URL, and click Post Comment to start logging, then attach.](../.gitbook/assets/tilt_phone.jpg)
