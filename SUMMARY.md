@@ -40,6 +40,8 @@
   * [SmartPID](integrations/smartpid/README.md)
     * [Thermostat Configuration](integrations/smartpid/thermostat-configuration.md)
   * [Tilt Hydrometer](integrations/tilt-hydrometer.md)
+  * [Plaato](integrations/plaato/README.md)
+    * [Airlock](integrations/plaato/airlock.md)
   * [iSpindel](integrations/ispindel/README.md)
     * [Calibration](integrations/ispindel/calibration.md)
   * [BrewPiLess](integrations/brewpiless.md)
