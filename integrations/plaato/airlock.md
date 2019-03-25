@@ -1,5 +1,9 @@
 # Airlock
 
+### Get Plaato Airlock
+
+Get it directly from Plaato [here](https://www.plaato.io/).
+
 ### Enable Plaato Airlock in Settings
 
 ![Enable Plaato Airlock in the Settings, copy the Logging URL.](../../.gitbook/assets/image%20%2881%29.png)

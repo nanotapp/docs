@@ -4,6 +4,21 @@
 
 [Visit the issue tracker for more info](https://gitlab.com/warpkode/public/brewfather/boards).
 
+## 1.7.2 - 26.03.2019
+
+### New Integration
+
+[**Plaato Airlock**](integrations/plaato/airlock.md) **is now integrated with Brewfather.**
+
+### Features
+
+* Fermentation chart
+  * Now shows **Bubbles Per Minute** when using the new Plaato Airlock integration. Also shows **pH** and **Pressure** when recieved from [Custom Stream](integrations/custom-stream.md)
+  * You can now **zoom** the **chart** by marking/seleting an area, or two finger gesture on touch device
+* Added Warminster malts
+* Summary: Negative diff numbers now have blue color
+* Account page: now shows upcoming invoice and historic invoices
+
 ## 1.7.1 - 21.03.2019
 
 ### Features
