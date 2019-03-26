@@ -46,7 +46,7 @@
     * [Calibration](integrations/ispindel/calibration.md)
   * [BrewPiLess](integrations/brewpiless.md)
   * [MyBrewbot](integrations/mybrewbot.md)
-  * [Custom API Endpoint](integrations/custom-api-endpoint.md)
+  * [Custom Endpoint](integrations/custom-api-endpoint.md)
   * [CraftBeerPi](integrations/craftbeerpi.md)
   * [Custom Stream](integrations/custom-stream.md)
 * [More](more/README.md)
