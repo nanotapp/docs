@@ -2,7 +2,7 @@
 
 ### Get Plaato Airlock
 
-Get it directly from Plaato [here](https://www.plaato.io/). **FOR A LIMITED TIME: Use promo code "Brewfather" for $10 off and free shipping! Ends this week!**
+Get it directly from Plaato [here](https://www.plaato.io/). **FOR A LIMITED TIME: Use promo code "Brewfather" to get the Airlock for $119 and free shipping! Ends this week!**
 
 ### Enable Plaato Airlock in Settings
 
