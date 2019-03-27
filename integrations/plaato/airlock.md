@@ -26,3 +26,7 @@ Get it directly from Plaato [here](https://www.plaato.io/). **FOR A LIMITED TIME
 
 ![](../../.gitbook/assets/image%20%2842%29.png)
 
+### Logging with multiple Plaato Airlocks
+
+This works out of the box, just make sure the device name is unique per Plaato and they will all appear in the device list as separate entities. All will use the same webhook url.
+
