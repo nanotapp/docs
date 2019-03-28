@@ -28,6 +28,8 @@ Alternative easier setup coming soon:
 
 Your MyBrewbot should then log every 15 minutes.
 
+[Click here for video](http://mybrewbot.co.uk/UI/Settings.mp4) demonstrating how to put in your Brewfather ID in the MyBrewbot app.
+
 After the MyBrewbot has done its first logging to Brewfather, it will appear in the device list located in your Batch &gt; Fermentation &gt; Readings &gt; **Devices**. Click on the Devices button and attatch your MyBrewbot to the batch. The next time your MyBrewbot logs, it will show up in your batch!
 
 ## Result
