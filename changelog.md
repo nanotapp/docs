@@ -4,6 +4,28 @@
 
 [Visit the issue tracker for more info](https://gitlab.com/warpkode/public/brewfather/boards).
 
+## 1.7.3 - 10.04.2019
+
+### Features
+
+* **New history function** in the data section of the settings page
+  * Allows you to **watch** a changelog of certain changes of your batches
+  * Allows you to **restore** deleted recipes or batches _\(Premium feature\)_
+  * Allows you to **restore** a batch to a previous state _\(Premium feature\)_
+* Show total fermentables amount and total hops amount in PDF
+* Show water profile name, source and target in PDF
+* Added new Bonsak malts
+* Added new hops
+
+### Fixed
+
+* Sharing option on the new Safari version on Mac, now gives you the normal share dialogue with an option for native share
+* Changing dry hop to another resets day/days option
+* Fixed max ABV on Escarpment labs London yeast
+* Fixed a rare issue where the batch could freeze on open
+* Fix SmartPID heating/cooling icon when power = 0
+* Deleting equipment profile not returning to list
+
 ## 1.7.2 - 26.03.2019
 
 ### New Integration
