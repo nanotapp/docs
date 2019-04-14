@@ -4,6 +4,16 @@
 
 [Visit the issue tracker for more info](https://gitlab.com/warpkode/public/brewfather/boards).
 
+## 1.7.4 - 15.04.2019
+
+### Features
+
+* Import hopstand/whirlpool temperature from BeerXML if present
+
+### Fixed
+
+* Batch bug if SmartPID was enabled and you entered/exited the device modal
+
 ## 1.7.3 - 10.04.2019
 
 ### Features
