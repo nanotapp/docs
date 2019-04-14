@@ -8,7 +8,7 @@
 
 ### Features
 
-* Import hopstand/whirlpool temperature from BeerXML if present
+* Import \(and export\) hopstand/whirlpool temperature from \(to\) BeerXML if present
 
 ### Fixed
 
