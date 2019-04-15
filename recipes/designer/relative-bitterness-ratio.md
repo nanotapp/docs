@@ -4,7 +4,7 @@ description: RBR
 
 # Relative Bitterness Ratio
 
-This article is mostly copied from the original RBR article. Article Source: [Mad Alchemist](http://www.madalchemist.com/): The author's \(Ryan Shwayder\) homebrew website.
+This article is mostly copied from the [original RBR article](http://www.madalchemist.com/relative_bitterness.html). Article Source: [Mad Alchemist](http://www.madalchemist.com/): The author's \(Ryan Shwayder\) homebrew website.
 
 The central purpose of this article--is that the Bitterness Ratio \(BU:GU\) that many homebrewers use can be easily made more accurate by focusing on more than Original Gravity and International Bitterness Units.
 
