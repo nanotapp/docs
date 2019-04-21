@@ -4,6 +4,16 @@
 
 [Visit the issue tracker for more info](https://gitlab.com/warpkode/public/brewfather/boards).
 
+## 1.7.5 - 21.04.2019
+
+### New
+
+* Updated local/offline database to a newer version, first load after update might take a few seconds longer than normal
+
+### Fixed
+
+* Dropdown scroll issue on iOS
+
 ## 1.7.4 - 15.04.2019
 
 ### Features
