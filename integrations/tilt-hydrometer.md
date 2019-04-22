@@ -25,6 +25,10 @@ Click the **ATTACH** button to make it log to this batch. Wait 15-30 minutes for
 2. Copy cloud url from settings in Brewfather
 3. Click Save
 
+{% hint style="warning" %}
+If you want continous logging to Brewfather when using the Tilt App you need to keep your device active and next to the fermenter at all times, the Tilt does not log to the cloud on its own. If the devices goes to sleep it will stop logging. Setting up a TiltPi is recommended.
+{% endhint %}
+
 ### Tilt Phone App Setup
 
 ![Set Logging URL, and click Post Comment to start logging, then attach.](../.gitbook/assets/tilt_phone.jpg)
