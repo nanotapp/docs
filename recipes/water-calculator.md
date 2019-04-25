@@ -166,7 +166,7 @@ In the real world the Calcium Chloride **Dihydrate is said to vary from 77% to 8
 
 #### Liquid
 
-When selecting Liquid as form you can enter the strengt/concentration of you solution.
+When selecting Liquid as form you can enter the strengt/concentration of your solution.
 
 \([Source](https://www.researchgate.net/post/Can_I_use_calcium_chloride_dihydrate_instead_of_calcium_chloride_for_the_preparation_of_buffer)\)
 
