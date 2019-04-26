@@ -18,6 +18,10 @@ This will open the water calculator.
 
 At the top you will see your current mash water room temperature pH. **All pH values should be measured when the wort is cooled down to room temperature**.
 
+{% hint style="info" %}
+_Temperature note:_ The measured pH will vary depending on what temperature you measure it at, and this is not an equipment shortcoming. Brewfather predicts the 20°C mash **pH which should be 5.2-5.6 ideally**, and if you don't cool your sample, your pH meter would read that as being 5.5-5.9 ish with ATC \(Automatic Temperature Compensation\). _Measuring pH at mash temperatures might damage your equipment and is not recommended._
+{% endhint %}
+
 There is a cog icon which allows you to change some settings regarding the water calculator. More on this later.
 
 ## Grains
