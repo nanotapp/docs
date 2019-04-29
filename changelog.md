@@ -4,6 +4,18 @@
 
 [Visit the issue tracker for more info](https://gitlab.com/warpkode/public/brewfather/boards).
 
+## 1.7.6 - 30.04.2019
+
+### Important
+
+* Due to problem with iOS 12.2 offline support is temporarily disabled for iOS by default \(can be activated in settings page on your own risk\), this should fix freezing and other loading issues with iOS
+
+### Features
+
+* Offline support toggle option in settings
+* Added alternative network mode setting \(only use this if you have connection issues with the database, example if your device is not syncing due to network compatibility issues\)
+* Added some new hops and yeast
+
 ## 1.7.5 - 21.04.2019
 
 ### New
