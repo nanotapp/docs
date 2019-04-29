@@ -8,7 +8,7 @@
 
 ### Important
 
-* Due to problem with iOS 12.2 offline support is temporarily disabled for iOS by default \(can be activated in settings page on your own risk\), this should fix freezing and other loading issues with iOS
+* Due to a problem with iOS 12.2, offline support is temporarily disabled for iOS by default \(can be activated in settings page on your own risk\), this should fix freezing and other loading issues with iOS
 
 ### Features
 
