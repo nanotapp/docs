@@ -31,5 +31,5 @@ When deactivated, your data is cached in local memory, but is not persistent acr
 
 #### Alternative connection  mode
 
-This must be kept off unless you experience issues where the device is not synchronizing at all on your current network, example some corporate networks. Setting can activated to be used to work around proxies that prevent the Brewfather client from connecting to the backend. Activating this will increase the network latency and decrease performance somewhat.
+This must be kept off unless you experience issues where the device is not synchronizing at all on your current network, example some corporate networks. Setting can be activated to be used to work around proxies that prevent the Brewfather client from connecting to the backend. Activating this will decrease performance somewhat.
 
