@@ -24,7 +24,7 @@ You will find the IP for you MyBrewbot in the bottom of the settings in the MyBr
 
 Alternative easier setup coming soon:
 
-![3. Alternative setup in the new MyBrewbot app \(due for release soon\)](../.gitbook/assets/image%20%2833%29.png)
+![3. Alternative setup in the new MyBrewbot app \(due for release soon\)](../.gitbook/assets/image%20%2834%29.png)
 
 Your MyBrewbot should then log every 15 minutes.
 
