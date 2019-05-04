@@ -4,6 +4,16 @@
 
 [Visit the issue tracker for more info](https://gitlab.com/warpkode/public/brewfather/boards).
 
+## 1.7.7 - 05.05.2019
+
+### New
+
+* Added new yeasts \(Omega and Escarpment Labs\)
+
+### Fixed
+
+* Plaato BPM in chart showed higher bubble count than actual when using Fahrenheit as temperature unit
+
 ## 1.7.6 - 30.04.2019
 
 ### Important
