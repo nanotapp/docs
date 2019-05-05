@@ -9,6 +9,9 @@
 ### New
 
 * Added new yeasts \(Omega and Escarpment Labs\)
+* Brew Tracker: Prepare sparge water alert now comes 10minutes after mash start rather than before \(will be customizable in the future\)
+* Better sorting when combining day/days dry hops, now sorts based on fermentation profile
+* Now shows the date when dry hops should be added in fermentation tab of batch
 
 ### Fixed
 
