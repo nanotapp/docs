@@ -16,7 +16,7 @@ For example: A beer that starts out at an OG of 1.050 at 25 IBU would be said to
 
 The numbers in the tables and charts linked below reflect this theory that I have taken to calling the Relative Bitterness Ratio \(RBR\). The purpose of BU:GU and RBR are one in the same; to aid in properly balancing a beer against your taste expectations. Since balance expectations are set relative to all beers, we take into account a beer's Apparent Attenuation in comparison to the average beer, and increase the BU:GU if it is more attenuated than average or decreate the BU:GU if it is less attenuated than average.
 
-Just like BU:GU, RBR is more bitter when the number is higher and less bitter when the number is lower. If you are used to BU:GU numbers, you will already have an understanding of RBR because the numbers are essentially the same \(~0.5 is average balance--anything lower leans toward sweetness, and anything lower leans toward bitterness\).
+Just like BU:GU, RBR is more bitter when the number is higher and less bitter when the number is lower. If you are used to BU:GU numbers, you will already have an understanding of RBR because the numbers are essentially the same \(~0.5 is average balance--anything lower leans toward sweetness, and anything higher leans toward bitterness\).
 
 The numbers listed under "Relative Bitterness" should appear familiar to those who have been using BU:GU for a period of time. The Relative Bitterness Ratio can be determined with a fairly simple formula using data you likely already have if you know your BU:GU.
 
@@ -52,5 +52,5 @@ How do you use this formula? Here's an example.
 
 As you can see from the example above, the calculation is quite simple when you already know your beer's expected apparent attenuation, gravity units, and IBUs.
 
-**Brewfather calculates both BU:GU \(Bitterness Ratio\) and RBR \(Relative Bitterness Ratio\) for you automatically. And is displayed below the Hops section in your recipe.**
+**Brewfather calculates both BU:GU \(Bitterness Ratio\) and RBR \(Relative Bitterness Ratio\) for you automatically. And is displayed below the Hops section in your recipe. If you click the BU:GU or RBR in the recipe designer you will also get style guide ranges for these values.**
 
