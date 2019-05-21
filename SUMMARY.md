@@ -53,5 +53,6 @@
 * [More](more/README.md)
   * [Contact](more/contact.md)
 * [FAQ](faq.md)
+* [Tips & Tricks](tips-and-tricks.md)
 * [Changelog](changelog.md)
 

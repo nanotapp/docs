@@ -7,15 +7,15 @@ description: >-
 
 # Thermostat Configuration
 
-![](../../.gitbook/assets/image%20%2825%29.png)
+![](../../.gitbook/assets/image%20%2826%29.png)
+
+![](../../.gitbook/assets/image%20%2859%29.png)
+
+![](../../.gitbook/assets/image%20%2862%29.png)
+
+![](../../.gitbook/assets/image%20%2811%29.png)
 
 ![](../../.gitbook/assets/image%20%2858%29.png)
-
-![](../../.gitbook/assets/image%20%2861%29.png)
-
-![](../../.gitbook/assets/image%20%2810%29.png)
-
-![](../../.gitbook/assets/image%20%2857%29.png)
 
 
 

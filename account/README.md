@@ -2,7 +2,7 @@
 
 Click your portrait in the menu to access the account page.
 
-![Manage Account Page](../.gitbook/assets/image%20%2829%29.png)
+![Manage Account Page](../.gitbook/assets/image%20%2830%29.png)
 
 In the account page you can 
 

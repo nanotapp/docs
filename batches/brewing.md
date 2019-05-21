@@ -2,7 +2,7 @@
 
 Enter brewing mode, by clicking on the **BREWING** tab.
 
-![Brew Tracker \(Optional\) for tracking and timing your brew-day!](../.gitbook/assets/image%20%2891%29.png)
+![Brew Tracker \(Optional\) for tracking and timing your brew-day!](../.gitbook/assets/image%20%2892%29.png)
 
-![Brew-sheet and input fields for all your measured values, with estimated values and stats](../.gitbook/assets/image%20%2853%29.png)
+![Brew-sheet and input fields for all your measured values, with estimated values and stats](../.gitbook/assets/image%20%2854%29.png)
 
