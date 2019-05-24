@@ -40,7 +40,7 @@ So what does this mean? We now know that from every unit of Weyermann Colonge ma
 
 For this example, the Weyermann Colonge malt will be added to the [Brewfather](https://brewfather.app/) database. All that needs to be provided is the coarse grind as is extract. In this example 77.21% is set as Yield, then the Potential SG field is filled in automatically.
 
-![Screenshot 2019-05-24 07.43.17](https://famouslastworts.files.wordpress.com/2019/05/screenshot-2019-05-24-07.43.17.png?w=800)
+![Add new malts from the inventory page, click Fermentables, then Add.](https://famouslastworts.files.wordpress.com/2019/05/screenshot-2019-05-24-07.43.17.png?w=800)
 
 The **ppg**s line up with what was calcuated, which is a great way to validate that the new fermentable has been entered correctly.
 
