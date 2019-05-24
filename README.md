@@ -69,8 +69,8 @@ You can sign up for a Premium subscription to unlock unlimited number of recipes
 * **Unlimited** number of recipes
 * **Unlimited** number of batches
 * **Import and export** features
-* **Integrate** with Tilt, iSpindel, Brewpiless, MyBrewbot, Plaato Airlock, Custom Stream and more...
-* Edit readings from devices
+* **Integrate** with Tilt, iSpindel, Brewpiless, MyBrewbot, Plaato Airlock, SmartPID, Custom Stream and more...
+* Add manual readings for fermentation chart
 * Access to experimental features
 * More upcoming premium features!
 
