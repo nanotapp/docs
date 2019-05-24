@@ -31,10 +31,13 @@ From the Weyermann Colonge malt we have the following numbers:
 * fine grind – coarse grind difference: unknown; use 1%
 
 ```text
-%extract cg,db = %extract fg,db - 1% = 81.6% - 1% = 80.6% %extract cg,ai(WEY Cologne) = 80.6% x (1 - 4.2%) = 77.21%
+%extract cg,db = %extract fg,db - 1% = 81.6% - 1% = 80.6% 
+
+%extract cg,ai(WEY Cologne) = 
+80.6% x (1 - 4.2%) = 80.6 x (1 - 0.042) = 77.21%
 ```
 
-So what does this mean? We now know that from every unit of Weyermann Colonge malt we will get 0.7721 units of extract \(sugar\) out of it.
+So what does this mean? We now know that from every unit of Weyermann Colonge malt we will get 0.7721 units of extract \(sugar\) out of it \(77.21%\).
 
 ## Adding a New Malt to Brewfather
 
