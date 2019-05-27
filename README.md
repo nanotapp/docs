@@ -20,7 +20,7 @@ Brewfather includes
 * **Profiles** for your equipment, mash schedule, fermentation steps, and water
 * Highly **customizable** equipment profile to suit any brewing system
 * Large customizable **ingredients** database
-* **Inventory** stock tracking
+* **Inventory** stock & **cost** tracking
 * Multiple **style guidelines** \(BJCP, Brewers Association, Norbrygg, SHBF\)
 * Remote logging from [**Tilt**](integrations/tilt-hydrometer.md), [**iSpindel**](integrations/ispindel/)**,** [**Brewpiless**](integrations/brewpiless.md)**,** [**MyBrewbot**](integrations/mybrewbot.md#what-is-mybrewbot)**,** [**SmartPID**](integrations/smartpid/)**,** [**Plaato Airlock**](integrations/plaato/airlock.md) **and** [**Custom Stream**](integrations/custom-stream.md)\*\*\*\*
 * **Print** your recipe or batch to PDF
@@ -70,9 +70,10 @@ You can sign up for a Premium subscription to unlock unlimited number of recipes
 * **Unlimited** number of batches
 * **Import and export** features
 * **Integrate** with Tilt, iSpindel, Brewpiless, MyBrewbot, Plaato Airlock, SmartPID, Custom Stream and more...
-* Add manual readings for fermentation chart
-* Access to experimental features
-* More upcoming premium features!
+* Ingredient **cost** tracking
+* Add **manual readings** for fermentation chart
+* Access to **experimental features**
+* **More upcoming premium features!**
 
 {% hint style="info" %}
 To sign up for **Brewfather Premium** - go to your account page in [Brewfather APP](https://web.brewfather.app/) and click **Upgrade to Premium!**
@@ -94,5 +95,5 @@ Brewfather® is a registered trademark.
 The documentation for Brewfather is currently not complete. It is currently in the process of being written.
 {% endhint %}
 
-![Monitor your brews with Brewfather&apos;s integrations](.gitbook/assets/image%20%2882%29.png)
+![Monitor your brews with Brewfather&apos;s integrations](.gitbook/assets/image%20%2884%29.png)
 

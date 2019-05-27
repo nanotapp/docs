@@ -4,6 +4,32 @@
 
 [Visit the issue tracker for more info](https://gitlab.com/warpkode/public/brewfather/boards).
 
+## 1.8.0 - 28.05.2019
+
+**Cost tracking, Batch sharing, IBU scaling, Webhook and more...**
+
+### New Premium Feature
+
+* Support for entering ingredient **Cost per amount** on **inventory** items, this will calculate the price of your batch and show a cost breakdown. _\(inventory must be enabled\)_
+
+### Features
+
+* Updated **Brewers Association** style guidelines to **2019**
+* You can now **share batches** with a **share URL** similar to how you can share recipes, this will display the fermentation chart and fermentation status of the batch, and allows users to copy your batch copy of the recipe. **Now your friends can follow your fermentation in realtime!**
+* **New IBU button** in the hops section of recipe designer, this **intelligently scales** the total recipe IBU in your recipe based on the hop additions present
+* **Improved IBU matching when scaling recipes**, IBU should now be very similar or identical after scaling a recipe to a new volume or a new brewing system
+* Sparge temperature now shows in the PDF
+* IBU per hop-addition now shows in brew-sheet, shared recipe and PDF
+* **Webhook** support for devices, you can now **forward** all **logging** to your own custom endpoint, this can be set up per device type in the settings page, click "\(configure webhook\)"
+* Updated some ingredients
+* Archived batches are now hidden by default when loading the application
+* Improved ingredients to inventory matching for unidentified ingredients
+* New field minimum "**Whirlpool Time**" in equipment profile, allows for extra IBU calculation from whirlpool without adding hopstand-hops. Can also be utilized to estimate extra **no-chill IBU**.
+
+### Fixed
+
+* Fixed "inventory enabled" setting could sometimes disable itself in special scenarios
+
 ## 1.7.7 - 05.05.2019
 
 ### New

@@ -51,6 +51,7 @@
   * [Custom Endpoint](integrations/custom-api-endpoint.md)
   * [CraftBeerPi](integrations/craftbeerpi.md)
   * [Custom Stream](integrations/custom-stream.md)
+  * [Webhook](integrations/webhook.md)
 * [More](more/README.md)
   * [Contact](more/contact.md)
 * [FAQ](faq.md)

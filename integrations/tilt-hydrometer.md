@@ -11,7 +11,7 @@ Write a comment and click enter/send to log immediately.
 Then go into the Fermentation tab of your batch and click **Devices.**  
 After your Tilt has done it's first logging to Brewfather it will appear in the device list.
 
-![](../.gitbook/assets/image%20%2850%29.png)
+![](../.gitbook/assets/image%20%2852%29.png)
 
 Click the **ATTACH** button to make it log to this batch. Wait 15-30 minutes for your Tilt to log the next time.
 
@@ -19,7 +19,7 @@ Click the **ATTACH** button to make it log to this batch. Wait 15-30 minutes for
 
 ### Tilt 2 Phone App Setup
 
-![](../.gitbook/assets/image%20%2893%29.png)
+![](../.gitbook/assets/image%20%2895%29.png)
 
 1. Enable "use custom cloud url" in the Settings
 2. Copy cloud url from settings in Brewfather
@@ -47,7 +47,7 @@ The best and most stable way to log is to have a dedicated Raspberry next to the
 
 Enter a comment and click enter, to make the TiltPi send a logging request right away.
 
-![](../.gitbook/assets/image%20%2824%29.png)
+![](../.gitbook/assets/image%20%2825%29.png)
 
 If you have issues with getting the TiltPi to log, try restarting it by removing the power and putting it back in, then start from 1.
 
@@ -65,25 +65,25 @@ _Want your shop listed here? Get in_ [_touch_](../more/contact.md)_._
 
 ### International
 
-![](../.gitbook/assets/image%20%2877%29.png)
+![](../.gitbook/assets/image%20%2879%29.png)
 
 Buy directly from Tilt: [https://tilthydrometer.com/](https://tilthydrometer.com/)
 
 ### Norwegian dealers
 
-![](../.gitbook/assets/image%20%2849%29.png)
+![](../.gitbook/assets/image%20%2851%29.png)
 
 Buy from [Brewshop.no](https://brewshop.no/produkt/utstyr/gjaering/utstyr-til-gjaering/tilt-hydrometer-termometer-ny-versjon)
 
-![](../.gitbook/assets/image%20%2890%29.png)
+![](../.gitbook/assets/image%20%2892%29.png)
 
 Buy from [Petit-agentur.no](https://petit-agentur.no/search_result?keywords=tilt+hydrometer)
 
-![](../.gitbook/assets/image%20%2875%29.png)
+![](../.gitbook/assets/image%20%2877%29.png)
 
 Buy from [Vestbrygg.no](https://www.vestbrygg.no/home/SearchForm?q=tilt+hydrometer)
 
-![](../.gitbook/assets/image%20%2869%29.png)
+![](../.gitbook/assets/image%20%2871%29.png)
 
 Buy from [Strømmen Hjemmebrygg](https://homebrew.no/)
 
