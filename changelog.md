@@ -20,7 +20,7 @@
 * **Improved IBU matching when scaling recipes**, IBU should now be very similar or identical after scaling a recipe to a new volume or a new brewing system
 * Sparge temperature now shows in the PDF
 * IBU per hop-addition now shows in brew-sheet, shared recipe and PDF
-* **Webhook** support for devices, you can now **forward** all **logging** to your own custom endpoint, this can be set up per device type in the settings page, click "\(configure webhook\)"
+* \*\*\*\*[**Webhook**](integrations/webhook.md) ****support for devices, you can now **forward** all **logging** to your own custom endpoint, this can be set up per device type in the settings page, click "\(configure webhook\)"
 * Updated some ingredients
 * Archived batches are now hidden by default when loading the application
 * Improved ingredients to inventory matching for unidentified ingredients
