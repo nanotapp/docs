@@ -4,6 +4,20 @@
 
 [Visit the issue tracker for more info](https://gitlab.com/warpkode/public/brewfather/boards).
 
+## 1.8.1 - 04.06.2019
+
+### New
+
+* Recipe name now shows in header of batch page
+* When using lb as weight unit, it will now show as lb + oz when appropriate
+* Allow up to 5 decimals on Fermentables and Hops cost/price \(Misc and Yeast up to 6 decimals\)
+* Bonsak Munich malt
+
+### Fixed
+
+* Fixed export button in popup menu on batch page
+* Fixed device temp offset when using Fahrenheit as temp unit
+
 ## 1.8.0 - 28.05.2019
 
 **Cost tracking, Batch sharing, IBU scaling, Webhook and more...**
