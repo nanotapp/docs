@@ -6,6 +6,8 @@ You will then get a cloud URL that you need to copy into the **Cloud URL** in yo
 
 Write a comment and click enter/send to log immediately.
 
+More details below. There is also a [video guide in Norwegian](https://youtu.be/DKC_pZ6kPIc) for TiltPi+Tilt Hydrometer.
+
 ![Fermentation Tab of the Batch](../.gitbook/assets/image%20%2812%29.png)
 
 Then go into the Fermentation tab of your batch and click **Devices.**  
