@@ -33,6 +33,8 @@
 * Fixed setting 0 for grain absorption and water/grain ratio is now allowed
 * When sharing batch with fermentation chart with multiple series/devices, they will now have separate colors per serie
 * Fermentation chart last value was averaged, could potentially make the last value of the chart not match the status value above the chart. Now the last hour of the chart is never averaged
+* Cost per bottled gallon fixed, was showing the wrong value when using gallons
+* Cost when mismatching units for miscs and yeast will now be 0
 
 ### Internal changes
 
