@@ -4,6 +4,40 @@
 
 [Visit the issue tracker for more info](https://gitlab.com/warpkode/public/brewfather/boards).
 
+## 1.9.0 - 09.07.2019
+
+### New premium feature
+
+* Custom Style Guidelines are now possible _\(Premium feature\)_
+  * Add custom styles in the profiles page \(or the edit custom styles button on the styles page\). All custom styles will show in the style selector when custom styles are activated \(can be activated in the top-right icon on the styles page\). 
+* Import styles from BeerXML styles format _\(Premium feature\)_
+
+### Features
+
+* Remembers your search in recipes and batches page when opening/closing a recipe/batch
+* Show cost and price per item on inventory list planning tab of batch
+* Clicking recipes/batches a second time on the side-menu closes the open recipe/batch
+* Modals for adding ingredients / changing profiles are now made bigger for desktop users
+* Added option to select lb w/decimals \(and LB+OZ\) as weight unit
+* You can now show raw values of fermentation chart \(new button above chart\), by default it shows averaged values per hour
+
+### Fixed
+
+* Fixed brew-tracker sound not working on all iOS devices
+* Improved display ramp days in fermentation profile for low resolution screens
+* Properly reset text fields for ingredients when switching between them in inventory view
+* Hide buttons when searching for ingredient in recipe designer
+* Maximum OG for style guideline visual range indicator sometimes out of bounds
+* Mash-tun loss \(unrecoverable\) are now only added to sparge water and not also mash water like before
+* Fixed cooling shrinkage not correctly applied to post-boil volume when calculating potential from extract added to boil \(potential from extract/sugar will now be about 4% higher when added during boil\)
+* Fixed setting 0 for grain absorption and water/grain ratio is now allowed
+* When sharing batch with fermentation chart with multiple series/devices, they will now have separate colors per serie
+* Fermentation chart last value was averaged, could potentially make the last value of the chart not match the status value above the chart. Now the last hour of the chart is never averaged
+
+### Internal changes
+
+* Some internal changes to how/when data is loaded, report if any issues are experienced
+
 ## 1.8.1 - 04.06.2019
 
 ### New

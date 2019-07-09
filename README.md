@@ -71,6 +71,7 @@ You can sign up for a Premium subscription to unlock unlimited number of recipes
 * **Import and export** features
 * **Integrate** with Tilt, iSpindel, Brewpiless, MyBrewbot, Plaato Airlock, SmartPID, Custom Stream and more...
 * Ingredient **cost** tracking
+* Custom style guidelines
 * Ability to restore deleted recipes and batches
 * Add **manual readings** for fermentation chart
 * Access to **experimental features**
