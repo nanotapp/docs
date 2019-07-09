@@ -20,6 +20,7 @@
 * Modals for adding ingredients / changing profiles are now made bigger for desktop users
 * Added option to select lb w/decimals \(and LB+OZ\) as weight unit
 * You can now show raw values of fermentation chart \(new button above chart\), by default it shows averaged values per hour
+* Inventory/cost in planning stage of batch now updates automatically if inventory changes when batch is open \(except if batch status is completed/archived\)
 
 ### Fixed
 
