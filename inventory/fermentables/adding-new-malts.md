@@ -39,6 +39,8 @@ From the Weyermann Colonge malt we have the following numbers:
 
 So what does this mean? We now know that from every unit of Weyermann Colonge malt we will get 0.7721 units of extract \(sugar\) out of it \(77.21%\).
 
+#### [Spreadsheet to help calculate can be found here](https://docs.google.com/spreadsheets/d/1JcAMBRRWAhd9pZi-c7WgXc6l389Dg6dHjsfl9gluFPg).
+
 ## Adding a New Malt to Brewfather
 
 For this example, the Weyermann Colonge malt will be added to the [Brewfather](https://brewfather.app/) database. All that needs to be provided is the coarse grind as is extract. In this example 77.21% is set as Yield, then the Potential SG field is filled in automatically.
