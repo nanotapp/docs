@@ -4,7 +4,7 @@ Boil 3 liters of water with 1kg of sugar to begin with.
   
 Use a hydrometer to water out and creating solutions **1.050**, **1.040**, **1.030**, **1.020**, **1.010** and last clean water **1.000**.  
   
-Configure the iSpindel to report in to Ubidots which gives a straight feedback of the variables the iSpindel is sending, set it to report every 60 seconds or so \(_only for calibration_\). Starting out with reading the angle in SG 1.000 and if needed adjusting the weight to give a start angle of around 25 degrees.  
+Configure the iSpindel to report every 60 seconds in to Brewfather, from the devices page you can then read the current value every minute. Starting out with reading the angle in SG 1.000 and if needed adjusting the weight to give a start angle of around 25 degrees.  
   
 After reading out all angles in the different solutions and recording them. Fill in the values in the calibration spreadsheet for the iSpindel project and it will calculate the formula based on your unit.   
   
