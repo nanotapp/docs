@@ -22,6 +22,7 @@ Brewfather includes
 * Large customizable **ingredients** database
 * **Inventory** stock & **cost** tracking
 * Multiple **style guidelines** \(BJCP, Brewers Association, Norbrygg, SHBF\)
+* Supports custom style guidelines
 * Remote logging from [**Tilt**](integrations/tilt-hydrometer.md), [**iSpindel**](integrations/ispindel/)**,** [**Brewpiless**](integrations/brewpiless.md)**,** [**MyBrewbot**](integrations/mybrewbot.md#what-is-mybrewbot)**,** [**SmartPID**](integrations/smartpid/)**,** [**Plaato Airlock**](integrations/plaato/airlock.md) **and** [**Custom Stream**](integrations/custom-stream.md) ****with [**Webhook**](integrations/webhook.md) support
 * **Print** your recipe or batch to PDF
 * Import and export **BeerXML**
@@ -58,7 +59,7 @@ Any of the tools and calculators can be used for free with no limitations as lon
 
 As a Free user your are limited to a **maximum of 10 recipes/batches**, and no import or export. If you exceed these limitations you are free to delete any of your recipes or batches, or sign up for Brewfather Premium.
 
-If you exceed 10 recipes and/or batches in your free Premium trial, you will not loose any data when the trial runs out, but your recipes and/or batches will become read-only. You are allowed to delete so you go under the limit again. When under the limit, Brewfather will work as normal.
+If you exceed 10 recipes and/or batches in your free Premium trial, you will not lose any data when the trial runs out, but your recipes and/or batches will become read-only. You are allowed to delete so you go under the limit again. When under the limit, Brewfather will work as normal.
 
 ## Brewfather Premium <a id="brewfather-premium"></a>
 
