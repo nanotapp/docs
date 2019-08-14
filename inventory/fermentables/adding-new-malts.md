@@ -51,7 +51,7 @@ The **ppg**s line up with what was calcuated, which is a great way to validate t
 
 ### \(Optional\) How Potential/“Homebrew Units”/PPG is calculated
 
-In Brewfather you don't need to do this conversion or calculation, since you can enter the Yield % directly, but it can be usefull for other use cases. 
+In Brewfather you don't need to do this conversion or calculation, since you can enter the Yield % directly, but it can be useful for other use cases. 
 
 The most common homebrew unit is **ppg** which stands for **p**oints per **p**ound per **g**allon. There’s another unit that metric users can use called the **pkl** which stands for **p**oints per **k**ilogram per **l**itre. It’s possible to actually calculate out how many ppgs or pkls one would get from their malt however there is an easier way to do it. There’s an adjunct that provides 100% extract and is very well documented in homebrewing books; sucrose!
 

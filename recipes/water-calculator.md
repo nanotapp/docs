@@ -34,7 +34,7 @@ If you use any **crystal**, **roasted** or **acidulated malt**, make sure they a
 
 ![](../.gitbook/assets/image%20%2867%29.png)
 
-You can also ignore the grain, making it not count towards the pH calculation. Usefull if you are just steeping that specific grain.
+You can also ignore the grain, making it not count towards the pH calculation. Useful if you are just steeping that specific grain.
 
 ## Water Volumes
 

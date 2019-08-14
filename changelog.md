@@ -386,7 +386,7 @@ Power-ups \(integrations\) are now restricted to Premium users only. The free Pr
 * Refractometer tool: Now remembers calibration factor
 * Settings page: Added reset default data button. This will allow you to reset the pre-included ingredients and profiles. When you click it you will be prompted about what you want to reset, and you have to confirm it
 * Profiles: Added a delete button on the profiles in addition to the hidden delete button when you slide them in the list
-* Inventory: New setting in the settings to allow negative inventory \(disabled by default\). When this is enabled you are allowed to write negative amounts in the inventory, or when checking off ingredients in the inventory they will become negative if you remove more than you have. \(Usefull if you have the ingredients you need to brew, but need to order the dry-hops for example, or you just want to enter negative amounts for things you want to buy\)
+* Inventory: New setting in the settings to allow negative inventory \(disabled by default\). When this is enabled you are allowed to write negative amounts in the inventory, or when checking off ingredients in the inventory they will become negative if you remove more than you have. \(Useful if you have the ingredients you need to brew, but need to order the dry-hops for example, or you just want to enter negative amounts for things you want to buy\)
 
 ### Fixed
 

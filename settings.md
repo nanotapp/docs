@@ -19,7 +19,7 @@ In the settings you can...
 
 #### Reload Application
 
-Reloads the application, usefull if you want to refresh to make sure you got the latest version of the application.
+Reloads the application, useful if you want to refresh to make sure you got the latest version of the application.
 
 #### Offline Support
 
