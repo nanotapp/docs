@@ -16,5 +16,5 @@ When you change a profile \(equipment, mash, fermentation, water\) from the **pr
 
 ### Fixed Final Gravity / Estimated Final Gravity
 
-If your Final Gravity is set to a fixed humber, you then have to click the **Final Gravity** button and then click **Reset** to get an estimated number. This happends if it is imported, or if the final gravity was set manually.
+If your Final Gravity is set to a fixed number, you then have to click the **Final Gravity** button and then click **Reset** to get an estimated number. This happens if it is imported, or if the final gravity was set manually.
 
