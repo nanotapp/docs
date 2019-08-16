@@ -122,7 +122,9 @@ SmartPID can be set up to send the status every X seconds. For best response tim
 ### Recipe upload and process start
 
 {% hint style="warning" %}
-**Important limitations:** SmartPID is limited to a **fixed schema for the mash steps** \(listed below\), some mashing profiles might not translate 100%, you can check the recipe steps sent to the SmartPID by clicking the green **recipe** text in the Send Recipe toggle before you click start.  
+**Important limitations:** Make sure the device is not in status mode, then it will be locked for control.
+
+SmartPID is limited to a **fixed schema for the mash steps** \(listed below\), some mashing profiles might not translate 100%, you can check the recipe steps sent to the SmartPID by clicking the green **recipe** text in the Send Recipe toggle before you click start.  
   
 SmartPID is limited to **max 10 boil addition** **alarms**.
 {% endhint %}
@@ -159,7 +161,9 @@ If you want one to one mapping of the mahing steps to the recipe format of the S
 ### Start fermentation profile from recipe
 
 {% hint style="warning" %}
-**Important limitations**: SmartPID is **limited to 8 fermentation profile steps** where the fist 7 steps have a **maximum duration of 4 days** per step. This might limit the fermentation profile possibilities if you have profiles with many steps. _Step 8 will continue with no maximum duration._ **Brewfather will try to map your profile as best as it can within these limitations**  \(splitting steps with a duration longer than 4 days into multiple steps for the SmartPID profile\). _But you are adviced to double check the profile steps._
+**Important limitations**: Make sure the device is not in status mode, then it will be locked for control.
+
+SmartPID is **limited to 8 fermentation profile steps** where the fist 7 steps have a **maximum duration of 4 days** per step. This might limit the fermentation profile possibilities if you have profiles with many steps. _Step 8 will continue with no maximum duration._ **Brewfather will try to map your profile as best as it can within these limitations**  \(splitting steps with a duration longer than 4 days into multiple steps for the SmartPID profile\). _But you are adviced to double check the profile steps._
 {% endhint %}
 
 1. Go to **Batches page** - **Fermentation** tab
