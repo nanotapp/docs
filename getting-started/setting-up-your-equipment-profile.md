@@ -46,7 +46,7 @@ _Post-Boil Volume in Brewfather reefers to hot end of boil kettle volume, before
 
 **Mash Efficiency:** The efficiency of your mash procedure, up to pre-boil, including sparging. Important factor in calculating your Pre-Boil Gravity.
 
-It is recommended to automatically calculate your mash efficiency by enabling the **Calc mash efficiency** checkbox.
+If you enable "calculate mash efficiency" by enabling the **Calc mash efficiency** checkbox, the mash efficiency will be back-calculated from the brewhouse efficiency based on the equipment profile numbers. If disabled, the brewhouse efficiency will be calculated based on the mash efficiency \(**recommended**\).
 
 ## Advanced
 
