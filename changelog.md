@@ -4,6 +4,42 @@
 
 [Visit the issue tracker for more info](https://gitlab.com/warpkode/public/brewfather/boards).
 
+## 1.10.0 - 30.08.2019
+
+### New public recipe library
+
+Public recipe library where you can search for recipes shared by other Brewfather users. Located as a new page called "Library" in the menu.
+
+To share your recipes in the library there is now a new "padlock" icon in the recipe designer. Clicking this you can toggle the recipe to be publicly available.
+
+All users can view and download recipes. Upload \(and voting\) of recipes are for Premium users only.
+
+Text search can be used to search for all the visible text fields, inlcuding recipe name, style, tags, profile name. More filtering options will come later as the library grows.
+
+#### New public profile creation
+
+Be quick and reserve your brewery profile name today, this is unique and will be used to identify you in future Brewfather community features. 
+
+The first time you try to share a recipe, you will be asked to create a public profile where you upload a brewery avatar, and choose your brewey profile name and so on. You can also initialize the public profile creator from the account page. Only premium users can create a public profile.
+
+### Features
+
+* Many new features related to the public recipe library
+* Label/image upload for recipe
+* Sparge water reminder can now be configured in the equipment profile. _By default the reminder is now off_
+* When choosing recipe style, it will now display a match % in the style selector that compares the vital numbers against the styles
+* Added new fields for manual logging in chart: pH and Pressure
+* New Alpha Acid % scale button on the hop modal, scale to another AA% and keep the same IBU per hop addition
+* "Clear" inventory rather than "delete" inventory item button showing for inventory items, also a confirmation dialogue will show when trying to delete a default inventory item
+* Show Fermenter volume in brew-sheet when using kettle as batch target
+* Updated attenuation on the most popular yeasts manufacturers
+
+### Fixed
+
+* Fix IBU scale button in the recipe designer showing the wrong IBU value in the input in a certain scenario
+* Fixed display of wrong values in the boiloff correction tool
+* Fixed issue where the brew tracker potentially could get stuck on a step if used on a mobile device and was put in sleep mode
+
 ## 1.9.0 - 09.07.2019
 
 ### New premium feature
