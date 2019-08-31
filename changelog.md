@@ -4,7 +4,7 @@
 
 [Visit the issue tracker for more info](https://gitlab.com/warpkode/public/brewfather/boards).
 
-## 1.10.0 - 30.08.2019
+## 1.10.0 - 31.08.2019
 
 ### New public recipe library
 

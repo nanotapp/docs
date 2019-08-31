@@ -22,6 +22,7 @@
   * [Hops](inventory/hops.md)
   * [Miscs](inventory/miscs.md)
   * [Yeasts](inventory/yeasts.md)
+* [Library](library.md)
 * [Profiles](profiles/README.md)
   * [Equipment](profiles/equipment.md)
   * [Mash](profiles/mash.md)
