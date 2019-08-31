@@ -1,5 +1,7 @@
 # Library
 
+![](.gitbook/assets/image%20%2860%29.png)
+
 In the public recipe  you can search for recipes shared by other Brewfather users. Located as a new page called "Library" in the menu.
 
 To share your recipes in the library there is now a new "padlock" icon in the recipe designer. Clicking this you can toggle the recipe to be publicly available.

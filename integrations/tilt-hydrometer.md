@@ -21,7 +21,7 @@ Click the **ATTACH** button to make it log to this batch. Wait 15-30 minutes for
 
 ### Tilt 2 Phone App Setup
 
-![](../.gitbook/assets/image%20%2895%29.png)
+![](../.gitbook/assets/image%20%2896%29.png)
 
 1. Enable "use custom cloud url" in the Settings
 2. Copy cloud url from settings in Brewfather
@@ -67,7 +67,7 @@ _Want your shop listed here? Get in_ [_touch_](../more/contact.md)_._
 
 ### International
 
-![](../.gitbook/assets/image%20%2879%29.png)
+![](../.gitbook/assets/image%20%2880%29.png)
 
 Buy directly from Tilt: [https://tilthydrometer.com/](https://tilthydrometer.com/)
 
@@ -77,15 +77,15 @@ Buy directly from Tilt: [https://tilthydrometer.com/](https://tilthydrometer.com
 
 Buy from [Brewshop.no](https://brewshop.no/produkt/utstyr/gjaering/utstyr-til-gjaering/tilt-hydrometer-termometer-ny-versjon)
 
-![](../.gitbook/assets/image%20%2892%29.png)
+![](../.gitbook/assets/image%20%2893%29.png)
 
 Buy from [Petit-agentur.no](https://petit-agentur.no/search_result?keywords=tilt+hydrometer)
 
-![](../.gitbook/assets/image%20%2877%29.png)
+![](../.gitbook/assets/image%20%2878%29.png)
 
 Buy from [Vestbrygg.no](https://www.vestbrygg.no/home/SearchForm?q=tilt+hydrometer)
 
-![](../.gitbook/assets/image%20%2871%29.png)
+![](../.gitbook/assets/image%20%2872%29.png)
 
 Buy from [Strømmen Hjemmebrygg](https://homebrew.no/)
 

@@ -98,5 +98,5 @@ Brewfather**©** copyright Warpkode AS.
 The documentation for Brewfather is currently not complete. It is currently in the process of being written.
 {% endhint %}
 
-![Monitor your brews with Brewfather&apos;s integrations](.gitbook/assets/image%20%2884%29.png)
+![Monitor your brews with Brewfather&apos;s integrations](.gitbook/assets/image%20%2885%29.png)
 

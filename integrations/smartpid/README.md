@@ -69,7 +69,7 @@ There is a know issue upgrading firmware on macOS, try a Windows computer if you
 
 ## Configure SmartPID
 
-![Open the Devices page in the new menu option that appears](../../.gitbook/assets/image%20%2873%29.png)
+![Open the Devices page in the new menu option that appears](../../.gitbook/assets/image%20%2874%29.png)
 
 ## Register/Login to SmartPID account
 
@@ -138,7 +138,7 @@ SmartPID is limited to **max 10 boil addition** **alarms**.
 Recipe is saved always in **position 1** in the controller and will override any recipe entered manually in that position
 {% endhint %}
 
-![Start a recipe from the batch page](../../.gitbook/assets/image%20%2887%29.png)
+![Start a recipe from the batch page](../../.gitbook/assets/image%20%2888%29.png)
 
 ![Start Homebrewing SmartPID](../../.gitbook/assets/image%20%2823%29.png)
 
@@ -150,7 +150,7 @@ If you want one to one mapping of the mahing steps to the recipe format of the S
 
 1. Select profile in recipe
 
-![](../../.gitbook/assets/image%20%2869%29.png)
+![](../../.gitbook/assets/image%20%2870%29.png)
 
 2. Alter the profile by adjusting time and temperature on the steps with time greater than 0. Leave the rest as is.
 
@@ -177,7 +177,7 @@ Optionally you can also start a fermentation profile or standard/manual mode fro
 Profile is saved always in **position 1** in the controller and will override any profile entered manually in that position
 {% endhint %}
 
-![Start fermentation profile from Fermentation Controller in fermentation tab](../../.gitbook/assets/image%20%2888%29.png)
+![Start fermentation profile from Fermentation Controller in fermentation tab](../../.gitbook/assets/image%20%2889%29.png)
 
-![When starting thermostat from the devices page you can select standard or advanced mode](../../.gitbook/assets/image%20%2866%29.png)
+![When starting thermostat from the devices page you can select standard or advanced mode](../../.gitbook/assets/image%20%2867%29.png)
 
