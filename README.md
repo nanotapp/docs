@@ -16,6 +16,7 @@ Brewfather includes
 * **Offline support**, auto saving and automatic synchronisation
 * Fully-featured and easy to use **recipe** designer
 * Complete **batch** tracking - log every step of your brew
+* Recipe library with hundreds of **quality recipes** available for you
 * **Brew timer** with alarms and notifications for your brewday!
 * **Profiles** for your equipment, mash schedule, fermentation steps, and water
 * Highly **customizable** equipment profile to suit any brewing system
@@ -71,6 +72,7 @@ You can sign up for a Premium subscription to unlock unlimited number of recipes
 * **Unlimited** number of batches
 * **Import and export** features
 * **Integrate** with Tilt, iSpindel, Brewpiless, MyBrewbot, Plaato Airlock, SmartPID, Custom Stream and more...
+* Create your public profile and add recipes to the recipe library
 * Ingredient **cost** tracking
 * Custom style guidelines
 * Ability to restore deleted recipes and batches
