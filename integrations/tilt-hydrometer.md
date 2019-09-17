@@ -53,6 +53,8 @@ Enter a comment and click enter, to make the TiltPi send a logging request right
 
 If you have issues with getting the TiltPi to log, try restarting it by removing the power and putting it back in, then start from 1.
 
+\(optional\) use TiltBridge instead of TiltPi: [https://github.com/omgitsads/tiltbridge/tree/brewfather](https://github.com/omgitsads/tiltbridge/tree/brewfather)
+
 ### Attach to Batch
 
 After the Tilt has done its first logging to Brewfather, it will appear in the device list located in your Batch &gt; Fermentation &gt; Readings &gt; **Devices**. Click on the Devices button and attatch your Tilt to the batch. The next time your Tilt logs, it will show up in your batch!
