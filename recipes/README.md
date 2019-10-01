@@ -1,7 +1,6 @@
 # Recipes
 
 ## Search recipes
-(../.gitbook/assets/image (99).png)
 
 ## Open recipe
 
