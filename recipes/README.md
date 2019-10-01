@@ -6,6 +6,8 @@ Click on "Recipes" in the left menu, start type in the search windows and start 
 
 (../.gitbook/assets/search_recipes.png)
 
+(../.gitbook/assets/image.png)
+
 
 ## Open recipe
 
